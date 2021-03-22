@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180519/buj/kisspng-sony-channel-television-channel-sony-entertainment-5affefd0e27f71.8085737615267225129278.jpg" group-title="Séries",Sony
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sony_06349be7_060552ebd658dffa0a8cac2fd006e15a14bd18b7/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo0MzE6YzdmYzpiNDg4OjM0NTQ6NjAwOTozMDk2OjNlOGIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc2NTA5O30%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71824.ts
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180610/gfl/kisspng-cartoon-network-studios-logo-television-channel-cartoon-network-match-land-5b1d8f3cdc6083.3526099115286638689027.jpg" group-title="Infantil",Cartoon Network
 http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
@@ -9,7 +9,7 @@ http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
 http://srvx.io:80/live/7885037935/fireurl.co/72146.ts
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Documentários",Discovery Channel
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverychannel_af3e1334_0e0dbe87f064391d7996312f9dbf4b499c2228b2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODgxODM7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71862.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Infantil",Disney XD
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyxd.m3u8?mu3zAQc9HC3GbwJq=lQ2Kkfrcr7yygD4Kr08HOA&3U1G7qaTxrPbalZnEx=1616437860
@@ -19,7 +19,7 @@ https://extedge.eu-central-1.edge.mycdn.live/mylive/nicksd/2021/03/22/20/30/12-0
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=HNSINPqYw2gFRQsEHJzoIQ&3U1G7qaTxrPbalZnEx=1616438057
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-0KzNXXfAlIU/VdTOd5_oMAI/AAAAAAAAlCw/Qedf2_WTvuM/s1600/axn-emocao-na-claro-tv.jpg" group-title="Séries",AXN
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/axn_cb7a1d77_4a17288be3fcdb023b2e7e8654fd4356dfe9a574/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjU3LjI0NS4yMDkiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc5NDk1O30%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71781.ts
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Documentários",Discovery Science
 http://srvx.io:80/live/7885037935/fireurl.co/71875.ts
@@ -56,22 +56,22 @@ https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/megapix_a6f16ab4_c183e1f7f3731
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/paramountchannel_efa260ad_679c4811725c16b18ef31aca6dc61742a00716a6/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo0MzE6YzdmYzpiNDg4OjM0NTQ6NjAwOTozMDk2OjNlOGIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc4NTIyO30%3D
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="Filmes",HBO
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hbo_63266754_4695f5dcd32c0579e3d68dd05135d60ca0f93c03/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjU3LjI0NS4yMDkiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc4NjgyO30%3D
+http://srvx.io:80/live/7885037935/fireurl.co/72118.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/200px-HBO_Family_logo.png" group-title="Filmes",HBO Family
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_7c935a9b31807aebbdaa23d3ef61e02fb5ac6960/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODg2NDE7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbomundib.png" group-title="Filmes",HBO Mundi
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/hbomundi_9f682df2_a4d368c702890402f79ada84cb4d07bb588d2666/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjU3LjI0NS4yMDkiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc4ODQyO30%3D
+http://srvx.io:80/live/7885037935/fireurl.co/72121.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Filmes",HBO Plus
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hboplus_39dfc9ff_4b8c3c6a506b3ca6831b47670d809e3231da5e5a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjU3LjI0NS4yMDkiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc4ODk1O30%3D
+http://srvx.io:80/live/7885037935/fireurl.co/72125.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbopopb.png" group-title="Filmes",HBO Pop
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/hboxtreme_9c676e00_084a26cc2bf29d5a60f910db2cdc12ea4b8dfc47/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo0MzE6YzdmYzpiNDg4OjM0NTQ6NjAwOTozMDk2OjNlOGIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc5MDI1O30%3D
+http://srvx.io:80/live/7885037935/fireurl.co/72129.ts
 
 #EXTINF:-1 tvg-logo="https://img.comunidades.net/rep/replayoutv/co_hbo_signature_hd_m.png" group-title="Filmes",HBO Signature
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbosignature_fa1a6512_b7e1c350457a715de39b5a6883f2e8d84a46162d/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo0MzE6YzdmYzpiNDg4OjM0NTQ6NjAwOTozMDk2OjNlOGIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc5MTA3O30%3D
+http://srvx.io:80/live/7885037935/fireurl.co/72134.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title="Filmes",Space
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/space_e6c3dd63_2073d608a0451a40d627c737e6d1260d94645b32/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjU3LjI0NS4yMDkiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc5MjU4O30%3D
@@ -86,22 +86,22 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/tntseries_3bb18d9a_fa519639e37d
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=w8ya6i5pwuQbN2q4Jb9SvQ&3U1G7qaTxrPbalZnEx=1616434737
 
 #EXTINF:-1 tvg-logo="https://c9.quickcachr.fotos.sapo.pt/i/Be9113a65/21184122_lzcer.png" group-title="Infantil",Disney Channel
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/disneychannel_a9334987_1844b0c86ba65d10574546aef80da9ce03efbbe3/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODkyMjQ7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/boomerangb.png" group-title="Infantil", Boomerang
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=lnyNordTeL8L2v9Mx8X_Iw&3U1G7qaTxrPbalZnEx=1616378758
+http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180607/px/kisspng-national-geographic-television-channel-logo-5b19906362b300.1747935615284020194043.jpg" group-title="Documentários",National Geographic
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nationalgeographic_2e01e174_85a4c0da64bedf31c459db366c4abcb22fd2ca94/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo0MzE6YzdmYzpiNDg4OjM0NTQ6NjAwOTozMDk2OjNlOGIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTgwMTM1O30%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentários",H2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history2.m3u8?mu3zAQc9HC3GbwJq=ZWYr-0b4-ur6qMzNnezwJw&3U1G7qaTxrPbalZnEx=1616392226
+http://srvx.io:80/live/7885037935/fireurl.co/72106.ts
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180809/vji/kisspng-logo-animal-planet-hd-television-channel-vtv-uruguay-en-vivo-online-gratis-en-hd-ourclipa-5b6c4115bc0284.1802151315338212057701.jpg" group-title="Documentários",Animal Planet
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/animalplanet_e114c448_a2f49ae7ee065eef6129ac9dcfe13ca6da25b539/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODE1NzQ7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e9/21/eb/e921eb21bf76235afc6eaf505dd1172f.png" group-title="Documentários",Discovery Turbo
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryturbo_ca3512f4_9ee5bd7f09396f74e0f23e449b68b04b40ef21bc/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODE2NDc7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71883.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/WarnerChannel2012.svg/revision/latest/scale-to-width-down/340?cb=20170113021045" group-title="Séries",Warner Tv
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/warnerchannel_0a57cb53_a8d20541e41242e5924e92d5d2bb420f10725f61/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODE3NzM7fQ%3D%3D
@@ -116,19 +116,19 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tbs_91eb375e_5bbfcc2871a7
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tcm_13b72490_28b442f5d035695b18dd8ffaafb00847a8049fbd/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODIxODA7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://images.uncyc.org/pt/a/ae/Br_amc-brasil_m.png" group-title="Filmes",AMC
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/amcbrasil_b7f5113f_d83b303df3a8ccadc556ffdc150562ca06480970/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODIzMDQ7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71768.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="Séries",A&E
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/aie.m3u8?mu3zAQc9HC3GbwJq=fXxXfW-D7UFIyl8ZcwHk4A&3U1G7qaTxrPbalZnEx=1616439812
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-590x219.png" group-title="Esportes",ESPN
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/espn_887309d0_d6437614a695b8256c4cdbca53c0d0e8ededa2fc/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODI4NDE7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71919.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espnbrasil_2a459380_252fc7dc671c7f5a50e1975d47ad5354243b00f0/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODI5NzA7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71911.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png" group-title="Esportes",ESPN 2
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71907.ts
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9dMEH-pU25E/U3eKe1UeOtI/AAAAAAAAies/g2euZKrEXXA/s1600/Canal_Viva_logo.png" group-title="Variedades",Viva
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
@@ -137,23 +137,22 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180606/zpc/kisspng-comedy-central-logo-tv-television-channel-comedy-gold-5b17a6084a1069.2660277015282764883034.jpg" group-title="Variedades",Comedy Central
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71847.ts
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/02/fox-sports-16x9.png" group-title="Esportes",Fox Sports
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71957.ts
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-pLC1ogdzE0Y/Urgu07-iXII/AAAAAAAAgWU/jU8ju6jC_bQ/s1600/foxsports2.png" group-title="Esportes",Fox Sports 2
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/71952.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Esportes",SporTv 2
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
+http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",SporTv 3
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
+http://srvx.io:80/live/7885037935/fireurl.co/72327.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes",Cinemax
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="Filmes",HBO Xtreme
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn2_6c1e671f_874a5b4b731da121a37325b47bd5efcd8d0769a2/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDo0MzE6YzdmYzpiNDg4OjdkOTY6MWVlMjo4Y2E6ZDcyZiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTU1ODMwNzU7fQ%3D%3D
-
+http://srvx.io:80/live/7885037935/fireurl.co/72138.ts
