@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180519/buj/kisspng-sony-channel-television-channel-sony-entertainment-5affefd0e27f71.8085737615267225129278.jpg" group-title="Séries",Sony
 http://srvx.io:80/live/7885037935/fireurl.co/71824.ts
@@ -8,7 +7,6 @@ http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180825/zgv/kisspng-history-television-channel-logo-a-e-networks-history-reveals-dynamic-summer-original-programmin-5b81f1ad042027.0988526315352426690169.jpg" group-title="Documentários",History
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=ViQARB7-Q2TSNzn7-FbUaQ&3U1G7qaTxrPbalZnEx=1616553105
-
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Documentários",Discovery Channel
 http://srvx.io:80/live/7885037935/fireurl.co/71862.ts
@@ -49,7 +47,6 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinepremium_a929eb33_5e6
 
 #EXTINF:-1 tvg-logo="https://bbb21aovivo.com/logo/assistir-canal-telecine-touch-ao-vivo-canal-telecine-touch-online.png" group-title="Filmes",Telecine Touch
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/telecinetouch_74cbd2c2_68975f53eea26adcc0131aca9c52db15018d16a0/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo0MzE6YzdmYzpiNDg4OjM0NTQ6NjAwOTozMDk2OjNlOGIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc4MzcyO30%3D
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Megapix.png" group-title="Filmes",Megapix
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/megapix_a6f16ab4_c183e1f7f37310e0c5c14f6682b3226c52319d1d/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo0MzE6YzdmYzpiNDg4OjM0NTQ6NjAwOTozMDk2OjNlOGIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS44MiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE1NTc4NDQyO30%3D
