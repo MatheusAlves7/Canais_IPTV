@@ -119,6 +119,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tcm_13b72490_28b442f5d035
 http://srvx.io:80/live/7885037935/fireurl.co/71768.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="Séries",A&E
+https://cdn.esporteone.com/AEESD/video.m3u8?md5=MsjcfMxBV8v4kmuH4oPeyA&expires=1616725056
 http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-590x219.png" group-title="Esportes",ESPN
