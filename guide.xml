@@ -9,13 +9,10 @@
     <icon src="https://static.guiadetv.com/channel/VgNqPoxMpsKzS0txTotPMvs0vAPiZRmp3uBHQk75.png" />
     <url>http://www.guiadatv.com</url>
   </channel>
-  <channel id="Cinemax HD">
-    <display-name lang="pt">Cinemax HD</display-name>
+  <channel id="CINEMAX HD">
+    <display-name lang="pt">CINEMAX HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20241110180100 -0300" stop="20241110185300 -0300" channel="Animal Planet">
-    <title lang="pt">Piscinas Incríveis : T2 EP9 - O Caminho do Rio Artificial</title>
-  </programme>
   <programme start="20241110185300 -0300" stop="20241110194500 -0300" channel="Animal Planet">
     <title lang="pt">Perdido na África do Sul</title>
   </programme>
@@ -34,9 +31,6 @@
   <programme start="20241110232100 -0300" stop="20241111001600 -0300" channel="Animal Planet">
     <title lang="pt">Veterinários do Texas : T3 EP7 - Voe, Thang, Voe</title>
   </programme>
-  <programme start="20241110171800 -0300" stop="20241110185700 -0300" channel="Cinemax">
-    <title lang="pt">Fogo Contra Fogo</title>
-  </programme>
   <programme start="20241110185700 -0300" stop="20241110203100 -0300" channel="Cinemax">
     <title lang="pt">Plano de Fuga</title>
   </programme>
@@ -46,16 +40,13 @@
   <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax">
     <title lang="pt">Diamante de Sangue</title>
   </programme>
-  <programme start="20241110172100 -0300" stop="20241110185800 -0300" channel="Cinemax HD">
-    <title lang="pt">Fogo Contra Fogo</title>
-  </programme>
-  <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="Cinemax HD">
+  <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="CINEMAX HD">
     <title lang="pt">Plano de Fuga</title>
   </programme>
-  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax HD">
+  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="CINEMAX HD">
     <title lang="pt">Magnatas do Crime</title>
   </programme>
-  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax HD">
+  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="CINEMAX HD">
     <title lang="pt">Diamante de Sangue</title>
   </programme>
 </tv>
