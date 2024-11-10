@@ -1,9 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cinemax 4K">
+    <display-name lang="pt">Cinemax 4K</display-name>
+    <icon src="https://static.guiadetv.com/channel/VgNqPoxMpsKzS0txTotPMvs0vAPiZRmp3uBHQk75.png" />
+    <url>http://www.guiadatv.com</url>
+  </channel>
   <channel id="Cinemax HD">
     <display-name lang="pt">Cinemax HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <programme start="20241110185700 -0300" stop="20241110203100 -0300" channel="Cinemax 4K">
+    <title lang="pt">Plano de Fuga</title>
+  </programme>
+  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Magnatas do Crime</title>
+  </programme>
+  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax 4K">
+    <title lang="pt">Diamante de Sangue</title>
+  </programme>
   <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="Cinemax HD">
     <title lang="pt">Plano de Fuga</title>
   </programme>
