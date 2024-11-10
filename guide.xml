@@ -4,18 +4,10 @@
     <display-name lang="pt">Animal Planet</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20241110131300 -0300" stop="20241110141200 -0300" channel="Animal Planet">
-    <title lang="pt">Tubarões - De Volta às Zonas Perigosas</title>
-  </programme>
-  <programme start="20241110141200 -0300" stop="20241110150800 -0300" channel="Animal Planet">
-    <title lang="pt">Pesca Mortal : T10 EP10 - A Filha do Pescador</title>
-  </programme>
-  <programme start="20241110150800 -0300" stop="20241110160700 -0300" channel="Animal Planet">
-    <title lang="pt">Pesca Mortal : T10 EP11 - Ambição Loira</title>
-  </programme>
-  <programme start="20241110160700 -0300" stop="20241110170400 -0300" channel="Animal Planet">
-    <title lang="pt">Perdido na Itália : T11 EP2 - Encontrando um Velho Amigo</title>
-  </programme>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20241110170400 -0300" stop="20241110180100 -0300" channel="Animal Planet">
     <title lang="pt">Perdido na Itália : T11 EP3 - Circo</title>
   </programme>
@@ -39,5 +31,17 @@
   </programme>
   <programme start="20241110232100 -0300" stop="20241111001600 -0300" channel="Animal Planet">
     <title lang="pt">Veterinários do Texas : T3 EP7 - Voe, Thang, Voe</title>
+  </programme>
+  <programme start="20241110172100 -0300" stop="20241110185800 -0300" channel="Cinemax">
+    <title lang="pt">Fogo Contra Fogo</title>
+  </programme>
+  <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="Cinemax">
+    <title lang="pt">Plano de Fuga</title>
+  </programme>
+  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax">
+    <title lang="pt">Magnatas do Crime</title>
+  </programme>
+  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax">
+    <title lang="pt">Diamante de Sangue</title>
   </programme>
 </tv>
