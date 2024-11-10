@@ -9,8 +9,8 @@
     <icon src="https://static.guiadetv.com/channel/VgNqPoxMpsKzS0txTotPMvs0vAPiZRmp3uBHQk75.png" />
     <url>http://www.guiadatv.com</url>
   </channel>
-  <channel id="CINEMAX HD">
-    <display-name lang="pt">CINEMAX HD</display-name>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <programme start="20241110185300 -0300" stop="20241110194500 -0300" channel="Animal Planet">
@@ -40,13 +40,13 @@
   <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax">
     <title lang="pt">Diamante de Sangue</title>
   </programme>
-  <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="CINEMAX HD">
+  <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="Cinemax HD">
     <title lang="pt">Plano de Fuga</title>
   </programme>
-  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="CINEMAX HD">
+  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax HD">
     <title lang="pt">Magnatas do Crime</title>
   </programme>
-  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="CINEMAX HD">
+  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax HD">
     <title lang="pt">Diamante de Sangue</title>
   </programme>
 </tv>
