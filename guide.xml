@@ -1,50 +1,50 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Animal Planet">
-    <display-name lang="pt">Animal Planet</display-name>
+  <channel id="ANIMAL PLANET 4K">
+    <display-name lang="pt">ANIMAL PLANET 4K</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="pt">Discovery Channel</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20241110121200 -0300" stop="20241110131300 -0300" channel="Animal Planet">
+  <programme start="20241110121200 -0300" stop="20241110131300 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Patrulheiros da Natureza : T5 EP5 - Coruja ou Galinha?</title>
   </programme>
-  <programme start="20241110131300 -0300" stop="20241110141200 -0300" channel="Animal Planet">
+  <programme start="20241110131300 -0300" stop="20241110141200 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Tubarões - De Volta às Zonas Perigosas</title>
   </programme>
-  <programme start="20241110141200 -0300" stop="20241110150800 -0300" channel="Animal Planet">
+  <programme start="20241110141200 -0300" stop="20241110150800 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Pesca Mortal : T10 EP10 - A Filha do Pescador</title>
   </programme>
-  <programme start="20241110150800 -0300" stop="20241110160700 -0300" channel="Animal Planet">
+  <programme start="20241110150800 -0300" stop="20241110160700 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Pesca Mortal : T10 EP11 - Ambição Loira</title>
   </programme>
-  <programme start="20241110160700 -0300" stop="20241110170400 -0300" channel="Animal Planet">
+  <programme start="20241110160700 -0300" stop="20241110170400 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Perdido na Itália : T11 EP2 - Encontrando um Velho Amigo</title>
   </programme>
-  <programme start="20241110170400 -0300" stop="20241110180100 -0300" channel="Animal Planet">
+  <programme start="20241110170400 -0300" stop="20241110180100 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Perdido na Itália : T11 EP3 - Circo</title>
   </programme>
-  <programme start="20241110180100 -0300" stop="20241110185300 -0300" channel="Animal Planet">
+  <programme start="20241110180100 -0300" stop="20241110185300 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Piscinas Incríveis : T2 EP9 - O Caminho do Rio Artificial</title>
   </programme>
-  <programme start="20241110185300 -0300" stop="20241110194500 -0300" channel="Animal Planet">
+  <programme start="20241110185300 -0300" stop="20241110194500 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Perdido na África do Sul</title>
   </programme>
-  <programme start="20241110194500 -0300" stop="20241110203700 -0300" channel="Animal Planet">
+  <programme start="20241110194500 -0300" stop="20241110203700 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Caçadores de Pítons : T1 EP2 - Terror Noturno</title>
   </programme>
-  <programme start="20241110203700 -0300" stop="20241110213100 -0300" channel="Animal Planet">
+  <programme start="20241110203700 -0300" stop="20241110213100 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Isca Humana : T1 EP3 - Ursos-polares</title>
   </programme>
-  <programme start="20241110213100 -0300" stop="20241110222600 -0300" channel="Animal Planet">
+  <programme start="20241110213100 -0300" stop="20241110222600 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Veterinários do Texas : T3 EP5 - O Aquário do Dr. Blue</title>
   </programme>
-  <programme start="20241110222600 -0300" stop="20241110232100 -0300" channel="Animal Planet">
+  <programme start="20241110222600 -0300" stop="20241110232100 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Veterinários do Texas : T3 EP6 - A Pescaria</title>
   </programme>
-  <programme start="20241110232100 -0300" stop="20241111001600 -0300" channel="Animal Planet">
+  <programme start="20241110232100 -0300" stop="20241111001600 -0300" channel="ANIMAL PLANET 4K">
     <title lang="pt">Veterinários do Texas : T3 EP7 - Voe, Thang, Voe</title>
   </programme>
   <programme start="20241110123500 -0300" stop="20241110133100 -0300" channel="Discovery Channel">
