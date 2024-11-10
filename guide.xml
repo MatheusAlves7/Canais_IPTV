@@ -8,6 +8,10 @@
     <display-name lang="pt">Cinemax</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="Cinemax 4K">
+    <display-name lang="pt">Cinemax 4K</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20241110170400 -0300" stop="20241110180100 -0300" channel="Animal Planet">
     <title lang="pt">Perdido na Itália : T11 EP3 - Circo</title>
   </programme>
@@ -42,6 +46,18 @@
     <title lang="pt">Magnatas do Crime</title>
   </programme>
   <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax">
+    <title lang="pt">Diamante de Sangue</title>
+  </programme>
+  <programme start="20241110172100 -0300" stop="20241110185800 -0300" channel="Cinemax 4K">
+    <title lang="pt">Fogo Contra Fogo</title>
+  </programme>
+  <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="Cinemax 4K">
+    <title lang="pt">Plano de Fuga</title>
+  </programme>
+  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Magnatas do Crime</title>
+  </programme>
+  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax 4K">
     <title lang="pt">Diamante de Sangue</title>
   </programme>
 </tv>
