@@ -10,12 +10,8 @@
   </channel>
   <channel id="Cinemax HD">
     <display-name lang="pt">Cinemax HD</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0203.jpg" />
     <url>http://www.tvinside.com.br</url>
   </channel>
-  <programme start="20241110170400 -0300" stop="20241110180100 -0300" channel="Animal Planet">
-    <title lang="pt">Perdido na Itália : T11 EP3 - Circo</title>
-  </programme>
   <programme start="20241110180100 -0300" stop="20241110185300 -0300" channel="Animal Planet">
     <title lang="pt">Piscinas Incríveis : T2 EP9 - O Caminho do Rio Artificial</title>
   </programme>
@@ -48,41 +44,5 @@
   </programme>
   <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax 4K">
     <title lang="pt">Diamante de Sangue</title>
-  </programme>
-  <programme start="20241110060000 -0300" stop="20241110075600 -0300" channel="Cinemax HD">
-    <title lang="pt">Sem Limites</title>
-  </programme>
-  <programme start="20241110075600 -0300" stop="20241110094500 -0300" channel="Cinemax HD">
-    <title lang="pt">Caça aos Gângsteres</title>
-  </programme>
-  <programme start="20241110094500 -0300" stop="20241110112400 -0300" channel="Cinemax HD">
-    <title lang="pt">Fogo Contra Fogo</title>
-  </programme>
-  <programme start="20241110112400 -0300" stop="20241110125800 -0300" channel="Cinemax HD">
-    <title lang="pt">Plano de Fuga</title>
-  </programme>
-  <programme start="20241110125800 -0300" stop="20241110145500 -0300" channel="Cinemax HD">
-    <title lang="pt">Magnatas do Crime</title>
-  </programme>
-  <programme start="20241110145500 -0300" stop="20241110171800 -0300" channel="Cinemax HD">
-    <title lang="pt">DIAMANTE DE SANGUE</title>
-  </programme>
-  <programme start="20241110171800 -0300" stop="20241110185700 -0300" channel="Cinemax HD">
-    <title lang="pt">Fogo Contra Fogo</title>
-  </programme>
-  <programme start="20241110185700 -0300" stop="20241110203100 -0300" channel="Cinemax HD">
-    <title lang="pt">Plano de Fuga</title>
-  </programme>
-  <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax HD">
-    <title lang="pt">Magnatas do Crime</title>
-  </programme>
-  <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax HD">
-    <title lang="pt">DIAMANTE DE SANGUE</title>
-  </programme>
-  <programme start="20241111005400 -0300" stop="20241111023700 -0300" channel="Cinemax HD">
-    <title lang="pt">Sem Limites</title>
-  </programme>
-  <programme start="20241111023700 -0300" stop="20241111042500 -0300" channel="Cinemax HD">
-    <title lang="pt">Caça aos Gângsteres</title>
   </programme>
 </tv>
