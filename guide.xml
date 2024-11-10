@@ -1,148 +1,80 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <display-name lang="en">PBS Kids (WBRA-TV3) Roanoke, VA</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s101364_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20241109050000 -0300" stop="20241109053000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Lyla in the Loop</title>
-    <desc lang="en">Lyla and Luke create and act out variations on a fairy tale; Lyla, Louis and Stu track down a lost package.(n)</desc>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20241110121200 -0300" stop="20241110131300 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza : T5 EP5 - Coruja ou Galinha?</title>
   </programme>
-  <programme start="20241109053000 -0300" stop="20241109060000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Nature Cat</title>
-    <desc lang="en">Nature Cat and friends want to see the Colossal Cat Monument but have to cross the Great Salt Lake to get there.(n)</desc>
+  <programme start="20241110131300 -0300" stop="20241110141200 -0300" channel="Animal Planet">
+    <title lang="pt">Tubarões - De Volta às Zonas Perigosas</title>
   </programme>
-  <programme start="20241109060000 -0300" stop="20241109063000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Molly of Denali</title>
-    <desc lang="en">Molly, Trini and Vera are excited to plant the community garden; Molly, Tooey and Trini discover why Grandpa Nat doesn't celebrate Thanksgiving.(n)</desc>
+  <programme start="20241110141200 -0300" stop="20241110150800 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal : T10 EP10 - A Filha do Pescador</title>
   </programme>
-  <programme start="20241109063000 -0300" stop="20241109070000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Hero Elementary</title>
-    <desc lang="en">AJ's shoe-tying car gets out of control, tying Citytown into knots; the crew tries to determine why the ice cream in Stevie Heat's ice cream cart melted.(n)</desc>
+  <programme start="20241110150800 -0300" stop="20241110160700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal : T10 EP11 - Ambição Loira</title>
   </programme>
-  <programme start="20241109070000 -0300" stop="20241109073000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Cyberchase</title>
-    <desc lang="en">The team creates a monetary system in order to rebuild their cybercraft and rescue Dr. Marbles.(n)</desc>
+  <programme start="20241110160700 -0300" stop="20241110170400 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Itália : T11 EP2 - Encontrando um Velho Amigo</title>
   </programme>
-  <programme start="20241109073000 -0300" stop="20241109080000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Let's Go Luna!</title>
-    <desc lang="en">Carmen finds a mariachi band to fill in when the Circo orchestra gets the hiccups; Leo, Carmen and Andy help return a lost cocoa bean.(n)</desc>
+  <programme start="20241110170400 -0300" stop="20241110180100 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Itália : T11 EP3 - Circo</title>
   </programme>
-  <programme start="20241109080000 -0300" stop="20241109083000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">The Cat in the Hat Knows a Lot About That!</title>
-    <desc lang="en">The kids want to stay outside playing but it's cold; Nick and Sally learn about the heart.(n)</desc>
+  <programme start="20241110180100 -0300" stop="20241110185300 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis : T2 EP9 - O Caminho do Rio Artificial</title>
   </programme>
-  <programme start="20241109083000 -0300" stop="20241109090000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Dinosaur Train</title>
-    <desc lang="en">Apollo Apatosaurus is a long-necked, long-tailed dinosaur who likes adventure; the kids make nature art on the beach.(n)</desc>
+  <programme start="20241110185300 -0300" stop="20241110194500 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África do Sul</title>
   </programme>
-  <programme start="20241109090000 -0300" stop="20241109093000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Pinkalicious &amp; Peterrific</title>
-    <desc lang="en">While camping, Daddy tells the story of Pinkfoot -- a creature with seven toes on her giant feet; Pinkalicious and Peter try to cheer up a mossling named Flossie.(n)</desc>
+  <programme start="20241110194500 -0300" stop="20241110203700 -0300" channel="Animal Planet">
+    <title lang="pt">Caçadores de Pítons : T1 EP2 - Terror Noturno</title>
   </programme>
-  <programme start="20241109093000 -0300" stop="20241109100000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Peg + Cat</title>
-    <desc lang="en">George Washington Carver will have a total of 100 peanut-based inventions; Peg and Cat summon Robin Hood to their neighborhood.(n)</desc>
+  <programme start="20241110203700 -0300" stop="20241110213100 -0300" channel="Animal Planet">
+    <title lang="pt">Isca Humana : T1 EP3 - Ursos-polares</title>
   </programme>
-  <programme start="20241109100000 -0300" stop="20241109103000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Sesame Street</title>
-    <desc lang="en">Tamir leaves for robotics camp; he needs to figure out how to keep the garden watered while he is away; with help from his friends, Tamir makes a drip irrigation system so that the community garden can get plenty of water.(n)</desc>
+  <programme start="20241110213100 -0300" stop="20241110222600 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas : T3 EP5 - O Aquário do Dr. Blue</title>
   </programme>
-  <programme start="20241109103000 -0300" stop="20241109110000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Milo</title>
-    <desc lang="en">Milo, Lofty and Lark are very excited when footballer Charlie Cheetah needs their kit cleaning for the cup final.(n)</desc>
+  <programme start="20241110222600 -0300" stop="20241110232100 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas : T3 EP6 - A Pescaria</title>
   </programme>
-  <programme start="20241109110000 -0300" stop="20241109113000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Work It Out Wombats!</title>
-    <desc lang="en">Zadie and Malik retrace their steps to locate Zeke's beloved stuffy Snout; JunJun's song helps Zadie fix Mr. E's shell garden.(n)</desc>
+  <programme start="20241110232100 -0300" stop="20241111001600 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas : T3 EP7 - Voe, Thang, Voe</title>
   </programme>
-  <programme start="20241109113000 -0300" stop="20241109120000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Work It Out Wombats!</title>
-    <desc lang="en">The Wombats lose Snout while helping Mr. E wrap boxes; Snout sends a postcard to Zeke.(n)</desc>
+  <programme start="20241110123500 -0300" stop="20241110133100 -0300" channel="Discovery Channel">
+    <title lang="pt">Ed Stafford - Desafio Mortal : T1 EP1 - Madagascar</title>
   </programme>
-  <programme start="20241109120000 -0300" stop="20241109123000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Daniel Tiger's Neighborhood</title>
-    <desc lang="en">Daniel and his classmates choose a class pet; the kids get to vote on a new piece of playground equipment.(n)</desc>
+  <programme start="20241110133100 -0300" stop="20241110142700 -0300" channel="Discovery Channel">
+    <title lang="pt">Ed Stafford - Desafio Mortal : T1 EP2 - Bulgária</title>
   </programme>
-  <programme start="20241109123000 -0300" stop="20241109130000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Daniel Tiger's Neighborhood</title>
-    <desc lang="en">Daniel is excited to share his book at show and tell; Daniel and Katerina have a tough time waiting at a restaurant.(n)</desc>
+  <programme start="20241110142700 -0300" stop="20241110152300 -0300" channel="Discovery Channel">
+    <title lang="pt">Ed Stafford - Desafio Mortal : T1 EP3 - Isolado na Mongólia</title>
   </programme>
-  <programme start="20241109130000 -0300" stop="20241109133000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Curious George</title>
-    <desc lang="en">George rides the underground train to the zoo; George tries to build a well.(n)</desc>
+  <programme start="20241110152300 -0300" stop="20241110161800 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados - Sozinhos : T1 EP6 - Lobo Solitário</title>
   </programme>
-  <programme start="20241109133000 -0300" stop="20241109140000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Curious George</title>
-    <desc lang="en">George, Gnocchi and Marco search the solar system for monkeys.(n)</desc>
+  <programme start="20241110161800 -0300" stop="20241110171000 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados, Pelados e Ilhados : T1 EP2 - O Tatu</title>
   </programme>
-  <programme start="20241109140000 -0300" stop="20241109143000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Donkey Hodie</title>
-    <desc lang="en">Bob Dog imagines how others feel; Bob Dog makes a difficult choice for the Best Ball Fest.(n)</desc>
+  <programme start="20241110171000 -0300" stop="20241110185100 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados - A Tribo : T10 EP1 - Campo de Provas</title>
   </programme>
-  <programme start="20241109143000 -0300" stop="20241109150000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Donkey Hodie</title>
-    <desc lang="en">Donkey and Panda make up a game while waiting for Gameshow Gator's new game; Donkey and Panda disagree on which toys are fun.(n)</desc>
+  <programme start="20241110185100 -0300" stop="20241110202900 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados - A Competição : T2 EP1 - Primeiro Dia no Limite</title>
   </programme>
-  <programme start="20241109150000 -0300" stop="20241109153000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Elinor Wonders Why</title>
-    <desc lang="en">The kids try to get animals to the Flower Garden for its grand opening; the kids try to find out how their snow sculptures got ruined.(n)</desc>
+  <programme start="20241110202900 -0300" stop="20241110221000 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados - A Competição</title>
   </programme>
-  <programme start="20241109153000 -0300" stop="20241109160000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Super Why!</title>
-    <desc lang="en">Little Boy Blue keeps running away from Red; the Super Readers help Spider find a better way to approach Miss Muffet.(n)</desc>
+  <programme start="20241110221000 -0300" stop="20241110230000 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados : T17 EP12 - Pelado e Amish</title>
   </programme>
-  <programme start="20241109160000 -0300" stop="20241109163000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Rosie's Rules</title>
-    <desc lang="en">Rosie searches for something to sell for Neighborhood Market Day; Rosie and Javi open a slime store.(n)</desc>
-  </programme>
-  <programme start="20241109163000 -0300" stop="20241109170000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Xavier Riddle and the Secret Museum</title>
-    <desc lang="en">Lou Gehrig helps the gang focus on the good stuff rather than moping about a few bad breaks; Marie Owens shows Xavier, Yadina and Brad how to solve problems in a positive way.(n)</desc>
-  </programme>
-  <programme start="20241109170000 -0300" stop="20241109173000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Alma's Way</title>
-    <desc lang="en">Alma invites her friends to a Sonny Soto concert; Alma discovers that bearded dragons are not as scary as she thought.(n)</desc>
-  </programme>
-  <programme start="20241109173000 -0300" stop="20241109180000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Molly of Denali</title>
-    <desc lang="en">Molly, Tooey and Trini find an enormous tusk while playing by the river; a glacial outburst flood threatens to wash way Auntie Cecilia's old fishing cabin.(n)</desc>
-  </programme>
-  <programme start="20241109180000 -0300" stop="20241109183000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Lyla in the Loop</title>
-    <desc lang="en">Lyla and Stu help out when the neighborhood garbage truck malfunctions; Lyla and Louisa take a ride on the city bus and accidentally lose Stu.(n)</desc>
-  </programme>
-  <programme start="20241109183000 -0300" stop="20241109190000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Arthur</title>
-    <desc lang="en">Vicita asks D.W. and Arthur to re-create the story from her lost book; Prunella takes on more extracurricular activities.(n)</desc>
-  </programme>
-  <programme start="20241109190000 -0300" stop="20241109193000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Odd Squad</title>
-    <desc lang="en">The team learns about friction and how to slow down a moving object when a masked villain takes over the Mobile Unit van's computer.(n)</desc>
-  </programme>
-  <programme start="20241109193000 -0300" stop="20241109200000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Nature Cat</title>
-    <desc lang="en">The crew helps the Bumblebee Queen prepare for growing season; the gang learns the history of an old oak tree.(n)</desc>
-  </programme>
-  <programme start="20241109200000 -0300" stop="20241109203000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Wild Kratts</title>
-    <desc lang="en">When the Tortuga shorts and powers down, Chris and Martin suggest salamander streaming.(n)</desc>
-  </programme>
-  <programme start="20241109203000 -0300" stop="20241109220000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Ready Jet Go!</title>
-    <desc lang="en">Jet, Sydney and Sean plan a trip to Mars; Sean searches for a quiet place to work on his science project.(n)</desc>
-  </programme>
-  <programme start="20241109220000 -0300" stop="20241109230000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">The Cat in the Hat Knows a Lot About Camping!</title>
-    <desc lang="en">An outdoor adventure includes camping, hiking and paddling as the Cat in the Hat (Martin Short), Fish, Nick and Sally make their way to Fish's family reunion.(n)</desc>
-  </programme>
-  <programme start="20241109230000 -0300" stop="20241109233000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Cyberchase</title>
-    <desc lang="en">The CyberSquad tries to keep cool as a heat wave sweeps through the cybersite during the annual Factoria Flower Show.(n)</desc>
-  </programme>
-  <programme start="20241109233000 -0300" stop="20241110000000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
-    <title lang="en">Let's Go Luna!</title>
-    <desc lang="en">Andy and Luna enlist the help of a totem pole artist to tell their story; Andy wants to see the blue light of the Mendenhall Glacier ice caves.(n)</desc>
+  <programme start="20241110230000 -0300" stop="20241111001500 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados : T17 EP8 - Inquebrável</title>
   </programme>
 </tv>
