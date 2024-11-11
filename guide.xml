@@ -9,6 +9,15 @@
     <display-name lang="pt">Cinemax HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="Cartoon Network 4K">
+    <display-name lang="pt">Cartoon Network 4K</display-name>
+    <icon src="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png" />
+    <url>http://www.guiadatv.com</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax 4K">
     <title lang="pt">Magnatas do Crime</title>
   </programme>
@@ -248,5 +257,1259 @@
   </programme>
   <programme start="20241113223000 -0300" stop="20241114003300 -0300" channel="Cinemax HD">
     <title lang="pt">John Wick - Um Novo Dia para Matar</title>
+  </programme>
+  <programme start="20241110200200 -0300" stop="20241110215300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+  </programme>
+  <programme start="20241110215300 -0300" stop="20241110220300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241110220300 -0300" stop="20241110221600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241110221600 -0300" stop="20241110222700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241110222700 -0300" stop="20241110223800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241110223800 -0300" stop="20241110224900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241110224900 -0300" stop="20241110230000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241110230000 -0300" stop="20241110231100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241110231100 -0300" stop="20241110232300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241110232300 -0300" stop="20241110233500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241110233500 -0300" stop="20241110234700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241110234700 -0300" stop="20241110235800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241110235800 -0300" stop="20241111000900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111000900 -0300" stop="20241111002100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111002100 -0300" stop="20241111003100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111003100 -0300" stop="20241111004400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111004400 -0300" stop="20241111005400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111005400 -0300" stop="20241111010600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241111010600 -0300" stop="20241111011900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241111011900 -0300" stop="20241111013000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241111013000 -0300" stop="20241111014300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241111014300 -0300" stop="20241111015500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241111015500 -0300" stop="20241111020700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241111020700 -0300" stop="20241111022000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241111022000 -0300" stop="20241111023400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241111023400 -0300" stop="20241111024500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241111024500 -0300" stop="20241111025700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241111025700 -0300" stop="20241111030800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111030800 -0300" stop="20241111032000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111032000 -0300" stop="20241111033200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111033200 -0300" stop="20241111034400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111034400 -0300" stop="20241111035500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111035500 -0300" stop="20241111040700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111040700 -0300" stop="20241111041900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111041900 -0300" stop="20241111043100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241111043100 -0300" stop="20241111044100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111044100 -0300" stop="20241111045200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111045200 -0300" stop="20241111050400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111050400 -0300" stop="20241111051500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111051500 -0300" stop="20241111052500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111052500 -0300" stop="20241111053700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111053700 -0300" stop="20241111054800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111054800 -0300" stop="20241111060000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111060000 -0300" stop="20241111061000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111061000 -0300" stop="20241111062100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111062100 -0300" stop="20241111063300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111063300 -0300" stop="20241111064500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111064500 -0300" stop="20241111065600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111065600 -0300" stop="20241111070600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111070600 -0300" stop="20241111071900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111071900 -0300" stop="20241111073000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111073000 -0300" stop="20241111074000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111074000 -0300" stop="20241111075100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111075100 -0300" stop="20241111080300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111080300 -0300" stop="20241111081400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111081400 -0300" stop="20241111082500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111082500 -0300" stop="20241111083600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111083600 -0300" stop="20241111084700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111084700 -0300" stop="20241111085700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111085700 -0300" stop="20241111090800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111090800 -0300" stop="20241111092100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111092100 -0300" stop="20241111093200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111093200 -0300" stop="20241111095500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ilha dos Desafios</title>
+  </programme>
+  <programme start="20241111095500 -0300" stop="20241111100600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111100600 -0300" stop="20241111101900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111101900 -0300" stop="20241111103000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111103000 -0300" stop="20241111103600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Any Malu Backstage</title>
+  </programme>
+  <programme start="20241111103600 -0300" stop="20241111104700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111104700 -0300" stop="20241111105700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111105700 -0300" stop="20241111110900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111110900 -0300" stop="20241111112100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111112100 -0300" stop="20241111113200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111113200 -0300" stop="20241111114500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111114500 -0300" stop="20241111115600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111115600 -0300" stop="20241111120800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111120800 -0300" stop="20241111122000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111122000 -0300" stop="20241111123200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111123200 -0300" stop="20241111124500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111124500 -0300" stop="20241111125600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111125600 -0300" stop="20241111130900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111130900 -0300" stop="20241111132000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111132000 -0300" stop="20241111133200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111133200 -0300" stop="20241111134400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111134400 -0300" stop="20241111135600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111135600 -0300" stop="20241111140700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111140700 -0300" stop="20241111143200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Chefinho - De Volta ao Berço</title>
+  </programme>
+  <programme start="20241111143200 -0300" stop="20241111144400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursos sem Curso</title>
+  </programme>
+  <programme start="20241111144400 -0300" stop="20241111145500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursos sem Curso</title>
+  </programme>
+  <programme start="20241111145500 -0300" stop="20241111150700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111150700 -0300" stop="20241111151800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111151800 -0300" stop="20241111152900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111152900 -0300" stop="20241111154000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111154000 -0300" stop="20241111155100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111155100 -0300" stop="20241111160200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111160200 -0300" stop="20241111162500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Tiny Toons - Looniversidade</title>
+  </programme>
+  <programme start="20241111162500 -0300" stop="20241111164900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Tiny Toons - Looniversidade</title>
+  </programme>
+  <programme start="20241111164900 -0300" stop="20241111170000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Lamput</title>
+  </programme>
+  <programme start="20241111170000 -0300" stop="20241111171100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111171100 -0300" stop="20241111172400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111172400 -0300" stop="20241111173500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111173500 -0300" stop="20241111174800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111174800 -0300" stop="20241111175900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111175900 -0300" stop="20241111181000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241111181000 -0300" stop="20241111182300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241111182300 -0300" stop="20241111183400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241111183400 -0300" stop="20241111184600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111184600 -0300" stop="20241111185700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111185700 -0300" stop="20241111190800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111190800 -0300" stop="20241111191900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111191900 -0300" stop="20241111193000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241111193000 -0300" stop="20241111194300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Big Blue</title>
+  </programme>
+  <programme start="20241111194300 -0300" stop="20241111200600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">A Jornada Heroica do Valente Príncipe Ivandoé</title>
+  </programme>
+  <programme start="20241111200600 -0300" stop="20241111201800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241111201800 -0300" stop="20241111202900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241111202900 -0300" stop="20241111204100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111204100 -0300" stop="20241111205300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111205300 -0300" stop="20241111210400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111210400 -0300" stop="20241111211600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111211600 -0300" stop="20241111212700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111212700 -0300" stop="20241111213900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111213900 -0300" stop="20241111220200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241111220200 -0300" stop="20241111221900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Homem Chorão</title>
+  </programme>
+  <programme start="20241111221900 -0300" stop="20241111223600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Homem Chorão</title>
+  </programme>
+  <programme start="20241111223600 -0300" stop="20241111230000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Minhas Aventuras com o Superman</title>
+  </programme>
+  <programme start="20241111230000 -0300" stop="20241111231100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111231100 -0300" stop="20241111232400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111232400 -0300" stop="20241111233500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111233500 -0300" stop="20241111234800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111234800 -0300" stop="20241111235900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111235900 -0300" stop="20241112001000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112001000 -0300" stop="20241112002400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112002400 -0300" stop="20241112003000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Any Malu Backstage</title>
+  </programme>
+  <programme start="20241112003000 -0300" stop="20241112004100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112004100 -0300" stop="20241112005200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112005200 -0300" stop="20241112010400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241112010400 -0300" stop="20241112011700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241112011700 -0300" stop="20241112012800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241112012800 -0300" stop="20241112014100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241112014100 -0300" stop="20241112015300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241112015300 -0300" stop="20241112020600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112020600 -0300" stop="20241112021900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112021900 -0300" stop="20241112023200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112023200 -0300" stop="20241112024500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112024500 -0300" stop="20241112025700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112025700 -0300" stop="20241112030900 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112030900 -0300" stop="20241112032000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112032000 -0300" stop="20241112033300 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112033300 -0300" stop="20241112034400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112034400 -0300" stop="20241112035600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112035600 -0300" stop="20241112040800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112040800 -0300" stop="20241112042000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112042000 -0300" stop="20241112043100 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241112043100 -0300" stop="20241112044200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112044200 -0300" stop="20241112045200 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112045200 -0300" stop="20241112050400 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112050400 -0300" stop="20241112051500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112051500 -0300" stop="20241112052600 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112052600 -0300" stop="20241112053700 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112053700 -0300" stop="20241112054800 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112054800 -0300" stop="20241112070000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241112070000 -0300" stop="20241112073000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112073000 -0300" stop="20241112090000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112090000 -0300" stop="20241112093000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112093000 -0300" stop="20241112100000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ilha dos Desafios</title>
+  </programme>
+  <programme start="20241112100000 -0300" stop="20241112110000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112110000 -0300" stop="20241112120000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112120000 -0300" stop="20241112130000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112130000 -0300" stop="20241112140000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112140000 -0300" stop="20241112143000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Chefinho - De Volta ao Berço</title>
+  </programme>
+  <programme start="20241112143000 -0300" stop="20241112150000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursos sem Curso</title>
+  </programme>
+  <programme start="20241112150000 -0300" stop="20241112160000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112160000 -0300" stop="20241112170000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Tiny Toons - Looniversidade</title>
+  </programme>
+  <programme start="20241112170000 -0300" stop="20241112180000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112180000 -0300" stop="20241112183000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241112183000 -0300" stop="20241112193000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112193000 -0300" stop="20241112194500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Big Blue</title>
+  </programme>
+  <programme start="20241112194500 -0300" stop="20241112200000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">A Jornada Heroica do Valente Príncipe Ivandoé</title>
+  </programme>
+  <programme start="20241112200000 -0300" stop="20241112203000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Chefinho - De Volta ao Berço</title>
+  </programme>
+  <programme start="20241112203000 -0300" stop="20241112210000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112210000 -0300" stop="20241112220000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112220000 -0300" stop="20241112223000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Homem Chorão</title>
+  </programme>
+  <programme start="20241112223000 -0300" stop="20241112230000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Minhas Aventuras com o Superman</title>
+  </programme>
+  <programme start="20241112230000 -0300" stop="20241113000000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113000000 -0300" stop="20241113010000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113010000 -0300" stop="20241113020000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241113020000 -0300" stop="20241113030000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241113030000 -0300" stop="20241113043000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241113043000 -0300" stop="20241113060000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241113060000 -0300" stop="20241113070000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241113070000 -0300" stop="20241113073000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113073000 -0300" stop="20241113090000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113090000 -0300" stop="20241113093000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241113093000 -0300" stop="20241113100000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ilha dos Desafios</title>
+  </programme>
+  <programme start="20241113100000 -0300" stop="20241113110000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113110000 -0300" stop="20241113120000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113120000 -0300" stop="20241113130000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241113130000 -0300" stop="20241113140000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113140000 -0300" stop="20241113143000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">O Chefinho - De Volta ao Berço</title>
+  </programme>
+  <programme start="20241113143000 -0300" stop="20241113150000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursos sem Curso</title>
+  </programme>
+  <programme start="20241113150000 -0300" stop="20241113160000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113160000 -0300" stop="20241113170000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Tiny Toons - Looniversidade</title>
+  </programme>
+  <programme start="20241113170000 -0300" stop="20241113180000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241113180000 -0300" stop="20241113183000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241113183000 -0300" stop="20241113193000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113193000 -0300" stop="20241113194500 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">Big Blue</title>
+  </programme>
+  <programme start="20241113194500 -0300" stop="20241113200000 -0300" channel="Cartoon Network 4K">
+    <title lang="pt">A Jornada Heroica do Valente Príncipe Ivandoé</title>
+  </programme>
+  <programme start="20241110200200 -0300" stop="20241110215300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+  </programme>
+  <programme start="20241110215300 -0300" stop="20241110220300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T2 - A Máscara</title>
+  </programme>
+  <programme start="20241110220300 -0300" stop="20241110221600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T3 EP15 - O Aniversário do Mutano</title>
+  </programme>
+  <programme start="20241110221600 -0300" stop="20241110222700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T7 EP38 - Doce Vingança</title>
+  </programme>
+  <programme start="20241110222700 -0300" stop="20241110223800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T3 EP9 - A Quarta Parede</title>
+  </programme>
+  <programme start="20241110223800 -0300" stop="20241110224900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP37 - O Grande Show de Talentos da Liga de Justiça</title>
+  </programme>
+  <programme start="20241110224900 -0300" stop="20241110230000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP38 - O Grande Show de Talentos da Liga de Justiça</title>
+  </programme>
+  <programme start="20241110230000 -0300" stop="20241110231100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP2 - Irmãozinho do Jorel</title>
+  </programme>
+  <programme start="20241110231100 -0300" stop="20241110232300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP3 - Dono de Casa</title>
+  </programme>
+  <programme start="20241110232300 -0300" stop="20241110233500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP4 - Ed Show</title>
+  </programme>
+  <programme start="20241110233500 -0300" stop="20241110234700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP5 - A Pipa Ideal</title>
+  </programme>
+  <programme start="20241110234700 -0300" stop="20241110235800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP6 - O Mais Doidão da Escola</title>
+  </programme>
+  <programme start="20241110235800 -0300" stop="20241111000900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T1 - O Poder da Torre</title>
+  </programme>
+  <programme start="20241111000900 -0300" stop="20241111002100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP3 - Casa das Armadilhas</title>
+  </programme>
+  <programme start="20241111002100 -0300" stop="20241111003100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T3 EP28 - Batman vs Jovens Titãs - Injustiça Negra</title>
+  </programme>
+  <programme start="20241111003100 -0300" stop="20241111004400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T2 - Coisa de Macho</title>
+  </programme>
+  <programme start="20241111004400 -0300" stop="20241111005400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T7 EP49 - Trilha Sonora</title>
+  </programme>
+  <programme start="20241111005400 -0300" stop="20241111010600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T5 EP25 - O Ex</title>
+  </programme>
+  <programme start="20241111010600 -0300" stop="20241111011900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T2 - O Tesouro</title>
+  </programme>
+  <programme start="20241111011900 -0300" stop="20241111013000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T6 EP10 - O Candidato</title>
+  </programme>
+  <programme start="20241111013000 -0300" stop="20241111014300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T6 EP34 - O Futuro</title>
+  </programme>
+  <programme start="20241111014300 -0300" stop="20241111015500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T6 EP23 - A Compreensão</title>
+  </programme>
+  <programme start="20241111015500 -0300" stop="20241111020700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons : T1 EP17 - Gaguinho Arremessador; Plataforma; Pato, Pato, Bum</title>
+  </programme>
+  <programme start="20241111020700 -0300" stop="20241111022000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons : T1 EP9 - Pato com Atraso; Abelhas; Vincent Van Lino</title>
+  </programme>
+  <programme start="20241111022000 -0300" stop="20241111023400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons : T6 EP8 - E o Vento Errou; Patolino Mágico: Pé de Porco; Encrenca no Cinema</title>
+  </programme>
+  <programme start="20241111023400 -0300" stop="20241111024500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons : T2 EP2 - Amiga Múmia; Poste - Poste Encolhendo; Caindo na Estrada</title>
+  </programme>
+  <programme start="20241111024500 -0300" stop="20241111025700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons : T1 EP22 - Problemas com o Puma; Bola de Boliche; Patolino Copiado</title>
+  </programme>
+  <programme start="20241111025700 -0300" stop="20241111030800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T6 - A Visita</title>
+  </programme>
+  <programme start="20241111030800 -0300" stop="20241111032000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T8 EP1 - Coroa Quebrada</title>
+  </programme>
+  <programme start="20241111032000 -0300" stop="20241111033200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T6 - A Guerra do Pijama</title>
+  </programme>
+  <programme start="20241111033200 -0300" stop="20241111034400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T9 EP7 - Elementos - Guerreiro Feliz</title>
+  </programme>
+  <programme start="20241111034400 -0300" stop="20241111035500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T8 EP14 - Duas Espadas</title>
+  </programme>
+  <programme start="20241111035500 -0300" stop="20241111040700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T5 - James</title>
+  </programme>
+  <programme start="20241111040700 -0300" stop="20241111041900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T3 - Pedro Papel</title>
+  </programme>
+  <programme start="20241111041900 -0300" stop="20241111043100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T4 - Pegando um Foguinho</title>
+  </programme>
+  <programme start="20241111043100 -0300" stop="20241111044100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 EP20 - O Que Fizeram com o Duncan?</title>
+  </programme>
+  <programme start="20241111044100 -0300" stop="20241111045200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 EP28 - A Teoria das Explosões</title>
+  </programme>
+  <programme start="20241111045200 -0300" stop="20241111050400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP20 - Vivendo um Sonho</title>
+  </programme>
+  <programme start="20241111050400 -0300" stop="20241111051500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP50 - Escola Distrito 9</title>
+  </programme>
+  <programme start="20241111051500 -0300" stop="20241111052500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP10 - Aluno Vira Professor</title>
+  </programme>
+  <programme start="20241111052500 -0300" stop="20241111053700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 EP14 - Cody, o Bárbaro</title>
+  </programme>
+  <programme start="20241111053700 -0300" stop="20241111054800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 EP8 - Doçura e Relâmpago para Apimentar</title>
+  </programme>
+  <programme start="20241111054800 -0300" stop="20241111060000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP6 - Vamos Malhar</title>
+  </programme>
+  <programme start="20241111060000 -0300" stop="20241111061000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241111061000 -0300" stop="20241111062100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 EP16 - Olha o Passarinho!</title>
+  </programme>
+  <programme start="20241111062100 -0300" stop="20241111063300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 EP18 - Um Pouco Mais Alto</title>
+  </programme>
+  <programme start="20241111063300 -0300" stop="20241111064500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP50 - Escola Distrito 9</title>
+  </programme>
+  <programme start="20241111064500 -0300" stop="20241111065600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP6 - Vamos Malhar</title>
+  </programme>
+  <programme start="20241111065600 -0300" stop="20241111070600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP18 - O Circo da Vida</title>
+  </programme>
+  <programme start="20241111070600 -0300" stop="20241111071900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T1 EP13 - Aterrorizante Vida Adulta</title>
+  </programme>
+  <programme start="20241111071900 -0300" stop="20241111073000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T1 EP11 - Natureza Totalmente Selvagem</title>
+  </programme>
+  <programme start="20241111073000 -0300" stop="20241111074000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T2 - O Retorno de Slade</title>
+  </programme>
+  <programme start="20241111074000 -0300" stop="20241111075100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T7 EP33 - Matemática de Base</title>
+  </programme>
+  <programme start="20241111075100 -0300" stop="20241111080300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T7 EP2 - P.P.</title>
+  </programme>
+  <programme start="20241111080300 -0300" stop="20241111081400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T2 - Amo Monstros</title>
+  </programme>
+  <programme start="20241111081400 -0300" stop="20241111082500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP27 - Eu te Vi</title>
+  </programme>
+  <programme start="20241111082500 -0300" stop="20241111083600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP28 - De Olhar Seus Olhos</title>
+  </programme>
+  <programme start="20241111083600 -0300" stop="20241111084700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP29 - Pra Ir Até Você</title>
+  </programme>
+  <programme start="20241111084700 -0300" stop="20241111085700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP30 - A Sua Noite Vai Brilhar</title>
+  </programme>
+  <programme start="20241111085700 -0300" stop="20241111090800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 EP13 - Empresário</title>
+  </programme>
+  <programme start="20241111090800 -0300" stop="20241111092100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T3 EP26 - Pesadelo na Rua Aberdale: a Vingança do Equilibrado</title>
+  </programme>
+  <programme start="20241111092100 -0300" stop="20241111093200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 EP22 - Sala de Aula</title>
+  </programme>
+  <programme start="20241111093200 -0300" stop="20241111095500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ilha dos Desafios : T1 EP26 - Parecem Perdedores</title>
+  </programme>
+  <programme start="20241111095500 -0300" stop="20241111100600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T1 - As Cores da Ravena</title>
+  </programme>
+  <programme start="20241111100600 -0300" stop="20241111101900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T7 EP43 - Kyle</title>
+  </programme>
+  <programme start="20241111101900 -0300" stop="20241111103000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T8 EP7 - Uma Situação Mais Grudenta</title>
+  </programme>
+  <programme start="20241111103000 -0300" stop="20241111103600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Any Malu Backstage : Músicas Esculhambadas</title>
+  </programme>
+  <programme start="20241111103600 -0300" stop="20241111104700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP48 - Flashback</title>
+  </programme>
+  <programme start="20241111104700 -0300" stop="20241111105700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP49 - Flashback</title>
+  </programme>
+  <programme start="20241111105700 -0300" stop="20241111110900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP7 - Vovó me Leva pra Aula</title>
+  </programme>
+  <programme start="20241111110900 -0300" stop="20241111112100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP25 - Curtição sem Limites</title>
+  </programme>
+  <programme start="20241111112100 -0300" stop="20241111113200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - Vidinha Show de Bola</title>
+  </programme>
+  <programme start="20241111113200 -0300" stop="20241111114500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111114500 -0300" stop="20241111115600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - Danuza Vai à Luta</title>
+  </programme>
+  <programme start="20241111115600 -0300" stop="20241111120800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T1 EP17 - Clarêncio Natureza</title>
+  </programme>
+  <programme start="20241111120800 -0300" stop="20241111122000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T1 EP13 - Homem da Casa</title>
+  </programme>
+  <programme start="20241111122000 -0300" stop="20241111123200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 EP26 - Pais de Plantas</title>
+  </programme>
+  <programme start="20241111123200 -0300" stop="20241111124500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T1 EP34 - Chaminé</title>
+  </programme>
+  <programme start="20241111124500 -0300" stop="20241111125600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T1 EP26 - Escola dos Frangos da Cavalaria</title>
+  </programme>
+  <programme start="20241111125600 -0300" stop="20241111130900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111130900 -0300" stop="20241111132000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111132000 -0300" stop="20241111133200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - Poneimorfose</title>
+  </programme>
+  <programme start="20241111133200 -0300" stop="20241111134400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - Jorginhous and Dragons</title>
+  </programme>
+  <programme start="20241111134400 -0300" stop="20241111135600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - In English, Please!</title>
+  </programme>
+  <programme start="20241111135600 -0300" stop="20241111140700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - Fortificante Mendonça</title>
+  </programme>
+  <programme start="20241111140700 -0300" stop="20241111143200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Chefinho - De Volta ao Berço : T1 EP7 - Guerra das Bochechas</title>
+  </programme>
+  <programme start="20241111143200 -0300" stop="20241111144400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos sem Curso : T3 EP31 - Contos de Dia das Bruxas do Charlie</title>
+  </programme>
+  <programme start="20241111144400 -0300" stop="20241111145500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos sem Curso : T3 EP13 - Guardas Mirins</title>
+  </programme>
+  <programme start="20241111145500 -0300" stop="20241111150700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP36 - Cavaleiro da TV 2</title>
+  </programme>
+  <programme start="20241111150700 -0300" stop="20241111151800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP51 - Quanto Mais Bufunfa, Mais Problemas</title>
+  </programme>
+  <programme start="20241111151800 -0300" stop="20241111152900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T1 - Preguiça de Domingo</title>
+  </programme>
+  <programme start="20241111152900 -0300" stop="20241111154000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T6 EP23 - A Lista do Balde</title>
+  </programme>
+  <programme start="20241111154000 -0300" stop="20241111155100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP48 - Flashback</title>
+  </programme>
+  <programme start="20241111155100 -0300" stop="20241111160200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP49 - Flashback</title>
+  </programme>
+  <programme start="20241111160200 -0300" stop="20241111162500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Tiny Toons - Looniversidade</title>
+  </programme>
+  <programme start="20241111162500 -0300" stop="20241111164900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Tiny Toons - Looniversidade : T2 EP5 - Os Esqueletontos</title>
+  </programme>
+  <programme start="20241111164900 -0300" stop="20241111170000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Lamput : T4 EP20 - Poção da Força</title>
+  </programme>
+  <programme start="20241111170000 -0300" stop="20241111171100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 EP37 - Hotel</title>
+  </programme>
+  <programme start="20241111171100 -0300" stop="20241111172400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 EP14 - Irmãos Martelada</title>
+  </programme>
+  <programme start="20241111172400 -0300" stop="20241111173500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T3 EP1 - Sumo Vai para Oeste</title>
+  </programme>
+  <programme start="20241111173500 -0300" stop="20241111174800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T3 EP29 - Dia de Bicho</title>
+  </programme>
+  <programme start="20241111174800 -0300" stop="20241111175900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T3 EP15 - Clarêncio Ama Shoop</title>
+  </programme>
+  <programme start="20241111175900 -0300" stop="20241111181000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursinhos em Curso : T2 EP5 - Casa da Unica</title>
+  </programme>
+  <programme start="20241111181000 -0300" stop="20241111182300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursinhos em Curso : T1 EP24 - Sem Terra, Só Ar!</title>
+  </programme>
+  <programme start="20241111182300 -0300" stop="20241111183400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursinhos em Curso : T2 EP7 - O Documentário do Pardo</title>
+  </programme>
+  <programme start="20241111183400 -0300" stop="20241111184600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP51 - Quanto Mais Bufunfa, Mais Problemas</title>
+  </programme>
+  <programme start="20241111184600 -0300" stop="20241111185700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T1 - Preguiça de Domingo</title>
+  </programme>
+  <programme start="20241111185700 -0300" stop="20241111190800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T6 EP23 - A Lista do Balde</title>
+  </programme>
+  <programme start="20241111190800 -0300" stop="20241111191900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP48 - Flashback</title>
+  </programme>
+  <programme start="20241111191900 -0300" stop="20241111193000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T4 EP49 - Flashback</title>
+  </programme>
+  <programme start="20241111193000 -0300" stop="20241111194300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Big Blue : T1 - Arlo e Eu</title>
+  </programme>
+  <programme start="20241111194300 -0300" stop="20241111200600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Jornada Heroica do Valente Príncipe Ivandoé : T1 EP7 - O Príncipe e o Afofador de Penas de Cisne</title>
+  </programme>
+  <programme start="20241111200600 -0300" stop="20241111201800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursinhos em Curso : T1 EP31 - Quem Bateu o Trailer</title>
+  </programme>
+  <programme start="20241111201800 -0300" stop="20241111202900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursinhos em Curso : T2 EP7 - O Documentário do Pardo</title>
+  </programme>
+  <programme start="20241111202900 -0300" stop="20241111204100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111204100 -0300" stop="20241111205300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP13 - Zazázila</title>
+  </programme>
+  <programme start="20241111205300 -0300" stop="20241111210400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP12 - Cine Horrível</title>
+  </programme>
+  <programme start="20241111210400 -0300" stop="20241111211600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T3 EP4 - Show de Rock</title>
+  </programme>
+  <programme start="20241111211600 -0300" stop="20241111212700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 EP23 - Isolado</title>
+  </programme>
+  <programme start="20241111212700 -0300" stop="20241111213900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 EP34 - Cloris</title>
+  </programme>
+  <programme start="20241111213900 -0300" stop="20241111220200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista : T2 - Pique Bandeira</title>
+  </programme>
+  <programme start="20241111220200 -0300" stop="20241111221900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Homem Chorão : T1 EP9 - Topo da Torre Coit</title>
+  </programme>
+  <programme start="20241111221900 -0300" stop="20241111223600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Homem Chorão : T1 EP10 - Revolução</title>
+  </programme>
+  <programme start="20241111223600 -0300" stop="20241111230000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Minhas Aventuras com o Superman : T1 EP9 - Corações de Pais</title>
+  </programme>
+  <programme start="20241111230000 -0300" stop="20241111231100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP7 - Vovó me Leva pra Aula</title>
+  </programme>
+  <programme start="20241111231100 -0300" stop="20241111232400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T3 EP25 - Curtição sem Limites</title>
+  </programme>
+  <programme start="20241111232400 -0300" stop="20241111233500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - Vidinha Show de Bola</title>
+  </programme>
+  <programme start="20241111233500 -0300" stop="20241111234800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241111234800 -0300" stop="20241111235900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel : T4 - Danuza Vai à Luta</title>
+  </programme>
+  <programme start="20241111235900 -0300" stop="20241112001000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T1 - Noite das Garotas</title>
+  </programme>
+  <programme start="20241112001000 -0300" stop="20241112002400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T7 EP18 - Sobre o que Eu Penso</title>
+  </programme>
+  <programme start="20241112002400 -0300" stop="20241112003000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Any Malu Backstage : Premiação e Muitos Looks</title>
+  </programme>
+  <programme start="20241112003000 -0300" stop="20241112004100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T6 EP35 - O Show de Talentos da Liga da Justiça - Batalha de Dança</title>
+  </programme>
+  <programme start="20241112004100 -0300" stop="20241112005200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação : T6 EP36 - O Show de Talentos da Liga da Justiça - Batalha de Dança</title>
+  </programme>
+  <programme start="20241112005200 -0300" stop="20241112010400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T5 EP3 - O Tédio</title>
+  </programme>
+  <programme start="20241112010400 -0300" stop="20241112011700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T1 - O Fantasma</title>
+  </programme>
+  <programme start="20241112011700 -0300" stop="20241112012800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T6 EP18 - A Educação</title>
+  </programme>
+  <programme start="20241112012800 -0300" stop="20241112014100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T2 - A Geladeira</title>
+  </programme>
+  <programme start="20241112014100 -0300" stop="20241112015300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball : T1 - O Bigode</title>
+  </programme>
+  <programme start="20241112015300 -0300" stop="20241112020600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112020600 -0300" stop="20241112021900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112021900 -0300" stop="20241112023200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons : T3 EP1 - Eufra-Mérica; Colocando o Gato pra Fora; Porta Giratória; Ladrão de Churrasco</title>
+  </programme>
+  <programme start="20241112023200 -0300" stop="20241112024500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112024500 -0300" stop="20241112025700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241112025700 -0300" stop="20241112030900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T4 - Lobo do Abraço</title>
+  </programme>
+  <programme start="20241112030900 -0300" stop="20241112032000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T4 - Você me Fez</title>
+  </programme>
+  <programme start="20241112032000 -0300" stop="20241112033300 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T8 EP10 - Buraco Musical</title>
+  </programme>
+  <programme start="20241112033300 -0300" stop="20241112034400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T6 - Plano Astral</title>
+  </programme>
+  <programme start="20241112034400 -0300" stop="20241112035600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T8 EP11 - Guerra de Cartas com Pai e Filha</title>
+  </programme>
+  <programme start="20241112035600 -0300" stop="20241112040800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T2 - Sangue sob a Pele</title>
+  </programme>
+  <programme start="20241112040800 -0300" stop="20241112042000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T6 - Roxo Escuro</title>
+  </programme>
+  <programme start="20241112042000 -0300" stop="20241112043100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura : T9 EP4 - Elementos - Luz do Inverno</title>
+  </programme>
+  <programme start="20241112043100 -0300" stop="20241112044200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 EP40 - O Ato de Abertura</title>
+  </programme>
+  <programme start="20241112044200 -0300" stop="20241112045200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP39 - Cody do Espaço</title>
+  </programme>
+  <programme start="20241112045200 -0300" stop="20241112050400 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP24 - Fogo no Parquinho</title>
+  </programme>
+  <programme start="20241112050400 -0300" stop="20241112051500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP22 - Um Problema Cabeludo</title>
+  </programme>
+  <programme start="20241112051500 -0300" stop="20241112052600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP44 - Zero Zero Beth</title>
+  </programme>
+  <programme start="20241112052600 -0300" stop="20241112053700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T2 EP8 - Mãe Substituta</title>
+  </programme>
+  <programme start="20241112053700 -0300" stop="20241112054800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 - Gwen Assustadora, Gwen Perdida</title>
+  </programme>
+  <programme start="20241112054800 -0300" stop="20241112070000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids : T3 - Gwen Assustadora, Gwen Perdida</title>
+  </programme>
+  <programme start="20241112070000 -0300" stop="20241112073000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112073000 -0300" stop="20241112090000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112090000 -0300" stop="20241112093000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112093000 -0300" stop="20241112100000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ilha dos Desafios</title>
+  </programme>
+  <programme start="20241112100000 -0300" stop="20241112110000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112110000 -0300" stop="20241112120000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112120000 -0300" stop="20241112130000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112130000 -0300" stop="20241112140000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112140000 -0300" stop="20241112143000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Chefinho - De Volta ao Berço : T1 EP8 - Convenção de Tecnologia</title>
+  </programme>
+  <programme start="20241112143000 -0300" stop="20241112150000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos sem Curso</title>
+  </programme>
+  <programme start="20241112150000 -0300" stop="20241112160000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112160000 -0300" stop="20241112170000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Tiny Toons - Looniversidade</title>
+  </programme>
+  <programme start="20241112170000 -0300" stop="20241112180000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112180000 -0300" stop="20241112183000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241112183000 -0300" stop="20241112193000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241112193000 -0300" stop="20241112194500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Big Blue</title>
+  </programme>
+  <programme start="20241112194500 -0300" stop="20241112200000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Jornada Heroica do Valente Príncipe Ivandoé</title>
+  </programme>
+  <programme start="20241112200000 -0300" stop="20241112203000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Chefinho - De Volta ao Berço : T1 EP8 - Convenção de Tecnologia</title>
+  </programme>
+  <programme start="20241112203000 -0300" stop="20241112210000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241112210000 -0300" stop="20241112220000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241112220000 -0300" stop="20241112223000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Homem Chorão</title>
+  </programme>
+  <programme start="20241112223000 -0300" stop="20241112230000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Minhas Aventuras com o Superman : T2 EP1 - Há Muito Mais Entre o Céu e a Terra…</title>
+  </programme>
+  <programme start="20241112230000 -0300" stop="20241113000000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113000000 -0300" stop="20241113010000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113010000 -0300" stop="20241113020000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20241113020000 -0300" stop="20241113030000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20241113030000 -0300" stop="20241113043000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20241113043000 -0300" stop="20241113060000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241113060000 -0300" stop="20241113070000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Drama Total Kids</title>
+  </programme>
+  <programme start="20241113070000 -0300" stop="20241113073000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113073000 -0300" stop="20241113090000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113090000 -0300" stop="20241113093000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241113093000 -0300" stop="20241113100000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ilha dos Desafios</title>
+  </programme>
+  <programme start="20241113100000 -0300" stop="20241113110000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113110000 -0300" stop="20241113120000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113120000 -0300" stop="20241113130000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241113130000 -0300" stop="20241113140000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113140000 -0300" stop="20241113143000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Chefinho - De Volta ao Berço : T1 EP9 - Aniversariante Mal-humorado</title>
+  </programme>
+  <programme start="20241113143000 -0300" stop="20241113150000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos sem Curso</title>
+  </programme>
+  <programme start="20241113150000 -0300" stop="20241113160000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113160000 -0300" stop="20241113170000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Tiny Toons - Looniversidade</title>
+  </programme>
+  <programme start="20241113170000 -0300" stop="20241113180000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241113180000 -0300" stop="20241113183000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursinhos em Curso</title>
+  </programme>
+  <programme start="20241113183000 -0300" stop="20241113193000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20241113193000 -0300" stop="20241113194500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Big Blue</title>
+  </programme>
+  <programme start="20241113194500 -0300" stop="20241113200000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Jornada Heroica do Valente Príncipe Ivandoé : T4 EP7 - O Príncipe e o Ogro Sonhador</title>
+  </programme>
+  <programme start="20241113200000 -0300" stop="20241113203000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Chefinho - De Volta ao Berço : T1 EP9 - Aniversariante Mal-humorado</title>
+  </programme>
+  <programme start="20241113203000 -0300" stop="20241113210000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20241113210000 -0300" stop="20241113220000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20241113220000 -0300" stop="20241113223000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Homem Chorão</title>
+  </programme>
+  <programme start="20241113223000 -0300" stop="20241113230000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Minhas Aventuras com o Superman : T2 EP2 - Aventuras com a Minha Namorada</title>
+  </programme>
+  <programme start="20241113230000 -0300" stop="20241114000000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel</title>
   </programme>
 </tv>
