@@ -9,22 +9,244 @@
     <display-name lang="pt">Cinemax HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20241110185700 -0300" stop="20241110203100 -0300" channel="Cinemax 4K">
-    <title lang="pt">Plano de Fuga</title>
-  </programme>
   <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax 4K">
     <title lang="pt">Magnatas do Crime</title>
   </programme>
   <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax 4K">
     <title lang="pt">Diamante de Sangue</title>
   </programme>
-  <programme start="20241110185800 -0300" stop="20241110203100 -0300" channel="Cinemax HD">
-    <title lang="pt">Plano de Fuga</title>
+  <programme start="20241111005400 -0300" stop="20241111023700 -0300" channel="Cinemax 4K">
+    <title lang="pt">Sem Limites</title>
+  </programme>
+  <programme start="20241111023700 -0300" stop="20241111042500 -0300" channel="Cinemax 4K">
+    <title lang="pt">Caça aos Gângsteres</title>
+  </programme>
+  <programme start="20241111042500 -0300" stop="20241111060000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Vírus</title>
+  </programme>
+  <programme start="20241111060000 -0300" stop="20241111075500 -0300" channel="Cinemax 4K">
+    <title lang="pt">A Batalha do Ano</title>
+  </programme>
+  <programme start="20241111075500 -0300" stop="20241111092300 -0300" channel="Cinemax 4K">
+    <title lang="pt">Iceman 2 - O Viajante do Tempo</title>
+  </programme>
+  <programme start="20241111092300 -0300" stop="20241111110500 -0300" channel="Cinemax 4K">
+    <title lang="pt">Dupla em Fúria</title>
+  </programme>
+  <programme start="20241111110500 -0300" stop="20241111125600 -0300" channel="Cinemax 4K">
+    <title lang="pt">Operação Secreta</title>
+  </programme>
+  <programme start="20241111125600 -0300" stop="20241111144500 -0300" channel="Cinemax 4K">
+    <title lang="pt">Fora do Rumo</title>
+  </programme>
+  <programme start="20241111144500 -0300" stop="20241111160900 -0300" channel="Cinemax 4K">
+    <title lang="pt">O Confronto</title>
+  </programme>
+  <programme start="20241111160900 -0300" stop="20241111184200 -0300" channel="Cinemax 4K">
+    <title lang="pt">Operação Invasão 2</title>
+  </programme>
+  <programme start="20241111184200 -0300" stop="20241111203500 -0300" channel="Cinemax 4K">
+    <title lang="pt">O Candidato Honesto 2</title>
+  </programme>
+  <programme start="20241111203500 -0300" stop="20241111223000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Fora do Rumo</title>
+  </programme>
+  <programme start="20241111223000 -0300" stop="20241111235600 -0300" channel="Cinemax 4K">
+    <title lang="pt">O Confronto</title>
+  </programme>
+  <programme start="20241111235600 -0300" stop="20241112022800 -0300" channel="Cinemax 4K">
+    <title lang="pt">Operação Invasão 2</title>
+  </programme>
+  <programme start="20241112022800 -0300" stop="20241112040900 -0300" channel="Cinemax 4K">
+    <title lang="pt">Dupla em Fúria</title>
+  </programme>
+  <programme start="20241112040900 -0300" stop="20241112060000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Operação Secreta</title>
+  </programme>
+  <programme start="20241112060000 -0300" stop="20241112073600 -0300" channel="Cinemax 4K">
+    <title lang="pt">Meu Nome É Ray</title>
+  </programme>
+  <programme start="20241112073600 -0300" stop="20241112090900 -0300" channel="Cinemax 4K">
+    <title lang="pt">As Damas de Hollywood</title>
+  </programme>
+  <programme start="20241112090900 -0300" stop="20241112112700 -0300" channel="Cinemax 4K">
+    <title lang="pt">Terceira Pessoa</title>
+  </programme>
+  <programme start="20241112112700 -0300" stop="20241112132000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Miss Simpatia 2 - Armada e Poderosa</title>
+  </programme>
+  <programme start="20241112132000 -0300" stop="20241112150200 -0300" channel="Cinemax 4K">
+    <title lang="pt">O Melhor Amigo da Noiva</title>
+  </programme>
+  <programme start="20241112150200 -0300" stop="20241112163100 -0300" channel="Cinemax 4K">
+    <title lang="pt">Licença para Casar</title>
+  </programme>
+  <programme start="20241112163100 -0300" stop="20241112183900 -0300" channel="Cinemax 4K">
+    <title lang="pt">Do que as Mulheres Gostam</title>
+  </programme>
+  <programme start="20241112183900 -0300" stop="20241112203500 -0300" channel="Cinemax 4K">
+    <title lang="pt">Dona Flor e Seus Dois Maridos</title>
+  </programme>
+  <programme start="20241112203500 -0300" stop="20241112223000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Miss Simpatia 2 - Armada e Poderosa</title>
+  </programme>
+  <programme start="20241112223000 -0300" stop="20241113001200 -0300" channel="Cinemax 4K">
+    <title lang="pt">O Melhor Amigo da Noiva</title>
+  </programme>
+  <programme start="20241113001200 -0300" stop="20241113014100 -0300" channel="Cinemax 4K">
+    <title lang="pt">Licença para Casar</title>
+  </programme>
+  <programme start="20241113014100 -0300" stop="20241113034900 -0300" channel="Cinemax 4K">
+    <title lang="pt">Do que as Mulheres Gostam</title>
+  </programme>
+  <programme start="20241113034900 -0300" stop="20241113060000 -0300" channel="Cinemax 4K">
+    <title lang="pt">Terceira Pessoa</title>
+  </programme>
+  <programme start="20241113060000 -0300" stop="20241113073700 -0300" channel="Cinemax 4K">
+    <title lang="pt">Os Esquecidos</title>
+  </programme>
+  <programme start="20241113073700 -0300" stop="20241113091800 -0300" channel="Cinemax 4K">
+    <title lang="pt">O Assassino do Presidente</title>
+  </programme>
+  <programme start="20241113091800 -0300" stop="20241113110200 -0300" channel="Cinemax 4K">
+    <title lang="pt">A Balada do Pistoleiro</title>
+  </programme>
+  <programme start="20241113110200 -0300" stop="20241113131000 -0300" channel="Cinemax 4K">
+    <title lang="pt">8mm - Oito Milímetros</title>
+  </programme>
+  <programme start="20241113131000 -0300" stop="20241113145100 -0300" channel="Cinemax 4K">
+    <title lang="pt">John Wick - De Volta ao Jogo</title>
+  </programme>
+  <programme start="20241113145100 -0300" stop="20241113165400 -0300" channel="Cinemax 4K">
+    <title lang="pt">John Wick - Um Novo Dia para Matar</title>
+  </programme>
+  <programme start="20241113165400 -0300" stop="20241113183800 -0300" channel="Cinemax 4K">
+    <title lang="pt">A Balada do Pistoleiro</title>
   </programme>
   <programme start="20241110203100 -0300" stop="20241110223000 -0300" channel="Cinemax HD">
     <title lang="pt">Magnatas do Crime</title>
   </programme>
   <programme start="20241110223000 -0300" stop="20241111005400 -0300" channel="Cinemax HD">
     <title lang="pt">Diamante de Sangue</title>
+  </programme>
+  <programme start="20241111005400 -0300" stop="20241111023600 -0300" channel="Cinemax HD">
+    <title lang="pt">Sem Limites</title>
+  </programme>
+  <programme start="20241111023600 -0300" stop="20241111042000 -0300" channel="Cinemax HD">
+    <title lang="pt">Caça aos Gângsteres</title>
+  </programme>
+  <programme start="20241111042000 -0300" stop="20241111054800 -0300" channel="Cinemax HD">
+    <title lang="pt">Vírus</title>
+  </programme>
+  <programme start="20241111054800 -0300" stop="20241111060000 -0300" channel="Cinemax HD">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20241111060000 -0300" stop="20241111073900 -0300" channel="Cinemax HD">
+    <title lang="pt">A Minha Casa Caiu</title>
+  </programme>
+  <programme start="20241111073900 -0300" stop="20241111090400 -0300" channel="Cinemax HD">
+    <title lang="pt">Iceman 2 - O Viajante do Tempo</title>
+  </programme>
+  <programme start="20241111090400 -0300" stop="20241111104400 -0300" channel="Cinemax HD">
+    <title lang="pt">Dupla em Fúria</title>
+  </programme>
+  <programme start="20241111104400 -0300" stop="20241111123700 -0300" channel="Cinemax HD">
+    <title lang="pt">Operação Secreta</title>
+  </programme>
+  <programme start="20241111123700 -0300" stop="20241111143000 -0300" channel="Cinemax HD">
+    <title lang="pt">Fora do Rumo</title>
+  </programme>
+  <programme start="20241111143000 -0300" stop="20241111155600 -0300" channel="Cinemax HD">
+    <title lang="pt">O Confronto</title>
+  </programme>
+  <programme start="20241111155600 -0300" stop="20241111184200 -0300" channel="Cinemax HD">
+    <title lang="pt">Operação Invasão 2</title>
+  </programme>
+  <programme start="20241111184200 -0300" stop="20241111203600 -0300" channel="Cinemax HD">
+    <title lang="pt">O Candidato Honesto 2</title>
+  </programme>
+  <programme start="20241111203600 -0300" stop="20241111222900 -0300" channel="Cinemax HD">
+    <title lang="pt">Fora do Rumo</title>
+  </programme>
+  <programme start="20241111222900 -0300" stop="20241111235500 -0300" channel="Cinemax HD">
+    <title lang="pt">O Confronto</title>
+  </programme>
+  <programme start="20241111235500 -0300" stop="20241112023500 -0300" channel="Cinemax HD">
+    <title lang="pt">Operação Invasão 2</title>
+  </programme>
+  <programme start="20241112023500 -0300" stop="20241112041300 -0300" channel="Cinemax HD">
+    <title lang="pt">Dupla em Fúria</title>
+  </programme>
+  <programme start="20241112041300 -0300" stop="20241112060000 -0300" channel="Cinemax HD">
+    <title lang="pt">Operação Secreta</title>
+  </programme>
+  <programme start="20241112060000 -0300" stop="20241112073600 -0300" channel="Cinemax HD">
+    <title lang="pt">Meu Nome É Ray</title>
+  </programme>
+  <programme start="20241112073600 -0300" stop="20241112090900 -0300" channel="Cinemax HD">
+    <title lang="pt">As Damas de Hollywood</title>
+  </programme>
+  <programme start="20241112090900 -0300" stop="20241112112700 -0300" channel="Cinemax HD">
+    <title lang="pt">Terceira Pessoa</title>
+  </programme>
+  <programme start="20241112112700 -0300" stop="20241112132000 -0300" channel="Cinemax HD">
+    <title lang="pt">Miss Simpatia 2 - Armada e Poderosa</title>
+  </programme>
+  <programme start="20241112132000 -0300" stop="20241112150200 -0300" channel="Cinemax HD">
+    <title lang="pt">O Melhor Amigo da Noiva</title>
+  </programme>
+  <programme start="20241112150200 -0300" stop="20241112163100 -0300" channel="Cinemax HD">
+    <title lang="pt">Licença para Casar</title>
+  </programme>
+  <programme start="20241112163100 -0300" stop="20241112183900 -0300" channel="Cinemax HD">
+    <title lang="pt">Do que as Mulheres Gostam</title>
+  </programme>
+  <programme start="20241112183900 -0300" stop="20241112203500 -0300" channel="Cinemax HD">
+    <title lang="pt">Dona Flor e Seus Dois Maridos</title>
+  </programme>
+  <programme start="20241112203500 -0300" stop="20241112223000 -0300" channel="Cinemax HD">
+    <title lang="pt">Miss Simpatia 2 - Armada e Poderosa</title>
+  </programme>
+  <programme start="20241112223000 -0300" stop="20241113001200 -0300" channel="Cinemax HD">
+    <title lang="pt">O Melhor Amigo da Noiva</title>
+  </programme>
+  <programme start="20241113001200 -0300" stop="20241113014100 -0300" channel="Cinemax HD">
+    <title lang="pt">Licença para Casar</title>
+  </programme>
+  <programme start="20241113014100 -0300" stop="20241113034900 -0300" channel="Cinemax HD">
+    <title lang="pt">Do que as Mulheres Gostam</title>
+  </programme>
+  <programme start="20241113034900 -0300" stop="20241113060000 -0300" channel="Cinemax HD">
+    <title lang="pt">Terceira Pessoa</title>
+  </programme>
+  <programme start="20241113060000 -0300" stop="20241113073700 -0300" channel="Cinemax HD">
+    <title lang="pt">Os Esquecidos</title>
+  </programme>
+  <programme start="20241113073700 -0300" stop="20241113091800 -0300" channel="Cinemax HD">
+    <title lang="pt">O Assassino do Presidente</title>
+  </programme>
+  <programme start="20241113091800 -0300" stop="20241113110200 -0300" channel="Cinemax HD">
+    <title lang="pt">A Balada do Pistoleiro</title>
+  </programme>
+  <programme start="20241113110200 -0300" stop="20241113131000 -0300" channel="Cinemax HD">
+    <title lang="pt">8mm - Oito Milímetros</title>
+  </programme>
+  <programme start="20241113131000 -0300" stop="20241113145100 -0300" channel="Cinemax HD">
+    <title lang="pt">John Wick - De Volta ao Jogo</title>
+  </programme>
+  <programme start="20241113145100 -0300" stop="20241113165400 -0300" channel="Cinemax HD">
+    <title lang="pt">John Wick - Um Novo Dia para Matar</title>
+  </programme>
+  <programme start="20241113165400 -0300" stop="20241113183800 -0300" channel="Cinemax HD">
+    <title lang="pt">A Balada do Pistoleiro</title>
+  </programme>
+  <programme start="20241113183800 -0300" stop="20241113204800 -0300" channel="Cinemax HD">
+    <title lang="pt">8mm - Oito Milímetros</title>
+  </programme>
+  <programme start="20241113204800 -0300" stop="20241113223000 -0300" channel="Cinemax HD">
+    <title lang="pt">John Wick - De Volta ao Jogo</title>
+  </programme>
+  <programme start="20241113223000 -0300" stop="20241114003300 -0300" channel="Cinemax HD">
+    <title lang="pt">John Wick - Um Novo Dia para Matar</title>
   </programme>
 </tv>
