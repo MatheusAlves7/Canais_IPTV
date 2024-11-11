@@ -1,7 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/MatheusAlves7/Lista_EPG_Channel_English/refs/heads/main/guide.xml"
-#EXTINF:-1 tvg-id="pbs-kids-wbra-dt3-roanoke-va/10494" tvg-name="PBS Kids (WBRA-TV3) Roanoke, VA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Infantil",PBS Kids
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
-#EXTINF:-1 tvg-id="pbs-kids-wbra-dt3-roanoke-va/10494" tvg-name="PBS Kids (WBRA-TV3) Roanoke, VA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Infantil",PBS Kids CANAL 26
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
-#EXTINF:-1 tvg-id="pbs-kids-wbra-dt3-roanoke-va/10494" tvg-name="PBS Kids (WBRA-TV3) Roanoke, VA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Infantil",PBS Kids CANAL 51.4 
+#EXTM3U x-tvg-url=https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Infantil",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
