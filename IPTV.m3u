@@ -17,7 +17,7 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/228
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/229
 #EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",Animal Planet
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/61
-#EXTINF:-1 tvg-logo="https://tvonline.global/wp-content/uploads/2015/07/animax-ao-vivo.png" group-title="INFANTIS", Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://tvonline.global/wp-content/uploads/2015/07/animax-ao-vivo.png" group-title="INFANTIS", Animax
 https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/231
