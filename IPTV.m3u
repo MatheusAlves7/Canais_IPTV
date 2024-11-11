@@ -659,7 +659,7 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/783
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/320
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="" group-title="ENTRETENIMENTO",WOOHOO HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/117
-#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="INFANTIS",ZOOMOO 4K
+#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Zoomoo_logo.png" group-title="INFANTIS",ZOOMOO 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/370
 #EXTINF:-1 tvg-id="" tvg-name="GOAT TV 2 4K" tvg-logo="" group-title="ESPORTES ONLINE",GOAT TV 2 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1264
