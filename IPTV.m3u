@@ -25,9 +25,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/231
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/232
 #EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="FILMES & SERIES",AXN 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/233
-#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIS",BABY TV 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIS",Baby TV 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/767
-#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIS",BABY TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIS",Baby TV HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/342
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="" group-title="TV ABERTA",BAND MINAS UHD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/481
@@ -59,9 +59,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/237
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/346
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIS",Cartoon Network HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/347
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO 4K
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",Cartoonito 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/344
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO HD
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",Cartoonito HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/345
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="" group-title="ESPORTES ONLINE",CAZE TV
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1145
@@ -109,9 +109,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/68
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/69
 #EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID HD" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/70
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="INFANTIS",DISCOVERY KIDS 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="INFANTIS",Discovery Kids 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/348
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="INFANTIS",DISCOVERY KIDS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="INFANTIS",Discovery Kids HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/349
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4k
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/71
@@ -165,46 +165,6 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/133
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/134
 #EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",FASHION TV HD 
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/878
-#EXTINF:-1 tvg-id="" tvg-name="FEC 01" tvg-logo="" group-title="FEC 24 HRS",FEC 01
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1168
-#EXTINF:-1 tvg-id="" tvg-name="FEC 02" tvg-logo="" group-title="FEC 24 HRS",FEC 02
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1169
-#EXTINF:-1 tvg-id="" tvg-name="FEC 03" tvg-logo="" group-title="FEC 24 HRS",FEC 03
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1170
-#EXTINF:-1 tvg-id="" tvg-name="FEC 04" tvg-logo="" group-title="FEC 24 HRS",FEC 04
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1171
-#EXTINF:-1 tvg-id="" tvg-name="FEC 05" tvg-logo="" group-title="FEC 24 HRS",FEC 05
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1172
-#EXTINF:-1 tvg-id="" tvg-name="FEC 06" tvg-logo="" group-title="FEC 24 HRS",FEC 06
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1173
-#EXTINF:-1 tvg-id="" tvg-name="FEC 07" tvg-logo="" group-title="FEC 24 HRS",FEC 07
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1174
-#EXTINF:-1 tvg-id="" tvg-name="FEC 08" tvg-logo="" group-title="FEC 24 HRS",FEC 08
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1175
-#EXTINF:-1 tvg-id="" tvg-name="FEC 09" tvg-logo="" group-title="FEC 24 HRS",FEC 09
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1176
-#EXTINF:-1 tvg-id="" tvg-name="FEC 10" tvg-logo="" group-title="FEC 24 HRS",FEC 10
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1177
-#EXTINF:-1 tvg-id="" tvg-name="FEC 11" tvg-logo="" group-title="FEC 24 HRS",FEC 11
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1178
-#EXTINF:-1 tvg-id="" tvg-name="FEC 12" tvg-logo="" group-title="FEC 24 HRS",FEC 12
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1179
-#EXTINF:-1 tvg-id="" tvg-name="FEC 13" tvg-logo="" group-title="FEC 24 HRS",FEC 13
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1180
-#EXTINF:-1 tvg-id="" tvg-name="FEC 14" tvg-logo="" group-title="FEC 24 HRS",FEC 14
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1181
-#EXTINF:-1 tvg-id="" tvg-name="FEC 15" tvg-logo="" group-title="FEC 24 HRS",FEC 15
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1182
-#EXTINF:-1 tvg-id="" tvg-name="FEC 16" tvg-logo="" group-title="FEC 24 HRS",FEC 16
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1183
-#EXTINF:-1 tvg-id="" tvg-name="FEC 17" tvg-logo="" group-title="FEC 24 HRS",FEC 17
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1184
-#EXTINF:-1 tvg-id="" tvg-name="FEC 18" tvg-logo="" group-title="FEC 24 HRS",FEC 18
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1185
-#EXTINF:-1 tvg-id="" tvg-name="FEC 19" tvg-logo="" group-title="FEC 24 HRS",FEC 19
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1186
-#EXTINF:-1 tvg-id="" tvg-name="FEC 20" tvg-logo="" group-title="FEC 24 HRS",FEC 20
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1187
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAADLCAMAAAB04a46AAAAwFBMVEX////hGzIjHyDgDSrhEy3pbHflS1j98fP97vDfAB3rcXzhGDAfGhsgHB0bFhg2MzTQz9D3vMNaWFhMSUr29vYAAADqZ3RCQEB9e3wWEBH53N6WlJSlpKT+9vf61NnfABjgACHf39++vb0vKywMAANwbW7qeILnXWniJTvwoKfPzs7kMEbeAAD4z9Pzr7XfABFdW1vvi5bkPE7uhpL3wcjnUmL75efwmqLyqbHm5eVpZWeNi4uAfn+2tbXlP1PxnKWd2YmGAAAHQklEQVR4nO2Z/Veyvh+Hwc0HBB/QJKHQVUoUtxaiZHXf9v//V59tgIDV+Xa0zPM9r+uHDowNudj23nukKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4EepR7RdYLH/bW2k0GT0+Y/O3vbk4UXfQ9d2Sb0c7OXGdacRX+Z+flf8G8evhY6/3eKko0x7npasoQ3Hw2N1HXGcknDUajXgWEW1v9S80PFj8/nxgt9vtyVBR+vzAPr9XlJ44uLnfQ5z6T/mFdUD3Nf958W7HrghsIW5UKoYUb1cqrc4ePa6XY+1ssY85CdfrdfgubnyzeE96G/bgW8TpunzJZHuIjx3ecjT+WfHngezu8+nLhaJ0BpybA8TpZvfaPoP9KOKXE+7dHp6VS/cVZ/OkJI6iODkK9+jyo4hfiJFuXO6U7is+TnQbt5rmufLQ1D54Zv2TZT4t/0j8fZPvEK98Qfz5/vr+Kju5Kp4UxB/qsmC0ocRK3sFsV1wnGvMDn4wZ3ZZwuBYR5eLsjxT/w0vzJmqgauXM4BDx6XAo4lml0hsOh9eK8soLhq9XufjZJS+ZXpwpV397553z/lSucN1h/7zT6U//vROXfaUorsdYmFybl4c617JMJ45jZ/a20aS6vvCiyAsoWy3j2Az8MPLEO4tFqaigM99bOk7sOGaTke8RH7TbLbmWGW3b5sHtfLuOZ+JDXmXSO7u07bZhtAy7dSkGiW20Wi1e9eV5R5yli3hjlY50xSondXqznv/8UkY+YjW45kqV4WG2KIbHBpOJgZsXWPmIP0i8kmNcfLCcnQ35TDAeLyatrFbl+mKQnVQmLzvidJE+ZBraFKfU4br6Vvp9Z0O34sk6OFssyuK6XvYLt0ndQeKDQZq98KNPxVudCu/riS192/1WpWVPJnKGVAb3ZXGVls3caqnDSSTfi2PO50vZ83M9E0/X/9EiiJ2RqOWOHGdJ1GTKuMv53JQvs7EdQoeId7tXf6X561W3+/yZeKXF1/mLy9dKO+lzu/P676Iv29nTHXG2cIreT6WkWw9monRd81U1sEbiFaxoIl7nrvGbFzV9tVYLxD2coFbb8IEtjuNqoKr+SprOff1wcWUnqn8iXrFfxdWrc9nNRk/E8+epeA1G/6wortPbuHDvekT4k+ezkliiK01CRSGrCl/eUoqLcp8Swoc+pQ8yqj/wPTefO+KGIRNNSCDeVbw4nrjRL9Y1kr3LfaclKj8XxEsbFF7ss/LaSy3HcWZpZbJyRPjfii/H2xyvsI7TjRA3qVzIiBV5XnTEHp+k69Y/0eOtTnJyllS+ysVpMC/durFg1blkkzrxddr3k7FBZIZTEN/kuW1BPBnqynrFd7u6StIV/1jigzRXub7hndzuKXnlVkn8aefeMz95NjcbnSL/4uOZjTV/dSd0c/FZIRoUMzd2J28Rj9bVQGPFDOYYPV4Sf0lbyjoFcVp7d/M4TeS22adO9OA2Wjt1N1n2cvGnwmamKK6TbbR0Y97x9FvW8X3Ek0D+gbiWDfRGsxTiFGW7pum+tX1at9zjEflYXKXqvHC3WdU/4lD/mvg4zcnqlkY8t/ATThbX9SwJi0dLMwxLc9z7TJz3+epumXf7doU8GXGSls/5TCZh4Se2TrQpvOtrb7UJ9LH3RXHejvmrZmgmq567oicmruXi/FHzp1pnXaSr4rNUw6KE8plKviaebN14SKR+UJVjfs1OTDzdiyuuRZiaz/I8rdN9cW4+JO+BRMoXxOnK87xmIJrwnMcXs8kZn5h4uvDw07uneWGOO7V0bOqBOM0+yZC7r4gnN82i48PoFMXp6pOfGKVLUNrjcheua1Y5qpfERUrv/qE6T+TlNnZJ5LsjtKHk33RORlxXP3sSc6wn4jI2zwPGND9MxkQ4pu/Fk4XxbRHwTYov54zJkxfGVnKPk3X/yYjzDGb0yY/cJQsaTWN9Y9TIrriOx96Jy+kvrzKVVJPD+shJP+IdM1f/mrhKbmfFWzfW2Ytwo0S89N+GZRL/Iu2duB6kKYH4AqO9FXMCZZlFjIPFB+223c7EbcNoJ/9C4gedey4+MQwjz9X5SS4u63QL4irZ3G2/LLmmpVlZz7pV+bh085SVjCI/6ddQq7o74nxmJ2+wzkQw9/LX5YTBtt6B4v8eXzjXycljh9PjLlNx0Oc9/nrDD24y8XNx8jdt+SLrFHtc5Je1yHTchmNGK5/vKGq3Kek2heq1cD2bmeHtgscrazla3m1oICoEpR0sDVbNyGveyjjIT8L5bMRbWQuap/Qn9m9iSrTxw8NYIzKUU5Ki59eZNk62WXxryo+oKjZsu/9SlmUkWwcp07TxuLw5OzXx4wFxiB9fvMrI8Xn4ffH6k1U9Ptbsfz/ZT+PWf4PftgYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP9L/gPfz+DRyt26hQAAAABJRU5ErkJggg==" group-title="FILMES & SERIES",FILM & ARTS HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/242
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV 4K
@@ -285,9 +245,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/968
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/563
 #EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="GLOBOSAT + UHD" tvg-logo="" group-title="ENTRETENIMENTO",GLOBOSAT + UHD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/106
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="https://logospng.org/wp-content/uploads/gloob.png" group-title="INFANTIS",GLOOB 4K
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/gloob.png" group-title="INFANTIS",Gloob 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/357
-#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://logospng.org/wp-content/uploads/gloob.png" group-title="INFANTIS",GLOOB HD
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/gloob.png" group-title="INFANTIS",Gloob HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/358
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="INFANTIS",Gloobinho 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/359
@@ -401,13 +361,13 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1130
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/449
 #EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK HD" tvg-logo="" group-title="NOTICIAS",NHK HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/450
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="INFANTIS",NICK JR 4K
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="INFANTIS",Nick Jr 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/363
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="INFANTIS",NICK JR HD
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="INFANTIS",Nick Jr HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/364
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg" group-title="INFANTIS",NICKELODEON 4K
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg" group-title="INFANTIS",Nickelodeon 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/365
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg" group-title="INFANTIS",NICKELODEON HD
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg" group-title="INFANTIS",Nickelodeon HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/768
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1" tvg-logo="" group-title="ESPORTES ONLINE",NOSSO FUTEBOL 1
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1131
@@ -623,9 +583,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1089
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/553
 #EXTINF:-1 tvg-id="" tvg-name="TV MORENA 4K" tvg-logo="" group-title="TV ABERTA",TV MORENA 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1099
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="INFANTIS",TV RA TIM BUM 4K
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="INFANTIS",TV Ra Tim Bum 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/369
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="INFANTIS",TV RA TIM BUM HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="INFANTIS",TV Ra Tim Bum HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/557
 #EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logotipo_TV_Santa_Cruz.png" group-title="TV ABERTA",TV SANTA CRUZ 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1055
@@ -661,7 +621,7 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/783
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/320
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="" group-title="ENTRETENIMENTO",WOOHOO HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/117
-#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="INFANTIS",ZOOMOO 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="INFANTIS",ZooMoo 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/370
 #EXTINF:-1 tvg-id="" tvg-name="GOAT TV 2 4K" tvg-logo="" group-title="ESPORTES ONLINE",GOAT TV 2 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1264
