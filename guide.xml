@@ -90,9 +90,25 @@
     <icon src="https://www.nowonline.com.br/img/channels/cartoonito.png" />
     <url>http://www.clarotvmais.com.br</url>
   </channel>
+  <channel id="Zoomoo">
+    <display-name lang="pt">Zoomoo</display-name>
+    <url>http://www.tvmap.com.br</url>
+  </channel>
   <channel id="Animal Planet 4K">
     <display-name lang="pt">Animal Planet 4K</display-name>
     <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel 4K">
+    <display-name lang="pt">Discovery Channel 4K</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home&amp;Health 4K">
+    <display-name lang="pt">Discovery Home&amp;Health 4K</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="Discovery Home&amp;Health HD">
+    <display-name lang="pt">Discovery Home&amp;Health HD</display-name>
+    <url>http://www.nowonline.com.br</url>
   </channel>
   <programme start="20241113204800 -0300" stop="20241113223000 -0300" channel="Cinemax 4K">
     <title lang="pt">John Wick - De Volta ao Jogo</title>
@@ -351,12 +367,6 @@
   </programme>
   <programme start="20241116223000 -0300" stop="20241117005500 -0300" channel="Cinemax HD">
     <title lang="pt">Jogos Vorazes - Em Chamas</title>
-  </programme>
-  <programme start="20241113211700 -0300" stop="20241113212900 -0300" channel="Cartoon Network 4K">
-    <title lang="pt">Clarêncio, o Otimista</title>
-  </programme>
-  <programme start="20241113212900 -0300" stop="20241113214000 -0300" channel="Cartoon Network 4K">
-    <title lang="pt">Clarêncio, o Otimista</title>
   </programme>
   <programme start="20241113214000 -0300" stop="20241113215300 -0300" channel="Cartoon Network 4K">
     <title lang="pt">Clarêncio, o Otimista</title>
@@ -1219,12 +1229,6 @@
   <programme start="20241116230000 -0300" stop="20241117000000 -0300" channel="Cartoon Network 4K">
     <title lang="pt">Irmão do Jorel</title>
   </programme>
-  <programme start="20241113211700 -0300" stop="20241113212900 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Clarêncio, o Otimista : T3 EP33 - Clarêncio, Rei dos Cachorros</title>
-  </programme>
-  <programme start="20241113212900 -0300" stop="20241113214000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Clarêncio, o Otimista : T2 EP7 - Feira Medieval</title>
-  </programme>
   <programme start="20241113214000 -0300" stop="20241113215300 -0300" channel="Cartoon Network HD">
     <title lang="pt">Clarêncio, o Otimista : T2 EP4 - Cacto da Liberdade</title>
   </programme>
@@ -2086,9 +2090,6 @@
   <programme start="20241116230000 -0300" stop="20241117000000 -0300" channel="Cartoon Network HD">
     <title lang="pt">Irmão do Jorel</title>
   </programme>
-  <programme start="20241113210000 -0300" stop="20241113212900 -0300" channel="Disney Channel 4K">
-    <title lang="pt">Acampados</title>
-  </programme>
   <programme start="20241113212900 -0300" stop="20241113215700 -0300" channel="Disney Channel 4K">
     <title lang="pt">Acampados</title>
   </programme>
@@ -2640,10 +2641,6 @@
   </programme>
   <programme start="20241116233000 -0300" stop="20241117000000 -0300" channel="Disney Channel 4K">
     <title lang="pt">Segredos em Sulphur Springs</title>
-  </programme>
-  <programme start="20241114000000 +0000" stop="20241114003000 +0000" channel="Disney Channel HD">
-    <title lang="pt">Acampados</title>
-    <desc lang="pt">Emma, Ravi, e Zuri Ross saem de Nova York, e vão para um acampamento de verão em Maine, chamado Acampamento Kikiwaka.(n)</desc>
   </programme>
   <programme start="20241114003000 +0000" stop="20241114010000 +0000" channel="Disney Channel HD">
     <title lang="pt">Acampados</title>
@@ -7096,15 +7093,6 @@
   <programme start="20241116234700 -0300" stop="20241117001000 -0300" channel="Gloob HD">
     <title lang="pt">Dragões: Corrida Até O Limite</title>
   </programme>
-  <programme start="20241113212200 -0300" stop="20241113213000 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Senhorita Zazie</title>
-  </programme>
-  <programme start="20241113213000 -0300" stop="20241113213500 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Ana Pompom</title>
-  </programme>
-  <programme start="20241113213500 -0300" stop="20241113214000 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Ana Pompom</title>
-  </programme>
   <programme start="20241113214000 -0300" stop="20241113214500 -0300" channel="Gloobinho 4K">
     <title lang="pt">Pipas</title>
   </programme>
@@ -8520,18 +8508,6 @@
   </programme>
   <programme start="20241116235200 -0300" stop="20241117000000 -0300" channel="Gloobinho 4K">
     <title lang="pt">Senhorita Zazie</title>
-  </programme>
-  <programme start="20241114002200 +0000" stop="20241114003000 +0000" channel="Gloobinho HD">
-    <title lang="pt">Senhorita Zazie</title>
-    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
-  </programme>
-  <programme start="20241114003000 +0000" stop="20241114003500 +0000" channel="Gloobinho HD">
-    <title lang="pt">Ana Pompom</title>
-    <desc lang="pt">Tim e Lucie perderam seus primeiros dentes de leite, e o ratinho faleceu. Ana gostaria que fosse o mesmo para ela.(n)</desc>
-  </programme>
-  <programme start="20241114003500 +0000" stop="20241114004000 +0000" channel="Gloobinho HD">
-    <title lang="pt">Ana Pompom</title>
-    <desc lang="pt">Ana está resfriada e não pode sair para brincar com os amigos. Não importa. Com Buddy, ela criará um jogo interativo da janela de seu quarto com seus amigos que estão do lado de fora.(n)</desc>
   </programme>
   <programme start="20241114004000 +0000" stop="20241114004500 +0000" channel="Gloobinho HD">
     <title lang="pt">Pipas</title>
@@ -10989,6 +10965,10 @@
     <title lang="pt">Alice &amp; Lewis</title>
     <desc lang="pt">É dia de brincar de esconde-esconde no reino - um jogo que deixa todos tremendo de medo. E por um bom motivo: quem não for encontrado, desaparecerá para sempre!(n)</desc>
   </programme>
+  <programme start="20241118003000 +0000" stop="20241118004500 +0000" channel="Gloobinho HD">
+    <title lang="pt">Alice &amp; Lewis</title>
+    <desc lang="pt">A Rainha se cansa dos constantes atrasos e falta de jeito de uma das cartas e decide expulsá-la do exército. Alice faz de tudo para corrigir essa injustiça.(n)</desc>
+  </programme>
   <programme start="20241113212800 -0300" stop="20241113215000 -0300" channel="Discovery Kids 4K">
     <title lang="pt">Trolls: TrollsTopia</title>
   </programme>
@@ -13113,12 +13093,6 @@
   <programme start="20241116235800 -0300" stop="20241117002000 -0300" channel="Discovery Kids HD">
     <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
   </programme>
-  <programme start="20241113212000 -0300" stop="20241113213000 -0300" channel="TV Rá Tim Bum 4K">
-    <title lang="pt">Traçando Arte</title>
-  </programme>
-  <programme start="20241113213000 -0300" stop="20241113213500 -0300" channel="TV Rá Tim Bum 4K">
-    <title lang="pt">Astro Não Mia</title>
-  </programme>
   <programme start="20241113213500 -0300" stop="20241113214500 -0300" channel="TV Rá Tim Bum 4K">
     <title lang="pt">Território do Brincar</title>
   </programme>
@@ -13919,10 +13893,6 @@
   </programme>
   <programme start="20241116234500 -0300" stop="20241117000000 -0300" channel="TV Rá Tim Bum 4K">
     <title lang="pt">Rubra em Família</title>
-  </programme>
-  <programme start="20241114002300 +0000" stop="20241114003500 +0000" channel="Cartoonito 4K">
-    <title lang="pt">Perninha em Obras</title>
-    <desc lang="pt">Os Looney Builders alteram o último buraco do Campo de Minigolfe de Acme City e Gaguinho está determinado a torná-lo perfeito para as crianças.(n)</desc>
   </programme>
   <programme start="20241114003500 +0000" stop="20241114004700 +0000" channel="Cartoonito 4K">
     <title lang="pt">Perninha em Obras</title>
@@ -16624,9 +16594,9 @@
     <title lang="pt">Meka Builders</title>
     <desc lang="pt">A Torre da Guarda é o lugar perfeito para ver o Cometa Pinecone, então o que o Guarda Nat deve fazer quando seu telescópio cai no fundo do penhasco?(n)</desc>
   </programme>
-  <programme start="20241114002300 +0000" stop="20241114003500 +0000" channel="Cartoonito HD">
-    <title lang="pt">Perninha em Obras</title>
-    <desc lang="pt">Os Looney Builders alteram o último buraco do Campo de Minigolfe de Acme City e Gaguinho está determinado a torná-lo perfeito para as crianças.(n)</desc>
+  <programme start="20241118003000 +0000" stop="20241118004400 +0000" channel="Cartoonito 4K">
+    <title lang="pt">Bloquinho da Bea</title>
+    <desc lang="pt">Sam está nervoso com seu primeiro jantar com outra família.(n)</desc>
   </programme>
   <programme start="20241114003500 +0000" stop="20241114004700 +0000" channel="Cartoonito HD">
     <title lang="pt">Perninha em Obras</title>
@@ -19328,8 +19298,9 @@
     <title lang="pt">Meka Builders</title>
     <desc lang="pt">A Torre da Guarda é o lugar perfeito para ver o Cometa Pinecone, então o que o Guarda Nat deve fazer quando seu telescópio cai no fundo do penhasco?(n)</desc>
   </programme>
-  <programme start="20241113204400 -0300" stop="20241113213700 -0300" channel="Animal Planet 4K">
-    <title lang="pt">Encontros com Monstros : Hipopótamo Assassino</title>
+  <programme start="20241118003000 +0000" stop="20241118004400 +0000" channel="Cartoonito HD">
+    <title lang="pt">Bloquinho da Bea</title>
+    <desc lang="pt">Sam está nervoso com seu primeiro jantar com outra família.(n)</desc>
   </programme>
   <programme start="20241113213700 -0300" stop="20241113222800 -0300" channel="Animal Planet 4K">
     <title lang="pt">Pesca Mortal - O Retorno do Viking : T1 EP3 - Capitão Rebelde</title>
