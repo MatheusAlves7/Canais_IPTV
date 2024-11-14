@@ -90,6 +90,10 @@
     <icon src="https://www.nowonline.com.br/img/channels/cartoonito.png" />
     <url>http://www.clarotvmais.com.br</url>
   </channel>
+  <channel id="Animal Planet 4K">
+    <display-name lang="pt">Animal Planet 4K</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20241113204800 -0300" stop="20241113223000 -0300" channel="Cinemax 4K">
     <title lang="pt">John Wick - De Volta ao Jogo</title>
   </programme>
@@ -347,9 +351,6 @@
   </programme>
   <programme start="20241116223000 -0300" stop="20241117005500 -0300" channel="Cinemax HD">
     <title lang="pt">Jogos Vorazes - Em Chamas</title>
-  </programme>
-  <programme start="20241113210500 -0300" stop="20241113211700 -0300" channel="Cartoon Network 4K">
-    <title lang="pt">Clarêncio, o Otimista</title>
   </programme>
   <programme start="20241113211700 -0300" stop="20241113212900 -0300" channel="Cartoon Network 4K">
     <title lang="pt">Clarêncio, o Otimista</title>
@@ -1217,9 +1218,6 @@
   </programme>
   <programme start="20241116230000 -0300" stop="20241117000000 -0300" channel="Cartoon Network 4K">
     <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20241113210500 -0300" stop="20241113211700 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Clarêncio, o Otimista : T2 EP22 - Sala de Aula</title>
   </programme>
   <programme start="20241113211700 -0300" stop="20241113212900 -0300" channel="Cartoon Network HD">
     <title lang="pt">Clarêncio, o Otimista : T3 EP33 - Clarêncio, Rei dos Cachorros</title>
@@ -3519,9 +3517,6 @@
     <title lang="pt">Como Criar o Garoto Perfeito</title>
     <desc lang="pt">Gabby Harrison e Mae Hartley, duas melhores amigas sabem tudo sobre tecnologia e programam, através do computador, um garoto perfeito, mas durante o processo, acabam causando um acidente nacional.(n)</desc>
   </programme>
-  <programme start="20241113205500 -0300" stop="20241113212500 -0300" channel="Nickelodeon 4K">
-    <title lang="pt">Henry Danger : T4 EP18 - Soletrando</title>
-  </programme>
   <programme start="20241113212500 -0300" stop="20241113215500 -0300" channel="Nickelodeon 4K">
     <title lang="pt">Henry Danger : T4 EP15 - Capitão Man-kini</title>
   </programme>
@@ -4074,9 +4069,6 @@
   <programme start="20241116234000 -0300" stop="20241117000000 -0300" channel="Nickelodeon 4K">
     <title lang="pt">Bob Esponja, Calça Quadrada : T12 EP8 - Bob Esponja na Terra Aleatória; O Mau Hábito de Bob Esponja</title>
   </programme>
-  <programme start="20241113205500 -0300" stop="20241113212500 -0300" channel="Nickelodeon HD">
-    <title lang="pt">Henry Danger</title>
-  </programme>
   <programme start="20241113212500 -0300" stop="20241113215500 -0300" channel="Nickelodeon HD">
     <title lang="pt">Henry Danger</title>
   </programme>
@@ -4628,9 +4620,6 @@
   </programme>
   <programme start="20241116234000 -0300" stop="20241117000000 -0300" channel="Nickelodeon HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-  </programme>
-  <programme start="20241113205500 -0300" stop="20241113212000 -0300" channel="Nick Jr 4K">
-    <title lang="pt">Patrulha Canina</title>
   </programme>
   <programme start="20241113212000 -0300" stop="20241113215000 -0300" channel="Nick Jr 4K">
     <title lang="pt">Rubble e Sua Turma</title>
@@ -5274,9 +5263,6 @@
   <programme start="20241116233500 -0300" stop="20241117000000 -0300" channel="Nick Jr 4K">
     <title lang="pt">Patrulha Canina</title>
   </programme>
-  <programme start="20241113205500 -0300" stop="20241113212000 -0300" channel="Nick Jr HD">
-    <title lang="pt">Patrulha Canina : T11 EP3 - Os Filhotes e uma Galinha Valente!; Os Filhotes Salvam um Concurso</title>
-  </programme>
   <programme start="20241113212000 -0300" stop="20241113215000 -0300" channel="Nick Jr HD">
     <title lang="pt">Rubble e Sua Turma : A Turma Constrói uma Academia; A Turma Dá um Show de Construção!</title>
   </programme>
@@ -5919,9 +5905,6 @@
   <programme start="20241116233500 -0300" stop="20241117000000 -0300" channel="Nick Jr HD">
     <title lang="pt">Patrulha Canina : T1 EP21 - Os Filhotes Salvam um Morcego; Os Filhotes Salvam um Dente</title>
   </programme>
-  <programme start="20241113210000 -0300" stop="20241113212200 -0300" channel="Gloob 4K">
-    <title lang="pt">Saúdem Todos O Rei Julien</title>
-  </programme>
   <programme start="20241113212200 -0300" stop="20241113214500 -0300" channel="Gloob 4K">
     <title lang="pt">Saúdem Todos O Rei Julien</title>
   </programme>
@@ -6512,9 +6495,6 @@
   </programme>
   <programme start="20241116234700 -0300" stop="20241117001000 -0300" channel="Gloob 4K">
     <title lang="pt">Dragões: Corrida Até O Limite</title>
-  </programme>
-  <programme start="20241113210000 -0300" stop="20241113212200 -0300" channel="Gloob HD">
-    <title lang="pt">Saúdem Todos O Rei Julien</title>
   </programme>
   <programme start="20241113212200 -0300" stop="20241113214500 -0300" channel="Gloob HD">
     <title lang="pt">Saúdem Todos O Rei Julien</title>
@@ -7115,12 +7095,6 @@
   </programme>
   <programme start="20241116234700 -0300" stop="20241117001000 -0300" channel="Gloob HD">
     <title lang="pt">Dragões: Corrida Até O Limite</title>
-  </programme>
-  <programme start="20241113210700 -0300" stop="20241113211500 -0300" channel="Gloobinho 4K">
-    <title lang="pt">As Aventuras De Miffy</title>
-  </programme>
-  <programme start="20241113211500 -0300" stop="20241113212200 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Senhorita Zazie</title>
   </programme>
   <programme start="20241113212200 -0300" stop="20241113213000 -0300" channel="Gloobinho 4K">
     <title lang="pt">Senhorita Zazie</title>
@@ -8546,14 +8520,6 @@
   </programme>
   <programme start="20241116235200 -0300" stop="20241117000000 -0300" channel="Gloobinho 4K">
     <title lang="pt">Senhorita Zazie</title>
-  </programme>
-  <programme start="20241114000700 +0000" stop="20241114001500 +0000" channel="Gloobinho HD">
-    <title lang="pt">As Aventuras De Miffy</title>
-    <desc lang="pt">Um dia de ventania faz folhas voarem por toda parte. Miffy diverte-se muito as arrumando e perseguindo. Ela também ajuda a terminar a pintura da tia Alice ao longo do caminho!(n)</desc>
-  </programme>
-  <programme start="20241114001500 +0000" stop="20241114002200 +0000" channel="Gloobinho HD">
-    <title lang="pt">Senhorita Zazie</title>
-    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
   </programme>
   <programme start="20241114002200 +0000" stop="20241114003000 +0000" channel="Gloobinho HD">
     <title lang="pt">Senhorita Zazie</title>
@@ -11019,8 +10985,9 @@
     <title lang="pt">Leo, O Guarda Da Floresta</title>
     <desc lang="pt">Os guardas descobrem um kakapo que deseja voar! Há apenas um pequeno problema: Ele é o único papagaio no mundo que não voa.(n)</desc>
   </programme>
-  <programme start="20241113210100 -0300" stop="20241113212800 -0300" channel="Discovery Kids 4K">
-    <title lang="pt">Madagascar - Pequenos Selvagens</title>
+  <programme start="20241118001500 +0000" stop="20241118003000 +0000" channel="Gloobinho HD">
+    <title lang="pt">Alice &amp; Lewis</title>
+    <desc lang="pt">É dia de brincar de esconde-esconde no reino - um jogo que deixa todos tremendo de medo. E por um bom motivo: quem não for encontrado, desaparecerá para sempre!(n)</desc>
   </programme>
   <programme start="20241113212800 -0300" stop="20241113215000 -0300" channel="Discovery Kids 4K">
     <title lang="pt">Trolls: TrollsTopia</title>
@@ -12084,9 +12051,6 @@
   <programme start="20241116235800 -0300" stop="20241117002000 -0300" channel="Discovery Kids 4K">
     <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
   </programme>
-  <programme start="20241113210100 -0300" stop="20241113212800 -0300" channel="Discovery Kids HD">
-    <title lang="pt">Madagascar - Pequenos Selvagens</title>
-  </programme>
   <programme start="20241113212800 -0300" stop="20241113215000 -0300" channel="Discovery Kids HD">
     <title lang="pt">Trolls: TrollsTopia</title>
   </programme>
@@ -13149,9 +13113,6 @@
   <programme start="20241116235800 -0300" stop="20241117002000 -0300" channel="Discovery Kids HD">
     <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
   </programme>
-  <programme start="20241113210000 -0300" stop="20241113212000 -0300" channel="TV Rá Tim Bum 4K">
-    <title lang="pt">DJ Cão e a Loja de Discos</title>
-  </programme>
   <programme start="20241113212000 -0300" stop="20241113213000 -0300" channel="TV Rá Tim Bum 4K">
     <title lang="pt">Traçando Arte</title>
   </programme>
@@ -13958,10 +13919,6 @@
   </programme>
   <programme start="20241116234500 -0300" stop="20241117000000 -0300" channel="TV Rá Tim Bum 4K">
     <title lang="pt">Rubra em Família</title>
-  </programme>
-  <programme start="20241114001100 +0000" stop="20241114002300 +0000" channel="Cartoonito 4K">
-    <title lang="pt">Perninha em Obras</title>
-    <desc lang="pt">Os Looney Builders ajudam Wile E. Coyote a construir um telescópio para ver a lua, mas Piu-Piu precisa encarar seu medo do escuro.(n)</desc>
   </programme>
   <programme start="20241114002300 +0000" stop="20241114003500 +0000" channel="Cartoonito 4K">
     <title lang="pt">Perninha em Obras</title>
@@ -16663,9 +16620,9 @@
     <title lang="pt">Meka Builders</title>
     <desc lang="pt">O fazendeiro MacBarm está trazendo para suas galinhas um novo comedouro cheio de ração... até que ele cai de seu caminhão e quebra.(n)</desc>
   </programme>
-  <programme start="20241114001100 +0000" stop="20241114002300 +0000" channel="Cartoonito HD">
-    <title lang="pt">Perninha em Obras</title>
-    <desc lang="pt">Os Looney Builders ajudam Wile E. Coyote a construir um telescópio para ver a lua, mas Piu-Piu precisa encarar seu medo do escuro.(n)</desc>
+  <programme start="20241118001800 +0000" stop="20241118003000 +0000" channel="Cartoonito 4K">
+    <title lang="pt">Meka Builders</title>
+    <desc lang="pt">A Torre da Guarda é o lugar perfeito para ver o Cometa Pinecone, então o que o Guarda Nat deve fazer quando seu telescópio cai no fundo do penhasco?(n)</desc>
   </programme>
   <programme start="20241114002300 +0000" stop="20241114003500 +0000" channel="Cartoonito HD">
     <title lang="pt">Perninha em Obras</title>
@@ -19366,5 +19323,276 @@
   <programme start="20241118000500 +0000" stop="20241118001800 +0000" channel="Cartoonito HD">
     <title lang="pt">Meka Builders</title>
     <desc lang="pt">O fazendeiro MacBarm está trazendo para suas galinhas um novo comedouro cheio de ração... até que ele cai de seu caminhão e quebra.(n)</desc>
+  </programme>
+  <programme start="20241118001800 +0000" stop="20241118003000 +0000" channel="Cartoonito HD">
+    <title lang="pt">Meka Builders</title>
+    <desc lang="pt">A Torre da Guarda é o lugar perfeito para ver o Cometa Pinecone, então o que o Guarda Nat deve fazer quando seu telescópio cai no fundo do penhasco?(n)</desc>
+  </programme>
+  <programme start="20241113204400 -0300" stop="20241113213700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Encontros com Monstros : Hipopótamo Assassino</title>
+  </programme>
+  <programme start="20241113213700 -0300" stop="20241113222800 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal - O Retorno do Viking : T1 EP3 - Capitão Rebelde</title>
+  </programme>
+  <programme start="20241113222800 -0300" stop="20241113232100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal - O Retorno do Viking : T1 EP4 - Sangue Norueguês</title>
+  </programme>
+  <programme start="20241113232100 -0300" stop="20241114001600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T10 EP2 - Assunto de Família</title>
+  </programme>
+  <programme start="20241114001600 -0300" stop="20241114011100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T10 EP3 - A Lei de Darwin</title>
+  </programme>
+  <programme start="20241114011100 -0300" stop="20241114020400 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Casas na Árvore : T7 EP2 - Uma Aventura 360</title>
+  </programme>
+  <programme start="20241114020400 -0300" stop="20241114025600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Com Água até o Pescoço : T7 EP10 - Bufê de Tubarão</title>
+  </programme>
+  <programme start="20241114025600 -0300" stop="20241114034800 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinários do Texas : T4 EP5 - Tumor de Sete Quilos</title>
+  </programme>
+  <programme start="20241114034800 -0300" stop="20241114044000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinário das Montanhas : T4 EP8 - Pequenos Pacientes</title>
+  </programme>
+  <programme start="20241114044000 -0300" stop="20241114053200 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Meu Gato Endiabrado : T4 EP16 - Daisy</title>
+  </programme>
+  <programme start="20241114053200 -0300" stop="20241114060000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">O Incrível Mundo Animal : T1 EP11 - Filhotes Inteligentes e Ursos Polares</title>
+  </programme>
+  <programme start="20241114060000 -0300" stop="20241114062000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Espetaculares : T3 EP3 - Desejos de Spa e a Casa dos Sonhos</title>
+  </programme>
+  <programme start="20241114062000 -0300" stop="20241114064000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Espetaculares : T3 EP4 - Piscina de Resort e Oásis no Quintal</title>
+  </programme>
+  <programme start="20241114064000 -0300" stop="20241114073500 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Com Água até o Pescoço : T7 EP1 - Novos Negócios</title>
+  </programme>
+  <programme start="20241114073500 -0300" stop="20241114082700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Casas na Árvore : T7 EP1 - Um Ar de Provença</title>
+  </programme>
+  <programme start="20241114082700 -0300" stop="20241114091900 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Incríveis : T3 EP4 - Tacada de Mestre</title>
+  </programme>
+  <programme start="20241114091900 -0300" stop="20241114101300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na África do Sul</title>
+  </programme>
+  <programme start="20241114101300 -0300" stop="20241114111300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na África do Sul</title>
+  </programme>
+  <programme start="20241114111300 -0300" stop="20241114121200 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T6 EP1 - Problemas do Interior</title>
+  </programme>
+  <programme start="20241114121200 -0300" stop="20241114131300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T6 EP3 - Perigo no Quintal</title>
+  </programme>
+  <programme start="20241114131300 -0300" stop="20241114141000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Tubarões na Ilha Fantasma</title>
+  </programme>
+  <programme start="20241114141000 -0300" stop="20241114150700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T11 EP4 - Supertufão</title>
+  </programme>
+  <programme start="20241114150700 -0300" stop="20241114160400 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T11 EP5 - Super Tufão</title>
+  </programme>
+  <programme start="20241114160400 -0300" stop="20241114170100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na África do Sul</title>
+  </programme>
+  <programme start="20241114170100 -0300" stop="20241114180100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na África do Sul</title>
+  </programme>
+  <programme start="20241114180100 -0300" stop="20241114182700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20241114182700 -0300" stop="20241114185300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20241114185300 -0300" stop="20241114194500 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perigo na Aldeia : Hipopótamos</title>
+  </programme>
+  <programme start="20241114194500 -0300" stop="20241114203700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Ilhas Selvagens : T1 EP1 - Ilha do Tubarão</title>
+  </programme>
+  <programme start="20241114203700 -0300" stop="20241114213100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Ilhas Selvagens : T1 EP2 - Ilha da Orca</title>
+  </programme>
+  <programme start="20241114213100 -0300" stop="20241114222600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pit Bulls e Condenados</title>
+  </programme>
+  <programme start="20241114222600 -0300" stop="20241115001600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pit Bulls e Condenados</title>
+  </programme>
+  <programme start="20241115001600 -0300" stop="20241115011100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pit Bulls e Condenados : T19 EP1 - Um Novo Capítulo</title>
+  </programme>
+  <programme start="20241115011100 -0300" stop="20241115020400 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Casas na Árvore : T7 EP1 - Um Ar de Provença</title>
+  </programme>
+  <programme start="20241115020400 -0300" stop="20241115025600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Com Água até o Pescoço : T7 EP1 - Novos Negócios</title>
+  </programme>
+  <programme start="20241115025600 -0300" stop="20241115034800 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinários do Texas : T4 EP3 - O Conto dos Dois Rabos</title>
+  </programme>
+  <programme start="20241115034800 -0300" stop="20241115044000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinário das Montanhas : T4 EP10 - Aqui Estamos</title>
+  </programme>
+  <programme start="20241115044000 -0300" stop="20241115053200 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Meu Gato Endiabrado : T4 EP17 - Como Vão os Miaus?</title>
+  </programme>
+  <programme start="20241115053200 -0300" stop="20241115060000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">O Incrível Mundo Animal : T1 EP12 - Formigas se Afogam?</title>
+  </programme>
+  <programme start="20241115060000 -0300" stop="20241115062000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Espetaculares : T3 EP5 - Paraíso Tropical no Quintal</title>
+  </programme>
+  <programme start="20241115062000 -0300" stop="20241115064000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Espetaculares : T3 EP6 - Um Paraíso no Quintal</title>
+  </programme>
+  <programme start="20241115064000 -0300" stop="20241115073500 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Com Água até o Pescoço : T7 EP3 - Primeiro Encontro</title>
+  </programme>
+  <programme start="20241115073500 -0300" stop="20241115082700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Casas na Árvore : T7 EP4 - Em Nome de Frank Lloyd</title>
+  </programme>
+  <programme start="20241115082700 -0300" stop="20241115091900 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Incríveis : T3 EP9 - Piscina da Vida</title>
+  </programme>
+  <programme start="20241115091900 -0300" stop="20241115101300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP1 - Entre Bisões e Águias</title>
+  </programme>
+  <programme start="20241115101300 -0300" stop="20241115111300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP2 - O Rei da Selva</title>
+  </programme>
+  <programme start="20241115111300 -0300" stop="20241115121200 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T6 EP4 - Lixo Ilegal</title>
+  </programme>
+  <programme start="20241115121200 -0300" stop="20241115131300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T6 EP5 - Condução Perigosa</title>
+  </programme>
+  <programme start="20241115131300 -0300" stop="20241115141000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Tubarões Voadores - Caçadores Noturnos</title>
+  </programme>
+  <programme start="20241115141000 -0300" stop="20241115150700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T11 EP6 - Talento Desperdiçado</title>
+  </programme>
+  <programme start="20241115150700 -0300" stop="20241115160400 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T11 EP7 - O Peso da Coroa</title>
+  </programme>
+  <programme start="20241115160400 -0300" stop="20241115170100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP1 - Entre Bisões e Águias</title>
+  </programme>
+  <programme start="20241115170100 -0300" stop="20241115180100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP2 - O Rei da Selva</title>
+  </programme>
+  <programme start="20241115180100 -0300" stop="20241115185300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Histórias Animais : T1 EP1 - A História dos Felinos</title>
+  </programme>
+  <programme start="20241115185300 -0300" stop="20241115194500 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Desvendando os Oceanos com Jeremy Wade : T1 EP3 - Maldição do Kraken</title>
+  </programme>
+  <programme start="20241115194500 -0300" stop="20241115203700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Desvendando os Oceanos com Jeremy Wade : T2 EP1 - O Tesouro Roubado</title>
+  </programme>
+  <programme start="20241115203700 -0300" stop="20241115213100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Jeremy Wade - Águas Misteriosas : T1 EP6 - Em Busca do Lúcio</title>
+  </programme>
+  <programme start="20241115213100 -0300" stop="20241115222600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinário das Montanhas : T3 EP4 - No Limite</title>
+  </programme>
+  <programme start="20241115222600 -0300" stop="20241115232100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinário das Montanhas : T3 EP5 - Nascido para Correr</title>
+  </programme>
+  <programme start="20241115232100 -0300" stop="20241116001600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinário das Montanhas : T3 EP6 - Um Abrigo da Tempestade</title>
+  </programme>
+  <programme start="20241116001600 -0300" stop="20241116011100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinário das Montanhas : T3 EP8 - Amigos para Sempre</title>
+  </programme>
+  <programme start="20241116011100 -0300" stop="20241116020400 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Casas na Árvore : T7 EP4 - Em Nome de Frank Lloyd</title>
+  </programme>
+  <programme start="20241116020400 -0300" stop="20241116025600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Com Água até o Pescoço : T7 EP3 - Primeiro Encontro</title>
+  </programme>
+  <programme start="20241116025600 -0300" stop="20241116034800 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinários do Texas : T4 EP4 - O Garoto que Castrou o Lobo</title>
+  </programme>
+  <programme start="20241116034800 -0300" stop="20241116044000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Veterinário das Montanhas : T4 EP9 - Longe de Casa</title>
+  </programme>
+  <programme start="20241116044000 -0300" stop="20241116053200 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Meu Gato Endiabrado : T5 EP1 - Pesadelo de Paraquedista</title>
+  </programme>
+  <programme start="20241116053200 -0300" stop="20241116060000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">O Incrível Mundo Animal : T1 EP13 - O Som das Baleias</title>
+  </programme>
+  <programme start="20241116060000 -0300" stop="20241116062000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Espetaculares : T3 EP7 - Piscina à Beira do Lago</title>
+  </programme>
+  <programme start="20241116062000 -0300" stop="20241116064000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Espetaculares : T3 EP8 - Um Projeto Desafiador</title>
+  </programme>
+  <programme start="20241116064000 -0300" stop="20241116073500 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Com Água até o Pescoço : T7 EP2 - NASCAR e Beisebol</title>
+  </programme>
+  <programme start="20241116073500 -0300" stop="20241116082700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Casas na Árvore : T7 EP3 - Por Cima das Macieiras</title>
+  </programme>
+  <programme start="20241116082700 -0300" stop="20241116091900 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Piscinas Incríveis : T3 EP8 - Pedras do Amor</title>
+  </programme>
+  <programme start="20241116091900 -0300" stop="20241116101300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP3 - O Urso</title>
+  </programme>
+  <programme start="20241116101300 -0300" stop="20241116111300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP4 - Chita</title>
+  </programme>
+  <programme start="20241116111300 -0300" stop="20241116121200 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T6 EP6 - Calmaria Depois da Tempestade</title>
+  </programme>
+  <programme start="20241116121200 -0300" stop="20241116131300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T6 EP7 - Perseguição Noturna</title>
+  </programme>
+  <programme start="20241116131300 -0300" stop="20241116141000 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Tubarões Mortais</title>
+  </programme>
+  <programme start="20241116141000 -0300" stop="20241116150700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T11 EP8 - Hora Zero</title>
+  </programme>
+  <programme start="20241116150700 -0300" stop="20241116160400 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pesca Mortal : T11 EP9 - Os Sinos do Inferno</title>
+  </programme>
+  <programme start="20241116160400 -0300" stop="20241116170100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP3 - O Urso</title>
+  </programme>
+  <programme start="20241116170100 -0300" stop="20241116180100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Perdido na Califórnia : T9 EP4 - Chita</title>
+  </programme>
+  <programme start="20241116180100 -0300" stop="20241116185300 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Puppy Bowl 15: Pré-Jogo</title>
+  </programme>
+  <programme start="20241116185300 -0300" stop="20241116194500 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Criaturas Misteriosas com Forrest Galante : T1 EP2 - O Monstro do Lago</title>
+  </programme>
+  <programme start="20241116194500 -0300" stop="20241116203700 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Extinto ou Não? : T1 EP4 - Lobo Negro da Flórida</title>
+  </programme>
+  <programme start="20241116203700 -0300" stop="20241116210400 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pequenos Gigantes da Natureza : T1 EP2 - Adorável Assassino</title>
+  </programme>
+  <programme start="20241116210400 -0300" stop="20241116213100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Pequenos Gigantes da Natureza : T1 EP9 - Roedor Infernal</title>
+  </programme>
+  <programme start="20241116213100 -0300" stop="20241116222600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP5 - SOS</title>
+  </programme>
+  <programme start="20241116222600 -0300" stop="20241116232100 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP6 - Isca de Aligátor</title>
+  </programme>
+  <programme start="20241116232100 -0300" stop="20241117001600 -0300" channel="Animal Planet 4K">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP7 - Caçadores Caçados</title>
   </programme>
 </tv>
