@@ -72,24 +72,14 @@
   </channel>
   <channel id="Discovery Kids HD">
     <display-name lang="pt">Discovery Kids HD</display-name>
-    <url>http://www.tvinside.com.br</url>
+    <icon src="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" />
+    <url>http://www.guiadatv.com</url>
   </channel>
   <channel id="TV Rá Tim Bum 4K">
     <display-name lang="pt">TV Rá Tim Bum 4K</display-name>
     <icon src="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png" />
     <url>http://www.guiadatv.com</url>
   </channel>
-  <channel id="TV Rá Tim Bum HD">
-    <display-name lang="pt">TV Rá Tim Bum HD</display-name>
-    <url>http://www.tvinside.com.br</url>
-  </channel>
-  <channel id="Zoomoo">
-    <display-name lang="pt">Zoomoo</display-name>
-    <url>http://www.vivo.com.br</url>
-  </channel>
-  <programme start="20241113183800 -0300" stop="20241113204800 -0300" channel="Cinemax 4K">
-    <title lang="pt">8mm - Oito Milímetros</title>
-  </programme>
   <programme start="20241113204800 -0300" stop="20241113223000 -0300" channel="Cinemax 4K">
     <title lang="pt">John Wick - De Volta ao Jogo</title>
   </programme>
@@ -219,9 +209,6 @@
   <programme start="20241116223000 -0300" stop="20241117005500 -0300" channel="Cinemax 4K">
     <title lang="pt">Jogos Vorazes - Em Chamas</title>
   </programme>
-  <programme start="20241113183800 -0300" stop="20241113204800 -0300" channel="Cinemax HD">
-    <title lang="pt">8mm - Oito Milímetros</title>
-  </programme>
   <programme start="20241113204800 -0300" stop="20241113223000 -0300" channel="Cinemax HD">
     <title lang="pt">John Wick - De Volta ao Jogo</title>
   </programme>
@@ -350,18 +337,6 @@
   </programme>
   <programme start="20241116223000 -0300" stop="20241117005500 -0300" channel="Cinemax HD">
     <title lang="pt">Jogos Vorazes - Em Chamas</title>
-  </programme>
-  <programme start="20241113201900 -0300" stop="20241113203000 -0300" channel="Cartoon Network 4K">
-    <title lang="pt">Ursinhos em Curso</title>
-  </programme>
-  <programme start="20241113203000 -0300" stop="20241113204200 -0300" channel="Cartoon Network 4K">
-    <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20241113204200 -0300" stop="20241113205400 -0300" channel="Cartoon Network 4K">
-    <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20241113205400 -0300" stop="20241113210500 -0300" channel="Cartoon Network 4K">
-    <title lang="pt">Irmão do Jorel</title>
   </programme>
   <programme start="20241113210500 -0300" stop="20241113211700 -0300" channel="Cartoon Network 4K">
     <title lang="pt">Clarêncio, o Otimista</title>
@@ -1233,18 +1208,6 @@
   <programme start="20241116230000 -0300" stop="20241117000000 -0300" channel="Cartoon Network 4K">
     <title lang="pt">Irmão do Jorel</title>
   </programme>
-  <programme start="20241113201900 -0300" stop="20241113203000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Ursinhos em Curso : T1 EP7 - Casa de Carnes</title>
-  </programme>
-  <programme start="20241113203000 -0300" stop="20241113204200 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20241113204200 -0300" stop="20241113205400 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Irmão do Jorel : T1 EP5 - Jornal do Quintal</title>
-  </programme>
-  <programme start="20241113205400 -0300" stop="20241113210500 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Irmão do Jorel : T3 EP16 - Carnaval a Qualquer Momento</title>
-  </programme>
   <programme start="20241113210500 -0300" stop="20241113211700 -0300" channel="Cartoon Network HD">
     <title lang="pt">Clarêncio, o Otimista : T2 EP22 - Sala de Aula</title>
   </programme>
@@ -2115,12 +2078,6 @@
   <programme start="20241116230000 -0300" stop="20241117000000 -0300" channel="Cartoon Network HD">
     <title lang="pt">Irmão do Jorel</title>
   </programme>
-  <programme start="20241113195900 -0300" stop="20241113202900 -0300" channel="Disney Channel 4K">
-    <title lang="pt">Tal Sydney, Tal Max</title>
-  </programme>
-  <programme start="20241113202900 -0300" stop="20241113210000 -0300" channel="Disney Channel 4K">
-    <title lang="pt">Os Feiticeiros de Waverly Place</title>
-  </programme>
   <programme start="20241113210000 -0300" stop="20241113212900 -0300" channel="Disney Channel 4K">
     <title lang="pt">Acampados</title>
   </programme>
@@ -2675,14 +2632,6 @@
   </programme>
   <programme start="20241116233000 -0300" stop="20241117000000 -0300" channel="Disney Channel 4K">
     <title lang="pt">Segredos em Sulphur Springs</title>
-  </programme>
-  <programme start="20241113230000 +0000" stop="20241113233000 +0000" channel="Disney Channel HD">
-    <title lang="pt">Tal Sydney, Tal Max</title>
-    <desc lang="pt">Um aluno do ensino médio e seu pai solteiro descobrem que têm mais em comum do que imaginam.(n)</desc>
-  </programme>
-  <programme start="20241113233000 +0000" stop="20241114000000 +0000" channel="Disney Channel HD">
-    <title lang="pt">Os Feiticeiros de Waverly Place</title>
-    <desc lang="pt">Alex deixa o portal para o Mundo do Feitiço aberto, e um inseto mágico entra e pica Jerry.(n)</desc>
   </programme>
   <programme start="20241114000000 +0000" stop="20241114003000 +0000" channel="Disney Channel HD">
     <title lang="pt">Acampados</title>
@@ -3560,12 +3509,6 @@
     <title lang="pt">Como Criar o Garoto Perfeito</title>
     <desc lang="pt">Gabby Harrison e Mae Hartley, duas melhores amigas sabem tudo sobre tecnologia e programam, através do computador, um garoto perfeito, mas durante o processo, acabam causando um acidente nacional.(n)</desc>
   </programme>
-  <programme start="20241113200000 -0300" stop="20241113203000 -0300" channel="Nickelodeon 4K">
-    <title lang="pt">The Thundermans : T4 EP27 - Todos os Thundermans da Presidente</title>
-  </programme>
-  <programme start="20241113203000 -0300" stop="20241113205500 -0300" channel="Nickelodeon 4K">
-    <title lang="pt">The Thundermans : T4 EP28 - Mad Max - Além do Lar Thunder</title>
-  </programme>
   <programme start="20241113205500 -0300" stop="20241113212500 -0300" channel="Nickelodeon 4K">
     <title lang="pt">Henry Danger : T4 EP18 - Soletrando</title>
   </programme>
@@ -4121,12 +4064,6 @@
   <programme start="20241116234000 -0300" stop="20241117000000 -0300" channel="Nickelodeon 4K">
     <title lang="pt">Bob Esponja, Calça Quadrada : T12 EP8 - Bob Esponja na Terra Aleatória; O Mau Hábito de Bob Esponja</title>
   </programme>
-  <programme start="20241113200000 -0300" stop="20241113203000 -0300" channel="Nickelodeon HD">
-    <title lang="pt">The Thundermans</title>
-  </programme>
-  <programme start="20241113203000 -0300" stop="20241113205500 -0300" channel="Nickelodeon HD">
-    <title lang="pt">The Thundermans</title>
-  </programme>
   <programme start="20241113205500 -0300" stop="20241113212500 -0300" channel="Nickelodeon HD">
     <title lang="pt">Henry Danger</title>
   </programme>
@@ -4681,12 +4618,6 @@
   </programme>
   <programme start="20241116234000 -0300" stop="20241117000000 -0300" channel="Nickelodeon HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-  </programme>
-  <programme start="20241113200000 -0300" stop="20241113203000 -0300" channel="Nick Jr 4K">
-    <title lang="pt">Barbapapa e Família</title>
-  </programme>
-  <programme start="20241113203000 -0300" stop="20241113205500 -0300" channel="Nick Jr 4K">
-    <title lang="pt">Baby Shark, o Grande Show!</title>
   </programme>
   <programme start="20241113205500 -0300" stop="20241113212000 -0300" channel="Nick Jr 4K">
     <title lang="pt">Patrulha Canina</title>
@@ -5333,12 +5264,6 @@
   <programme start="20241116233500 -0300" stop="20241117000000 -0300" channel="Nick Jr 4K">
     <title lang="pt">Patrulha Canina</title>
   </programme>
-  <programme start="20241113200000 -0300" stop="20241113203000 -0300" channel="Nick Jr HD">
-    <title lang="pt">Barbapapa e Família : T1 - A Árvore dos Barbapapais; O Aniversário dos Barbafilhos</title>
-  </programme>
-  <programme start="20241113203000 -0300" stop="20241113205500 -0300" channel="Nick Jr HD">
-    <title lang="pt">Baby Shark, o Grande Show! : T2 EP9 - Me Chame de Billiam; A Armadilha da Marmizade</title>
-  </programme>
   <programme start="20241113205500 -0300" stop="20241113212000 -0300" channel="Nick Jr HD">
     <title lang="pt">Patrulha Canina : T11 EP3 - Os Filhotes e uma Galinha Valente!; Os Filhotes Salvam um Concurso</title>
   </programme>
@@ -5984,12 +5909,6 @@
   <programme start="20241116233500 -0300" stop="20241117000000 -0300" channel="Nick Jr HD">
     <title lang="pt">Patrulha Canina : T1 EP21 - Os Filhotes Salvam um Morcego; Os Filhotes Salvam um Dente</title>
   </programme>
-  <programme start="20241113201000 -0300" stop="20241113203500 -0300" channel="Gloob 4K">
-    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20241113203500 -0300" stop="20241113210000 -0300" channel="Gloob 4K">
-    <title lang="pt">Miraculous - As Aventuras D</title>
-  </programme>
   <programme start="20241113210000 -0300" stop="20241113212200 -0300" channel="Gloob 4K">
     <title lang="pt">Saúdem Todos O Rei Julien</title>
   </programme>
@@ -6583,12 +6502,6 @@
   </programme>
   <programme start="20241116234700 -0300" stop="20241117001000 -0300" channel="Gloob 4K">
     <title lang="pt">Dragões: Corrida Até O Limite</title>
-  </programme>
-  <programme start="20241113201000 -0300" stop="20241113203500 -0300" channel="Gloob HD">
-    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20241113203500 -0300" stop="20241113210000 -0300" channel="Gloob HD">
-    <title lang="pt">Miraculous - As Aventuras D</title>
   </programme>
   <programme start="20241113210000 -0300" stop="20241113212200 -0300" channel="Gloob HD">
     <title lang="pt">Saúdem Todos O Rei Julien</title>
@@ -7192,18 +7105,6 @@
   </programme>
   <programme start="20241116234700 -0300" stop="20241117001000 -0300" channel="Gloob HD">
     <title lang="pt">Dragões: Corrida Até O Limite</title>
-  </programme>
-  <programme start="20241113202000 -0300" stop="20241113203000 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Go Jetters</title>
-  </programme>
-  <programme start="20241113203000 -0300" stop="20241113204500 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Go Jetters</title>
-  </programme>
-  <programme start="20241113204500 -0300" stop="20241113205500 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Vamos Brincar</title>
-  </programme>
-  <programme start="20241113205500 -0300" stop="20241113210000 -0300" channel="Gloobinho 4K">
-    <title lang="pt">Clube Da Anittinha</title>
   </programme>
   <programme start="20241113210000 -0300" stop="20241113210700 -0300" channel="Gloobinho 4K">
     <title lang="pt">As Aventuras De Miffy</title>
@@ -8638,22 +8539,6 @@
   </programme>
   <programme start="20241116235200 -0300" stop="20241117000000 -0300" channel="Gloobinho 4K">
     <title lang="pt">Senhorita Zazie</title>
-  </programme>
-  <programme start="20241113232000 +0000" stop="20241113233000 +0000" channel="Gloobinho HD">
-    <title lang="pt">Go Jetters</title>
-    <desc lang="pt">Glitch está em Nova York para um show da Broadway, mas não consegue estacionar. Então decide construir seu próprio estacionamento no Central Park. Mas essa não será uma boa ideia.(n)</desc>
-  </programme>
-  <programme start="20241113233000 +0000" stop="20241113234500 +0000" channel="Gloobinho HD">
-    <title lang="pt">Go Jetters</title>
-    <desc lang="pt">Glitch está a bordo de um trem bala e não sabe onde estão seus Grimbots. De onde estão vindo esses bipes?(n)</desc>
-  </programme>
-  <programme start="20241113234500 +0000" stop="20241113235500 +0000" channel="Gloobinho HD">
-    <title lang="pt">Vamos Brincar</title>
-    <desc lang="pt">Mônica e Magali brincam do jogo do sério até que Cebolinha faz Magali rir e acaba com a brincadeira. Então, Mônica desafia Cebolinha e isso será mais difícil do que ele imaginava.(n)</desc>
-  </programme>
-  <programme start="20241113235500 +0000" stop="20241114000000 +0000" channel="Gloobinho HD">
-    <title lang="pt">Clube Da Anittinha</title>
-    <desc lang="pt">Anittinha tenta avisar Estreller que ele está com os dentes sujos, mas sem sucesso. Ele entãoresolve fazer uma live na internet com dente sujo mesmo. Será que vai dar certo?(n)</desc>
   </programme>
   <programme start="20241114000000 +0000" stop="20241114000700 +0000" channel="Gloobinho HD">
     <title lang="pt">As Aventuras De Miffy</title>
@@ -11107,23 +10992,29 @@
     <title lang="pt">As Aventuras De Bob Zoom</title>
     <desc lang="pt">Bob Zoom é uma formiguinha azul divertida e charmosa, que brinca e vive aventuras com sua turma.(n)</desc>
   </programme>
-  <programme start="20241113201000 -0300" stop="20241113203700 -0300" channel="Discovery Kids 4K">
-    <title lang="pt">Peppa</title>
+  <programme start="20241117233000 +0000" stop="20241117233500 +0000" channel="Gloobinho HD">
+    <title lang="pt">Clube Da Anittinha</title>
+    <desc lang="pt">Renuvem faz mágicas . Marshmelle fica encantada enquanto Anittinha fica intrigada achandoque mágica não existe. Ela então sai em busca de uma resposta - será que mágica existemesmo?(n)</desc>
   </programme>
-  <programme start="20241113203700 -0300" stop="20241113204200 -0300" channel="Discovery Kids 4K">
-    <title lang="pt">Mini Beat Power Rockers</title>
+  <programme start="20241117233500 +0000" stop="20241117234000 +0000" channel="Gloobinho HD">
+    <title lang="pt">Clube Da Anittinha</title>
+    <desc lang="pt">Terrinha, o irmão mais velho de Anittinha e Renuvem, volta de um intercâmbio e os dois irmãoscomeçam a disputar a atenção da irmã mais nova. Anittinha precisa arranjar uma maneiradeles se entenderem.(n)</desc>
   </programme>
-  <programme start="20241113204200 -0300" stop="20241113204700 -0300" channel="Discovery Kids 4K">
-    <title lang="pt">Mini Beat Power Rockers</title>
+  <programme start="20241117234000 +0000" stop="20241117234500 +0000" channel="Gloobinho HD">
+    <title lang="pt">Clube Da Anittinha</title>
+    <desc lang="pt">Anittinha tenta avisar Estreller que ele está com os dentes sujos, mas sem sucesso. Ele entãoresolve fazer uma live na internet com dente sujo mesmo. Será que vai dar certo?(n)</desc>
   </programme>
-  <programme start="20241113204700 -0300" stop="20241113205200 -0300" channel="Discovery Kids 4K">
-    <title lang="pt">Mini Beat Power Rockers</title>
+  <programme start="20241117234500 +0000" stop="20241117235000 +0000" channel="Gloobinho HD">
+    <title lang="pt">Clube Da Anittinha</title>
+    <desc lang="pt">Anittinha resolve cuidar da flor de Rositcha, mas acaba se distraindo . Agora ela precisaarranjar uma maneira de fazer a florzinha voltar a ganhar vida.(n)</desc>
   </programme>
-  <programme start="20241113205200 -0300" stop="20241113205700 -0300" channel="Discovery Kids 4K">
-    <title lang="pt">Mini Beat Power Rockers</title>
+  <programme start="20241117235000 +0000" stop="20241118000000 +0000" channel="Gloobinho HD">
+    <title lang="pt">Clube Da Anittinha</title>
+    <desc lang="pt">Anittinha resolve brincar de cabana com Estreller e Juju Coral, mas cada um quer a cabanacom um tema diferente. Qual tema será que Anittinha vai querer?(n)</desc>
   </programme>
-  <programme start="20241113205700 -0300" stop="20241113210100 -0300" channel="Discovery Kids 4K">
-    <title lang="pt">Mini Beat Power Rockers</title>
+  <programme start="20241118000000 +0000" stop="20241118001500 +0000" channel="Gloobinho HD">
+    <title lang="pt">Leo, O Guarda Da Floresta</title>
+    <desc lang="pt">Os guardas descobrem um kakapo que deseja voar! Há apenas um pequeno problema: Ele é o único papagaio no mundo que não voa.(n)</desc>
   </programme>
   <programme start="20241113210100 -0300" stop="20241113212800 -0300" channel="Discovery Kids 4K">
     <title lang="pt">Madagascar - Pequenos Selvagens</title>
@@ -12190,11 +12081,1070 @@
   <programme start="20241116235800 -0300" stop="20241117002000 -0300" channel="Discovery Kids 4K">
     <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
   </programme>
-  <programme start="20241113202000 -0300" stop="20241113203000 -0300" channel="TV Rá Tim Bum 4K">
-    <title lang="pt">Nilba e os Desastronautas</title>
+  <programme start="20241113210100 -0300" stop="20241113212800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Madagascar - Pequenos Selvagens</title>
   </programme>
-  <programme start="20241113203000 -0300" stop="20241113210000 -0300" channel="TV Rá Tim Bum 4K">
-    <title lang="pt">Me Liga na Lata</title>
+  <programme start="20241113212800 -0300" stop="20241113215000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Trolls: TrollsTopia</title>
+  </programme>
+  <programme start="20241113215000 -0300" stop="20241113221700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241113221700 -0300" stop="20241113224000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241113224000 -0300" stop="20241113230700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241113230700 -0300" stop="20241113231800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ella, a Menina das Estrelas</title>
+  </programme>
+  <programme start="20241113231800 -0300" stop="20241113232900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ella, a Menina das Estrelas</title>
+  </programme>
+  <programme start="20241113232900 -0300" stop="20241113234100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241113234100 -0300" stop="20241113235700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241113235700 -0300" stop="20241114000200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114000200 -0300" stop="20241114001100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114001100 -0300" stop="20241114001600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114001600 -0300" stop="20241114002000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114002000 -0300" stop="20241114003200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20241114003200 -0300" stop="20241114004300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20241114004300 -0300" stop="20241114010500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
+  </programme>
+  <programme start="20241114010500 -0300" stop="20241114011700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241114011700 -0300" stop="20241114012800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241114012800 -0300" stop="20241114014000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241114014000 -0300" stop="20241114015200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241114015200 -0300" stop="20241114020400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241114020400 -0300" stop="20241114021600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241114021600 -0300" stop="20241114022800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241114022800 -0300" stop="20241114023900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241114023900 -0300" stop="20241114025000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241114025000 -0300" stop="20241114030100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241114030100 -0300" stop="20241114031200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241114031200 -0300" stop="20241114032300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20241114032300 -0300" stop="20241114033400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20241114033400 -0300" stop="20241114034500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20241114034500 -0300" stop="20241114035600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20241114035600 -0300" stop="20241114040700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241114040700 -0300" stop="20241114041800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241114041800 -0300" stop="20241114042900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114042900 -0300" stop="20241114044000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114044000 -0300" stop="20241114050300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241114050300 -0300" stop="20241114051500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241114051500 -0300" stop="20241114052600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241114052600 -0300" stop="20241114053700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241114053700 -0300" stop="20241114054900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241114054900 -0300" stop="20241114060000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241114060000 -0300" stop="20241114060500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114060500 -0300" stop="20241114061000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114061000 -0300" stop="20241114061500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114061500 -0300" stop="20241114062000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114062000 -0300" stop="20241114062500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114062500 -0300" stop="20241114065200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114065200 -0300" stop="20241114065700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114065700 -0300" stop="20241114070200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114070200 -0300" stop="20241114070700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114070700 -0300" stop="20241114071200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114071200 -0300" stop="20241114072300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241114072300 -0300" stop="20241114073700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241114073700 -0300" stop="20241114074800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241114074800 -0300" stop="20241114075900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20241114075900 -0300" stop="20241114081100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241114081100 -0300" stop="20241114082200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114082200 -0300" stop="20241114083300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114083300 -0300" stop="20241114084400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20241114084400 -0300" stop="20241114091000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241114091000 -0300" stop="20241114092100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Super Wish</title>
+  </programme>
+  <programme start="20241114092100 -0300" stop="20241114093200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Bicho Vai Pegar - O Chamado da Natureza</title>
+  </programme>
+  <programme start="20241114093200 -0300" stop="20241114094400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241114094400 -0300" stop="20241114100000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241114100000 -0300" stop="20241114101100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20241114101100 -0300" stop="20241114102200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241114102200 -0300" stop="20241114103300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241114103300 -0300" stop="20241114103800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114103800 -0300" stop="20241114104200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114104200 -0300" stop="20241114105000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114105000 -0300" stop="20241114105400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114105400 -0300" stop="20241114110600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio na Vila Encantada</title>
+  </programme>
+  <programme start="20241114110600 -0300" stop="20241114111700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio na Vila Encantada</title>
+  </programme>
+  <programme start="20241114111700 -0300" stop="20241114112800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241114112800 -0300" stop="20241114114200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241114114200 -0300" stop="20241114120500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114120500 -0300" stop="20241114121600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114121600 -0300" stop="20241114122700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114122700 -0300" stop="20241114124000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114124000 -0300" stop="20241114130200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20241114130200 -0300" stop="20241114132400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Três Espiãs Demais</title>
+  </programme>
+  <programme start="20241114132400 -0300" stop="20241114133500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241114133500 -0300" stop="20241114134600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241114134600 -0300" stop="20241114140000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241114140000 -0300" stop="20241114142500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+  </programme>
+  <programme start="20241114142500 -0300" stop="20241114143000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114143000 -0300" stop="20241114143400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114143400 -0300" stop="20241114143900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114143900 -0300" stop="20241114145100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20241114145100 -0300" stop="20241114150600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20241114150600 -0300" stop="20241114151700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241114151700 -0300" stop="20241114153100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241114153100 -0300" stop="20241114155800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114155800 -0300" stop="20241114160300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114160300 -0300" stop="20241114160800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114160800 -0300" stop="20241114161300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114161300 -0300" stop="20241114164000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241114164000 -0300" stop="20241114165100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20241114165100 -0300" stop="20241114170200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20241114170200 -0300" stop="20241114171300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20241114171300 -0300" stop="20241114173900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114173900 -0300" stop="20241114174400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114174400 -0300" stop="20241114180800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+  </programme>
+  <programme start="20241114180800 -0300" stop="20241114183000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20241114183000 -0300" stop="20241114185200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Três Espiãs Demais</title>
+  </programme>
+  <programme start="20241114185200 -0300" stop="20241114190800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ghostforce</title>
+  </programme>
+  <programme start="20241114190800 -0300" stop="20241114192000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Dinoster: Os Heróis Quânticos</title>
+  </programme>
+  <programme start="20241114192000 -0300" stop="20241114193400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+  </programme>
+  <programme start="20241114193400 -0300" stop="20241114194500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114194500 -0300" stop="20241114200000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241114200000 -0300" stop="20241114200500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114200500 -0300" stop="20241114201000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114201000 -0300" stop="20241114203600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114203600 -0300" stop="20241114204100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114204100 -0300" stop="20241114204600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114204600 -0300" stop="20241114205100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114205100 -0300" stop="20241114205600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114205600 -0300" stop="20241114210100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241114210100 -0300" stop="20241114212600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Madagascar - Pequenos Selvagens</title>
+  </programme>
+  <programme start="20241114212600 -0300" stop="20241114214800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Trolls: TrollsTopia</title>
+  </programme>
+  <programme start="20241114214800 -0300" stop="20241114221400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114221400 -0300" stop="20241114223700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241114223700 -0300" stop="20241114230300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241114230300 -0300" stop="20241114231500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ella, a Menina das Estrelas</title>
+  </programme>
+  <programme start="20241114231500 -0300" stop="20241114232700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ella, a Menina das Estrelas</title>
+  </programme>
+  <programme start="20241114232700 -0300" stop="20241114233900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241114233900 -0300" stop="20241114235500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241114235500 -0300" stop="20241115000000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115000000 -0300" stop="20241115000800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115000800 -0300" stop="20241115001300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115001300 -0300" stop="20241115001800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115001800 -0300" stop="20241115003000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20241115003000 -0300" stop="20241115004200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20241115004200 -0300" stop="20241115010300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
+  </programme>
+  <programme start="20241115010300 -0300" stop="20241115011500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241115011500 -0300" stop="20241115012700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241115012700 -0300" stop="20241115013900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241115013900 -0300" stop="20241115015100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241115015100 -0300" stop="20241115020300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241115020300 -0300" stop="20241115021500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241115021500 -0300" stop="20241115022700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241115022700 -0300" stop="20241115023800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241115023800 -0300" stop="20241115024900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241115024900 -0300" stop="20241115030000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241115030000 -0300" stop="20241115031100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241115031100 -0300" stop="20241115032200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20241115032200 -0300" stop="20241115033300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20241115033300 -0300" stop="20241115034400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20241115034400 -0300" stop="20241115035500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20241115035500 -0300" stop="20241115040600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241115040600 -0300" stop="20241115041700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241115041700 -0300" stop="20241115042800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115042800 -0300" stop="20241115043900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115043900 -0300" stop="20241115050200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241115050200 -0300" stop="20241115051300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241115051300 -0300" stop="20241115052400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241115052400 -0300" stop="20241115053600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241115053600 -0300" stop="20241115054800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241115054800 -0300" stop="20241115060000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241115060000 -0300" stop="20241115060500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115060500 -0300" stop="20241115061000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115061000 -0300" stop="20241115061500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115061500 -0300" stop="20241115062000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115062000 -0300" stop="20241115062500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115062500 -0300" stop="20241115065200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115065200 -0300" stop="20241115065700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115065700 -0300" stop="20241115070200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115070200 -0300" stop="20241115070700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115070700 -0300" stop="20241115071200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115071200 -0300" stop="20241115072300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241115072300 -0300" stop="20241115073700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241115073700 -0300" stop="20241115074800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241115074800 -0300" stop="20241115075900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20241115075900 -0300" stop="20241115081100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241115081100 -0300" stop="20241115082200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115082200 -0300" stop="20241115083300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115083300 -0300" stop="20241115084400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20241115084400 -0300" stop="20241115091000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115091000 -0300" stop="20241115092100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Super Wish</title>
+  </programme>
+  <programme start="20241115092100 -0300" stop="20241115093200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Bicho Vai Pegar - O Chamado da Natureza</title>
+  </programme>
+  <programme start="20241115093200 -0300" stop="20241115094400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241115094400 -0300" stop="20241115100000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241115100000 -0300" stop="20241115101100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20241115101100 -0300" stop="20241115102200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241115102200 -0300" stop="20241115103300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Irmãos Construtores e a Fábrica de Sonhos</title>
+  </programme>
+  <programme start="20241115103300 -0300" stop="20241115103800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115103800 -0300" stop="20241115104200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115104200 -0300" stop="20241115105000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115105000 -0300" stop="20241115105400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115105400 -0300" stop="20241115110600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio na Vila Encantada</title>
+  </programme>
+  <programme start="20241115110600 -0300" stop="20241115111700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio na Vila Encantada</title>
+  </programme>
+  <programme start="20241115111700 -0300" stop="20241115112800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241115112800 -0300" stop="20241115114200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241115114200 -0300" stop="20241115120500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241115120500 -0300" stop="20241115121600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115121600 -0300" stop="20241115122700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115122700 -0300" stop="20241115124000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115124000 -0300" stop="20241115130200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20241115130200 -0300" stop="20241115132400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Três Espiãs Demais</title>
+  </programme>
+  <programme start="20241115132400 -0300" stop="20241115133500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241115133500 -0300" stop="20241115134600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241115134600 -0300" stop="20241115140000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20241115140000 -0300" stop="20241115142500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+  </programme>
+  <programme start="20241115142500 -0300" stop="20241115143000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115143000 -0300" stop="20241115143400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115143400 -0300" stop="20241115143900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241115143900 -0300" stop="20241115145100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20241115145100 -0300" stop="20241115150600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20241115150600 -0300" stop="20241115151700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241115151700 -0300" stop="20241115153100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241115153100 -0300" stop="20241115155800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115155800 -0300" stop="20241115160300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115160300 -0300" stop="20241115160800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115160800 -0300" stop="20241115161300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115161300 -0300" stop="20241115164000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241115164000 -0300" stop="20241115165100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20241115165100 -0300" stop="20241115170200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20241115170200 -0300" stop="20241115171300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20241115171300 -0300" stop="20241115173900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115173900 -0300" stop="20241115174400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241115174400 -0300" stop="20241115180800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+  </programme>
+  <programme start="20241115180800 -0300" stop="20241115183000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20241115183000 -0300" stop="20241115185200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Três Espiãs Demais</title>
+  </programme>
+  <programme start="20241115185200 -0300" stop="20241115190800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ghostforce</title>
+  </programme>
+  <programme start="20241115190800 -0300" stop="20241115192000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Dinoster: Os Heróis Quânticos</title>
+  </programme>
+  <programme start="20241115192000 -0300" stop="20241115193400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+  </programme>
+  <programme start="20241115193400 -0300" stop="20241115194500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115194500 -0300" stop="20241115200000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241115200000 -0300" stop="20241115200500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115200500 -0300" stop="20241115201000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115201000 -0300" stop="20241115203600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115203600 -0300" stop="20241115213700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Zuzubalândia - O Filme</title>
+  </programme>
+  <programme start="20241115213700 -0300" stop="20241115214200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115214200 -0300" stop="20241115214700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115214700 -0300" stop="20241115221400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115221400 -0300" stop="20241115223700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241115223700 -0300" stop="20241115230300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241115230300 -0300" stop="20241115231500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ella, a Menina das Estrelas</title>
+  </programme>
+  <programme start="20241115231500 -0300" stop="20241115232700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ella, a Menina das Estrelas</title>
+  </programme>
+  <programme start="20241115232700 -0300" stop="20241115233900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241115233900 -0300" stop="20241115235500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241115235500 -0300" stop="20241116000000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116000000 -0300" stop="20241116000800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116000800 -0300" stop="20241116001300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116001300 -0300" stop="20241116001800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116001800 -0300" stop="20241116003000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20241116003000 -0300" stop="20241116004200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20241116004200 -0300" stop="20241116010300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
+  </programme>
+  <programme start="20241116010300 -0300" stop="20241116011500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241116011500 -0300" stop="20241116012700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241116012700 -0300" stop="20241116013900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241116013900 -0300" stop="20241116015100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241116015100 -0300" stop="20241116020300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116020300 -0300" stop="20241116021500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116021500 -0300" stop="20241116022700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116022700 -0300" stop="20241116023800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241116023800 -0300" stop="20241116024900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20241116024900 -0300" stop="20241116030000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241116030000 -0300" stop="20241116031100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241116031100 -0300" stop="20241116032200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20241116032200 -0300" stop="20241116033300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20241116033300 -0300" stop="20241116034400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20241116034400 -0300" stop="20241116035500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20241116035500 -0300" stop="20241116040600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241116040600 -0300" stop="20241116041700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20241116041700 -0300" stop="20241116042800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241116042800 -0300" stop="20241116043900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241116043900 -0300" stop="20241116050200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241116050200 -0300" stop="20241116051300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241116051300 -0300" stop="20241116052400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241116052400 -0300" stop="20241116053600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241116053600 -0300" stop="20241116054800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241116054800 -0300" stop="20241116060000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20241116060000 -0300" stop="20241116060500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116060500 -0300" stop="20241116061000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116061000 -0300" stop="20241116061500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116061500 -0300" stop="20241116062200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116062200 -0300" stop="20241116062700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116062700 -0300" stop="20241116063200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116063200 -0300" stop="20241116063700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116063700 -0300" stop="20241116064200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116064200 -0300" stop="20241116065300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241116065300 -0300" stop="20241116070700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Heróis</title>
+  </programme>
+  <programme start="20241116070700 -0300" stop="20241116071800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241116071800 -0300" stop="20241116072900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20241116072900 -0300" stop="20241116075500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241116075500 -0300" stop="20241116080000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116080000 -0300" stop="20241116081100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">S.M.A.S.H. - Acampamento de Super-Heróis</title>
+  </programme>
+  <programme start="20241116081100 -0300" stop="20241116082200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">S.M.A.S.H. - Acampamento de Super-Heróis</title>
+  </programme>
+  <programme start="20241116082200 -0300" stop="20241116083300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Petronix</title>
+  </programme>
+  <programme start="20241116083300 -0300" stop="20241116084500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Petronix</title>
+  </programme>
+  <programme start="20241116084500 -0300" stop="20241116085600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241116085600 -0300" stop="20241116090900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Resort Zoobak</title>
+  </programme>
+  <programme start="20241116090900 -0300" stop="20241116092000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">A Praia Canguru</title>
+  </programme>
+  <programme start="20241116092000 -0300" stop="20241116093100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">A Praia Canguru</title>
+  </programme>
+  <programme start="20241116093100 -0300" stop="20241116094200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241116094200 -0300" stop="20241116095400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116095400 -0300" stop="20241116100900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116100900 -0300" stop="20241116103200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116103200 -0300" stop="20241116105500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241116105500 -0300" stop="20241116110000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116110000 -0300" stop="20241116110500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116110500 -0300" stop="20241116113000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Trolls: TrollsTopia</title>
+  </programme>
+  <programme start="20241116113000 -0300" stop="20241116114300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Franjinha e Milena em Busca da Ciência</title>
+  </programme>
+  <programme start="20241116114300 -0300" stop="20241116115600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Franjinha e Milena em Busca da Ciência</title>
+  </programme>
+  <programme start="20241116115600 -0300" stop="20241116120700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">FriendZSpace</title>
+  </programme>
+  <programme start="20241116120700 -0300" stop="20241116121800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">FriendZSpace</title>
+  </programme>
+  <programme start="20241116121800 -0300" stop="20241116123200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">FriendZSpace</title>
+  </programme>
+  <programme start="20241116123200 -0300" stop="20241116125500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241116125500 -0300" stop="20241116131800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116131800 -0300" stop="20241116134500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116134500 -0300" stop="20241116135700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20241116135700 -0300" stop="20241116141200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20241116141200 -0300" stop="20241116143400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Trolls: TrollsTopia</title>
+  </programme>
+  <programme start="20241116143400 -0300" stop="20241116145900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Trolls: TrollsTopia</title>
+  </programme>
+  <programme start="20241116145900 -0300" stop="20241116151100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116151100 -0300" stop="20241116152300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116152300 -0300" stop="20241116153900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116153900 -0300" stop="20241116155100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20241116155100 -0300" stop="20241116160200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+  </programme>
+  <programme start="20241116160200 -0300" stop="20241116161700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+  </programme>
+  <programme start="20241116161700 -0300" stop="20241116162900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Super Wish</title>
+  </programme>
+  <programme start="20241116162900 -0300" stop="20241116165400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116165400 -0300" stop="20241116174200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers - O Filme</title>
+  </programme>
+  <programme start="20241116174200 -0300" stop="20241116174700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116174700 -0300" stop="20241116175100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116175100 -0300" stop="20241116175600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116175600 -0300" stop="20241116180400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116180400 -0300" stop="20241116180900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116180900 -0300" stop="20241116181400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20241116181400 -0300" stop="20241116182500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241116182500 -0300" stop="20241116183600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241116183600 -0300" stop="20241116184900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241116184900 -0300" stop="20241116190000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20241116190000 -0300" stop="20241116190500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116190500 -0300" stop="20241116191000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116191000 -0300" stop="20241116191500 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116191500 -0300" stop="20241116194100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241116194100 -0300" stop="20241116194600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116194600 -0300" stop="20241116195100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116195100 -0300" stop="20241116201700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116201700 -0300" stop="20241116202200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116202200 -0300" stop="20241116202700 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116202700 -0300" stop="20241116205300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241116205300 -0300" stop="20241116205800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116205800 -0300" stop="20241116210300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116210300 -0300" stop="20241116212900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20241116212900 -0300" stop="20241116213400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20241116213400 -0300" stop="20241116225200 -0300" channel="Discovery Kids HD">
+    <title lang="pt">O Fantástico Retorno a Oz</title>
+  </programme>
+  <programme start="20241116225200 -0300" stop="20241116225400 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20241116225400 -0300" stop="20241116230600 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ghostforce</title>
+  </programme>
+  <programme start="20241116230600 -0300" stop="20241116232100 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ghostforce</title>
+  </programme>
+  <programme start="20241116232100 -0300" stop="20241116233300 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Ghostforce</title>
+  </programme>
+  <programme start="20241116233300 -0300" stop="20241116235800 -0300" channel="Discovery Kids HD">
+    <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
+  </programme>
+  <programme start="20241116235800 -0300" stop="20241117002000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">100% Lobo - A Lenda da Pedra da Lua</title>
   </programme>
   <programme start="20241113210000 -0300" stop="20241113212000 -0300" channel="TV Rá Tim Bum 4K">
     <title lang="pt">DJ Cão e a Loja de Discos</title>
