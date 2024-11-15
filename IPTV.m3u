@@ -795,3 +795,5 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1274
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1275
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 01" tvg-logo="" group-title="ESPORTES ONLINE",DISNEY+ 01
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1276
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="INFANTIS",PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
