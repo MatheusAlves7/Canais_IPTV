@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MatheusAlves7/Canais_IPTV/refs/heads/main/guide.xml"
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/225
-#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="NOTICIAS",AGRO+ 4K
+#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="NOTICIAS",Agro+ 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/852
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON ESPORTES 1" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTES ONLINE",AMAZON ESPORTES 1
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1067
@@ -31,9 +31,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/767
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/342
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="" group-title="TV ABERTA",BAND MINAS UHD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/481
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="" group-title="NOTICIAS",BAND NEWS 4K
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="" group-title="NOTICIAS",Band News 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/482
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="" group-title="NOTICIAS",BAND NEWS HD
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="" group-title="NOTICIAS",Band News HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/432
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="" group-title="TV ABERTA",BAND NORDESTE UHD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/483
@@ -69,11 +69,11 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1145
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/239
 #EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",Cinemax HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/240
-#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="" group-title="NOTICIAS",CNN BRASIL 4K
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="" group-title="NOTICIAS",CNN Brasil 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/433
 #EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="" group-title="NOTICIAS",CNN ESPANHOL
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/436
-#EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="" group-title="NOTICIAS",CNN INTERNACIONAL 4K
+#EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="" group-title="NOTICIAS",CNN Internacional 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/438
 #EXTINF:-1 tvg-id="3c2effed104e917c89f95c827816efe0" tvg-name="CNT HD" tvg-logo="" group-title="NOTICIAS",CNT HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/444
@@ -205,9 +205,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/495
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/497
 #EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS HD" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TV ABERTA",GLOBO MINAS HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/772
-#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS 4K
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" tvg-logo="" group-title="NOTICIAS",Globo News 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/498
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS DF
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="" group-title="NOTICIAS",Globo News HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/445
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="" group-title="TV ABERTA",GLOBO NORDESTE 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1248
@@ -311,9 +311,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/552
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/83
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",History Channel HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/82
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS 4K
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",Jovem Pan News 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/847
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",Jovem Pan News HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/846
 #EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="" group-title="FILMES & SERIES",LIFETIME HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/269
@@ -435,7 +435,7 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/165
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/164
 #EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="" group-title="FILMES & SERIES",PRIME BOX BRASIL HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/277
-#EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" tvg-logo="" group-title="NOTICIAS",RAI ITALIA HD
+#EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" tvg-logo="" group-title="NOTICIAS",RAI Italia HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/428
 #EXTINF:-1 tvg-id="3b220cc065f34810b98141ad412a1076" tvg-name="RBI 4K" tvg-logo="" group-title="TV ABERTA",RBI 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/517
@@ -453,9 +453,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/523
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/524
 #EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS UHD" tvg-logo="" group-title="TV ABERTA",RECORD MINAS UHD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/525
-#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" tvg-logo="" group-title="NOTICIAS",RECORD NEWS HD
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" tvg-logo="" group-title="NOTICIAS",Record News HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/452
-#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="" group-title="NOTICIAS",RECORD NEWS U4K
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="" group-title="NOTICIAS",Record News 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/451
 #EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="TV ABERTA",RECORD PARANA HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/526
