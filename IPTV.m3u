@@ -79,11 +79,11 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/438
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/122
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="" group-title="ESPORTES",COMBATE HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/123
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="" group-title="ENTRETENIMENTO",COMEDY CENTRAL 4K
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="" group-title="ENTRETENIMENTO",Comedy Central 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/99
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="ENTRETENIMENTO",Comedy Central HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/98
-#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="" group-title="ENTRETENIMENTO",CURTA HD
+#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="" group-title="ENTRETENIMENTO",Curta HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/100
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 1
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/206
@@ -129,10 +129,8 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/78
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/351
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="INFANTIS",Disney Channel HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/352
-#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DOG TV HD " tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="ENTRETENIMENTO",DOG TV HD 
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DOG TV HD " tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="ENTRETENIMENTO",Dog TV HD 
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/879
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="" group-title="ENTRETENIMENTO",E! 2 HD
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/101
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/102
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! HD
@@ -161,7 +159,7 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/899
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/133
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="" group-title="ESPORTES",ESPN 6 HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/134
-#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",FASHION TV HD 
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",Fashion TV HD 
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/878
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="data:image/png;base64,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" group-title="FILMES & SERIES",FILM & ARTS HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/242
@@ -169,9 +167,9 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/242
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/79
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",Fish TV HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/80
-#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="" group-title="ENTRETENIMENTO",FOOD NETWORK 4K
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="" group-title="ENTRETENIMENTO",Food Network 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/104
-#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="ENTRETENIMENTO",FOOD NETWORK HD
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="ENTRETENIMENTO",Food Network HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/105
 #EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="ESPN 5 4K" tvg-logo="" group-title="ESPORTES",ESPN 5 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/139
@@ -241,8 +239,6 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/773
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/968
 #EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="GLOBO TV TEM SOROCABA 4K" tvg-logo="" group-title="TV ABERTA",GLOBO TV TEM SOROCABA 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/563
-#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="GLOBOSAT + UHD" tvg-logo="" group-title="ENTRETENIMENTO",GLOBOSAT + UHD
-http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/106
 #EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/gloob.png" group-title="INFANTIS",Gloob 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/357
 #EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/gloob.png" group-title="INFANTIS",Gloob HD
@@ -321,6 +317,8 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/270
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/271
 #EXTINF:-1 tvg-id="95c74b5af2e547589ddddf8829313a0b" tvg-name="MODO VIAGEM 4K" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="DOCUMENTARIOS",Modo Viagem 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/85
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIOS",Modo Viagem HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/106
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV 00s HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/430
 #EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV 4K
@@ -471,7 +469,7 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/528
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/531
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="TV ABERTA",REDE TV HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/532
-#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD " tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="ENTRETENIMENTO",SABOR & ARTE HD 
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD " tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="ENTRETENIMENTO",Sabor & Arte HD 
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/877
 #EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="" group-title="TV ABERTA",SBT 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/534
@@ -611,13 +609,13 @@ http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1121
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1122
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/319
-#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="https://logowik.com/content/uploads/images/canal-viva-2018-wordmark1192.logowik.com.webp" group-title="ENTRETENIMENTO",VIVA 4K
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="https://logowik.com/content/uploads/images/canal-viva-2018-wordmark1192.logowik.com.webp" group-title="ENTRETENIMENTO",Viva 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/114
 #EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" tvg-logo="" group-title="FILMES & SERIES",WARNER CHANNEL 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/783
 #EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="FILMES & SERIES",WARNER CHANNEL HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/320
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="" group-title="ENTRETENIMENTO",WOOHOO HD
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="" group-title="ENTRETENIMENTO",Woohoo HD
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/117
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="INFANTIS",Zoomoo 4K
 http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/370
