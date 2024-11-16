@@ -13,10 +13,10 @@
     <display-name lang="pt">Band News HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="CNN Brasil 4K">
+  <channel id="CNN Brasil">
     <display-name lang="pt">CNN Brasil 4K</display-name>
     <icon src="https://www.nowonline.com.br/img/channels/cnn_brasil.png" />
-    <url>http://www.clarotvmais.com.br</url>
+    <url>http://www.nowonline.com.br</url>
   </channel>
   <channel id="CNN Internacional 4K">
     <display-name lang="pt">CNN Internacional 4K</display-name>
@@ -1961,541 +1961,309 @@
     <title lang="pt">Jornal BandNews</title>
     <category lang="pt">Reportagem</category>
   </programme>
-  <programme start="20241116010000 +0000" stop="20241116020000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116010000 +0000" stop="20241116020000 +0000" channel="CNN Brasil">
     <title lang="pt">WW - Ao Vivo</title>
-    <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000104936_epg.jpg" />
-    <episode-num system="onscreen">S60 E320</episode-num>
-  </programme>
-  <programme start="20241116020000 +0000" stop="20241116023000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">O Grande Debate</title>
-    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000097525_epg.jpg" />
+    <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.(n)</desc>
     <episode-num system="onscreen">S62 E320</episode-num>
   </programme>
-  <programme start="20241116023000 +0000" stop="20241116030000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116020000 +0000" stop="20241116023000 +0000" channel="CNN Brasil">
+    <title lang="pt">O Grande Debate</title>
+    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.(n)</desc>
+    <episode-num system="onscreen">S63 E320</episode-num>
+  </programme>
+  <programme start="20241116023000 +0000" stop="20241116030000 +0000" channel="CNN Brasil">
     <title lang="pt">The Golf Brasil</title>
-    <desc lang="pt">The Golf Brasil traz os atletas e o mundo que rodeia o esporte, como o seu círculo de tomadores de decisão, empresários, executivos, empreendedores e personalidades ao lado de grandes marcas e grifes que tanto atraem a mídia.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114013_epg.jpg" />
+    <desc lang="pt">The Golf Brasil traz os atletas e o mundo que rodeia o esporte, como o seu círculo de tomadores de decisão, empresários, executivos, empreendedores e personalidades ao lado de grandes marcas e grifes que tanto atraem a mídia.(n)</desc>
     <episode-num system="onscreen">S63 E320</episode-num>
   </programme>
-  <programme start="20241116030000 +0000" stop="20241116050000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116030000 +0000" stop="20241116050000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Prime Time</title>
-    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
-    <episode-num system="onscreen">S63 E320</episode-num>
+    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...(n)</desc>
+    <episode-num system="onscreen">E321</episode-num>
   </programme>
-  <programme start="20241116050000 +0000" stop="20241116070000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116050000 +0000" stop="20241116070000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Arena</title>
-    <desc lang="pt">Aborda as principais notícias políticas e econômicas do dia. O programa traz bastidores, apuração e o factual do dia. Sempre com olhar afinado e análise do time da CNN Brasil para o que acontece na cena política ...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Político</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000110669_epg.jpg" />
-    <episode-num system="onscreen">S60 E321</episode-num>
-  </programme>
-  <programme start="20241116070000 +0000" stop="20241116090000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Prime Time</title>
-    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
+    <desc lang="pt">Aborda as principais notícias políticas e econômicas do dia. O programa traz bastidores, apuração e o factual do dia. Sempre com olhar afinado e análise do time da CNN Brasil para o que acontece na cena política ...(n)</desc>
     <episode-num system="onscreen">S62 E321</episode-num>
   </programme>
-  <programme start="20241116090000 +0000" stop="20241116123000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Newsroom</title>
-    <desc lang="pt">Boletim com a atualização das últimas notícias e o resumo do que foi importante no dia.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000108141_epg.jpg" />
+  <programme start="20241116070000 +0000" stop="20241116090000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time</title>
+    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...(n)</desc>
     <episode-num system="onscreen">S64 E321</episode-num>
   </programme>
-  <programme start="20241116123000 +0000" stop="20241116140000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+  <programme start="20241116090000 +0000" stop="20241116123000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Boletim com a atualização das últimas notícias e o resumo do que foi importante no dia.(n)</desc>
     <episode-num system="onscreen">S66 E321</episode-num>
   </programme>
-  <programme start="20241116140000 +0000" stop="20241116150000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">O Grande Debate - Edição Especial</title>
-    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000097525_epg.jpg" />
+  <programme start="20241116123000 +0000" stop="20241116140000 +0000" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
     <episode-num system="onscreen">S69 E321</episode-num>
   </programme>
-  <programme start="20241116150000 +0000" stop="20241116160000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+  <programme start="20241116140000 +0000" stop="20241116150000 +0000" channel="CNN Brasil">
+    <title lang="pt">O Grande Debate - Edição Especial</title>
+    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.(n)</desc>
     <episode-num system="onscreen">S61 E321</episode-num>
   </programme>
-  <programme start="20241116160000 +0000" stop="20241116164500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">WW: Edição Especial</title>
-    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000104936_epg.jpg" />
+  <programme start="20241116150000 +0000" stop="20241116160000 +0000" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
     <episode-num system="onscreen">S62 E321</episode-num>
   </programme>
-  <programme start="20241116164500 +0000" stop="20241116173000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116160000 +0000" stop="20241116164500 +0000" channel="CNN Brasil">
+    <title lang="pt">WW: Edição Especial</title>
+    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.(n)</desc>
+    <episode-num system="onscreen">S63 E321</episode-num>
+  </programme>
+  <programme start="20241116164500 +0000" stop="20241116173000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Esportes S/A: Dorival Júnior</title>
-    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112397_epg.jpg" />
+    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.(n)</desc>
     <episode-num system="onscreen">S63 E321</episode-num>
   </programme>
-  <programme start="20241116173000 +0000" stop="20241116180000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116173000 +0000" stop="20241116180000 +0000" channel="CNN Brasil">
     <title lang="pt">The Golf Brasil</title>
-    <desc lang="pt">The Golf Brasil traz os atletas e o mundo que rodeia o esporte, como o seu círculo de tomadores de decisão, empresários, executivos, empreendedores e personalidades ao lado de grandes marcas e grifes que tanto atraem a mídia.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114013_epg.jpg" />
-    <episode-num system="onscreen">S63 E321</episode-num>
-  </programme>
-  <programme start="20241116180000 +0000" stop="20241116190000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+    <desc lang="pt">The Golf Brasil traz os atletas e o mundo que rodeia o esporte, como o seu círculo de tomadores de decisão, empresários, executivos, empreendedores e personalidades ao lado de grandes marcas e grifes que tanto atraem a mídia.(n)</desc>
     <episode-num system="onscreen">S64 E321</episode-num>
   </programme>
-  <programme start="20241116190000 +0000" stop="20241116200000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">O Grande Debate - Edição Especial</title>
-    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000097525_epg.jpg" />
+  <programme start="20241116180000 +0000" stop="20241116190000 +0000" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
     <episode-num system="onscreen">S65 E321</episode-num>
   </programme>
-  <programme start="20241116200000 +0000" stop="20241116213000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+  <programme start="20241116190000 +0000" stop="20241116200000 +0000" channel="CNN Brasil">
+    <title lang="pt">O Grande Debate - Edição Especial</title>
+    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.(n)</desc>
     <episode-num system="onscreen">S66 E321</episode-num>
   </programme>
-  <programme start="20241116213000 +0000" stop="20241116223000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
-    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000098272_epg.jpg" />
+  <programme start="20241116200000 +0000" stop="20241116213000 +0000" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
     <episode-num system="onscreen">S67 E321</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241116223000 +0000" stop="20241116230000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: TDAH</title>
-    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
+  <programme start="20241116213000 +0000" stop="20241116223000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
+    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.(n)</desc>
     <episode-num system="onscreen">S18 E321</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241116230000 +0000" stop="20241117000000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116223000 +0000" stop="20241116230000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: TDAH</title>
+    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.(n)</desc>
+    <episode-num system="onscreen">S1 E31</episode-num>
+  </programme>
+  <programme start="20241116230000 +0000" stop="20241116230000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Prime Time - Edição de Sábado - Ao Vivo</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
-    <episode-num system="onscreen">S1 E31</episode-num>
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
+    <episode-num system="onscreen">E321</episode-num>
   </programme>
-  <programme start="20241117000000 +0000" stop="20241117010000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241116230000 +0000" stop="20241117000000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Edição de Sábado - Ao Vivo</title>
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
+    <episode-num system="onscreen">E321</episode-num>
+  </programme>
+  <programme start="20241117000000 +0000" stop="20241117010000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
-    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000098272_epg.jpg" />
-    <episode-num system="onscreen">S60 E321</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241117010000 +0000" stop="20241117014500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
+    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.(n)</desc>
     <episode-num system="onscreen">S21 E321</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241117014500 +0000" stop="20241117023000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241117010000 +0000" stop="20241117014500 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
     <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241117023000 +0000" stop="20241117033000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241117014500 +0000" stop="20241117023000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
+    <episode-num system="onscreen">S1 E25</episode-num>
+  </programme>
+  <programme start="20241117023000 +0000" stop="20241117033000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
-    <episode-num system="onscreen">S1 E25</episode-num>
-  </programme>
-  <programme start="20241117033000 +0000" stop="20241117040000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: TDAH</title>
-    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
     <episode-num system="onscreen">S63 E321</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241117040000 +0000" stop="20241117044500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
-    <episode-num system="onscreen">S1 E31</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241117044500 +0000" stop="20241117053000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241117053000 +0000" stop="20241117063000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Prime Time - Edição de Sábado</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
-    <episode-num system="onscreen">S1 E25</episode-num>
-  </programme>
-  <programme start="20241117063000 +0000" stop="20241117070000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241117033000 +0000" stop="20241117040000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: TDAH</title>
-    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
-    <episode-num system="onscreen">S62 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241117070000 +0000" stop="20241117080000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
-    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000098272_epg.jpg" />
+    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.(n)</desc>
     <episode-num system="onscreen">S1 E31</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241117080000 +0000" stop="20241117090000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241117040000 +0000" stop="20241117044500 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
+    <episode-num system="onscreen">S1 E25</episode-num>
+  </programme>
+  <programme start="20241117044500 +0000" stop="20241117053000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
+    <episode-num system="onscreen">S1 E25</episode-num>
+  </programme>
+  <programme start="20241117053000 +0000" stop="20241117063000 +0000" channel="CNN Brasil">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
+    <episode-num system="onscreen">S62 E322</episode-num>
+  </programme>
+  <programme start="20241117063000 +0000" stop="20241117070000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: TDAH</title>
+    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.(n)</desc>
+    <episode-num system="onscreen">S1 E31</episode-num>
+  </programme>
+  <programme start="20241117070000 +0000" stop="20241117080000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
+    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.(n)</desc>
     <episode-num system="onscreen">S4 E322</episode-num>
   </programme>
-  <programme start="20241117090000 +0000" stop="20241117123000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Newsroom</title>
-    <desc lang="pt">Boletim com a atualização das últimas notícias e o resumo do que foi importante no dia.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000108141_epg.jpg" />
+  <programme start="20241117080000 +0000" stop="20241117090000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Edição de Sábado</title>
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
     <episode-num system="onscreen">S65 E322</episode-num>
   </programme>
-  <programme start="20241117123000 +0000" stop="20241117140000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+  <programme start="20241117090000 +0000" stop="20241117123000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Boletim com a atualização das últimas notícias e o resumo do que foi importante no dia.(n)</desc>
     <episode-num system="onscreen">S66 E322</episode-num>
   </programme>
-  <programme start="20241117140000 +0000" stop="20241117150000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
-    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000098272_epg.jpg" />
-    <episode-num system="onscreen">S69 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241117150000 +0000" stop="20241117160000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241117123000 +0000" stop="20241117140000 +0000" channel="CNN Brasil">
     <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
+    <episode-num system="onscreen">S69 E322</episode-num>
+  </programme>
+  <programme start="20241117140000 +0000" stop="20241117150000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
+    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.(n)</desc>
     <episode-num system="onscreen">S11 E322</episode-num>
   </programme>
-  <programme start="20241117160000 +0000" stop="20241117180000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Domingol Com Benja - Ao Vivo</title>
-    <desc lang="pt">O Domingol com Benja vai ter muita informação, muita opinião e muita diversão, bom humor e irreverência.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112843_epg.jpg" />
+  <programme start="20241117150000 +0000" stop="20241117160000 +0000" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
     <episode-num system="onscreen">S62 E322</episode-num>
   </programme>
-  <programme start="20241117180000 +0000" stop="20241117190000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+  <programme start="20241117160000 +0000" stop="20241117180000 +0000" channel="CNN Brasil">
+    <title lang="pt">Domingol Com Benja - Ao Vivo</title>
+    <desc lang="pt">O Domingol com Benja vai ter muita informação, muita opinião e muita diversão, bom humor e irreverência.(n)</desc>
     <episode-num system="onscreen">S63 E322</episode-num>
   </programme>
-  <programme start="20241117190000 +0000" stop="20241117193000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">No Lucro CNN</title>
-    <desc lang="pt">O videocast da CNN Brasil que pergunta o que todo mundo quer saber quando o assunto é dinheiro dos famosos. Bora ficar no lucro?</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114664_epg.jpg" />
-    <episode-num system="onscreen">S65 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241117193000 +0000" stop="20241117203000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
-    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000098272_epg.jpg" />
-    <episode-num system="onscreen">S16 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241117203000 +0000" stop="20241117221500 +0000" channel="CNN Brasil 4K">
+  <programme start="20241117180000 +0000" stop="20241117190000 +0000" channel="CNN Brasil">
     <title lang="pt">Agora CNN - Ao Vivo</title>
-    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096994_epg.jpg" />
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
+    <episode-num system="onscreen">S65 E322</episode-num>
+  </programme>
+  <programme start="20241117190000 +0000" stop="20241117193000 +0000" channel="CNN Brasil">
+    <title lang="pt">No Lucro CNN</title>
+    <desc lang="pt">O videocast da CNN Brasil que pergunta o que todo mundo quer saber quando o assunto é dinheiro dos famosos. Bora ficar no lucro?(n)</desc>
     <episode-num system="onscreen">S16 E322</episode-num>
   </programme>
-  <programme start="20241117221500 +0000" stop="20241117230000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
-    <episode-num system="onscreen">S67 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
+  <programme start="20241117193000 +0000" stop="20241117203000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Entrevistas: Mauricio Lyrio</title>
+    <desc lang="pt">Assista ao CNN Entrevistas desta semana, com Mauricio Lyrio, Sherpa do Brasil para o G20.(n)</desc>
+    <episode-num system="onscreen">S16 E322</episode-num>
   </programme>
-  <programme start="20241117230000 +0000" stop="20241117234500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
+  <programme start="20241117203000 +0000" stop="20241117221500 +0000" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
+    <episode-num system="onscreen">S67 E322</episode-num>
+  </programme>
+  <programme start="20241117221500 +0000" stop="20241117230000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
     <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
-  <programme start="20241117234500 +0000" stop="20241118001500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">É Negócio: Belmiro Gomes</title>
-    <desc lang="pt">Carlos Sambarana recebe Belmiro Gomes, que é CEO do Assaí Atacadista há mais de uma década. O formato que começou para atender pequenos comerciantes tem atraído cada vez mais consumidores brasileiros.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113592_epg.jpg" />
-    <episode-num system="onscreen">S60 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
+  <programme start="20241117230000 +0000" stop="20241117234500 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
+    <episode-num system="onscreen">E322</episode-num>
   </programme>
-  <programme start="20241118001500 +0000" stop="20241118010000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Esportes S/A: Dorival Júnior</title>
-    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112397_epg.jpg" />
+  <programme start="20241117234500 +0000" stop="20241117234500 +0000" channel="CNN Brasil">
+    <title lang="pt">É Negócio: Belmiro Gomes</title>
+    <desc lang="pt">Carlos Sambarana recebe Belmiro Gomes, que é CEO do Assaí Atacadista há mais de uma década. O formato que começou para atender pequenos comerciantes tem atraído cada vez mais consumidores brasileiros.(n)</desc>
     <episode-num system="onscreen">S1 E50</episode-num>
   </programme>
-  <programme start="20241118010000 +0000" stop="20241118014500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">WW: Edição Especial</title>
-    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000104936_epg.jpg" />
+  <programme start="20241117234500 +0000" stop="20241118001500 +0000" channel="CNN Brasil">
+    <title lang="pt">É Negócio: Belmiro Gomes</title>
+    <desc lang="pt">Carlos Sambarana recebe Belmiro Gomes, que é CEO do Assaí Atacadista há mais de uma década. O formato que começou para atender pequenos comerciantes tem atraído cada vez mais consumidores brasileiros.(n)</desc>
+    <episode-num system="onscreen">S1 E50</episode-num>
+  </programme>
+  <programme start="20241118001500 +0000" stop="20241118010000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Esportes S/A: Dorival Júnior</title>
+    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.(n)</desc>
     <episode-num system="onscreen">S61 E322</episode-num>
   </programme>
-  <programme start="20241118014500 +0000" stop="20241118023000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
+  <programme start="20241118010000 +0000" stop="20241118014500 +0000" channel="CNN Brasil">
+    <title lang="pt">WW: Edição Especial</title>
+    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.(n)</desc>
     <episode-num system="onscreen">S62 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241118023000 +0000" stop="20241118031500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
+  <programme start="20241118014500 +0000" stop="20241118023000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
     <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
-  <programme start="20241118031500 +0000" stop="20241118034500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: TDAH</title>
-    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
+  <programme start="20241118023000 +0000" stop="20241118031500 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
     <episode-num system="onscreen">S63 E322</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20241118034500 +0000" stop="20241118043000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Esportes S/A: Dorival Júnior</title>
-    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112397_epg.jpg" />
+  <programme start="20241118031500 +0000" stop="20241118034500 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: TDAH</title>
+    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.(n)</desc>
     <episode-num system="onscreen">S1 E31</episode-num>
   </programme>
-  <programme start="20241118043000 +0000" stop="20241118051500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
-    <episode-num system="onscreen">S60 E323</episode-num>
+  <programme start="20241118034500 +0000" stop="20241118043000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Esportes S/A: Dorival Júnior</title>
+    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.(n)</desc>
+    <episode-num system="onscreen">E323</episode-num>
   </programme>
-  <programme start="20241118051500 +0000" stop="20241118060000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">WW: Edição Especial</title>
-    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000104936_epg.jpg" />
+  <programme start="20241118043000 +0000" stop="20241118051500 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
     <episode-num system="onscreen">S61 E323</episode-num>
   </programme>
-  <programme start="20241118060000 +0000" stop="20241118064500 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
-    <episode-num system="onscreen">S62 E323</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241118064500 +0000" stop="20241118073000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
-    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114217_epg.jpg" />
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20241118073000 +0000" stop="20241118081000 +0000" channel="CNN Brasil 4K">
+  <programme start="20241118051500 +0000" stop="20241118060000 +0000" channel="CNN Brasil">
     <title lang="pt">WW: Edição Especial</title>
-    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000104936_epg.jpg" />
+    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.(n)</desc>
+    <episode-num system="onscreen">S62 E323</episode-num>
+  </programme>
+  <programme start="20241118060000 +0000" stop="20241118064500 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
     <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
-  <programme start="20241118081000 +0000" stop="20241118090000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
-    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
+  <programme start="20241118064500 +0000" stop="20241118073000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Depressão</title>
+    <desc lang="pt">O tema do CNN Sinais Vitais da semana é depressão. Dr. Roberto Kalil recebe convidados para falar sobre o tema.(n)</desc>
+    <episode-num system="onscreen">S1 E25</episode-num>
+  </programme>
+  <programme start="20241118073000 +0000" stop="20241118081000 +0000" channel="CNN Brasil">
+    <title lang="pt">WW: Edição Especial</title>
+    <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.(n)</desc>
     <episode-num system="onscreen">S64 E323</episode-num>
   </programme>
-  <programme start="20241118090000 +0000" stop="20241118120000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Novo Dia - Ao Vivo</title>
-    <desc lang="pt">Um Novo Dia começa com Carol Nogueira apresentando as discussões políticas, os rumos da economia e do mundo.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096996_epg.jpg" />
+  <programme start="20241118081000 +0000" stop="20241118090000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Edição de Domingo</title>
+    <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...(n)</desc>
     <episode-num system="onscreen">S65 E323</episode-num>
   </programme>
-  <programme start="20241118120000 +0000" stop="20241118150000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Live CNN - Ao Vivo</title>
-    <desc lang="pt">Política, economia, tendências, comportamento, o que está \"trendando\" nas redes sociais. É o foco no conteúdo e na interação com você. É a TV na internet e a internet na TV. É o Live CNN,...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096997_epg.jpg" />
+  <programme start="20241118090000 +0000" stop="20241118120000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Novo Dia - Ao Vivo</title>
+    <desc lang="pt">Um Novo Dia começa com Carol Nogueira apresentando as discussões políticas, os rumos da economia e do mundo.(n)</desc>
     <episode-num system="onscreen">S66 E323</episode-num>
   </programme>
-  <programme start="20241118150000 +0000" stop="20241118180000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">Bastidores CNN - Ao Vivo</title>
-    <desc lang="pt">Diretamente de Brasília, Tainá Falcão e Gustavo Uribe junto do time de analistas e repórteres que circulam pelo centro do poder da capital federal trazem as notícias políticas mais quentes e relevantes sobre o País.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113161_epg.jpg" />
+  <programme start="20241118120000 +0000" stop="20241118150000 +0000" channel="CNN Brasil">
+    <title lang="pt">Live CNN - Ao Vivo</title>
+    <desc lang="pt">Política, economia, tendências, comportamento, o que está "trendando" nas redes sociais. É o foco no conteúdo e na interação com você. É a TV na internet e a internet na TV. É o Live CNN,...(n)</desc>
     <episode-num system="onscreen">S69 E323</episode-num>
   </programme>
-  <programme start="20241118180000 +0000" stop="20241118210000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN 360º - Ao Vivo</title>
-    <desc lang="pt">Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000096995_epg.jpg" />
+  <programme start="20241118150000 +0000" stop="20241118180000 +0000" channel="CNN Brasil">
+    <title lang="pt">Bastidores CNN - Ao Vivo</title>
+    <desc lang="pt">Diretamente de Brasília, Tainá Falcão e Gustavo Uribe junto do time de analistas e repórteres que circulam pelo centro do poder da capital federal trazem as notícias políticas mais quentes e relevantes sobre o País.(n)</desc>
     <episode-num system="onscreen">S62 E323</episode-num>
   </programme>
-  <programme start="20241118210000 +0000" stop="20241118230000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Arena - Ao Vivo</title>
-    <desc lang="pt">Aborda as principais notícias políticas e econômicas do dia. O programa traz bastidores exclusivos, apuração e o factual do dia. Sempre com olhar afinado e análise do time da CNN Brasil.</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Político</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000110669_epg.jpg" />
+  <programme start="20241118180000 +0000" stop="20241118210000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN 360º - Ao Vivo</title>
+    <desc lang="pt">Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real.(n)</desc>
     <episode-num system="onscreen">S65 E323</episode-num>
   </programme>
-  <programme start="20241118230000 +0000" stop="20241119010000 +0000" channel="CNN Brasil 4K">
-    <title lang="pt">CNN Prime Time - Ao Vivo</title>
-    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105723_epg.jpg" />
+  <programme start="20241118210000 +0000" stop="20241118230000 +0000" channel="CNN Brasil">
+    <title lang="pt">CNN Arena - Ao Vivo</title>
+    <desc lang="pt">Aborda as principais notícias políticas e econômicas do dia. O programa traz bastidores exclusivos, apuração e o factual do dia. Sempre com olhar afinado e análise do time da CNN Brasil.(n)</desc>
     <episode-num system="onscreen">S68 E323</episode-num>
   </programme>
   <programme start="20241115210000 -0300" stop="20241115220000 -0300" channel="CNN Internacional 4K">
