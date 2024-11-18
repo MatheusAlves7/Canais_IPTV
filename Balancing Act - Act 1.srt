@@ -1,0 +1,820 @@
+WEBVTT
+
+00:00.800 --> 00:02.533 align:left position:10% line:83% size:80%
+moving â™ª
+
+00:02.533 --> 00:04.933 align:left position:20% line:83% size:70%
+â™ª We're beating Hacker
+at his game! â™ª
+
+00:04.933 --> 00:07.400 align:left position:10% line:83% size:80%
+â™ª Don't tell me that he's trying
+to hack the Motherboard â™ª
+
+00:07.400 --> 00:08.866 align:left position:12.5% line:89% size:77.5%
+â™ª We'll get him every time! â™ª
+
+00:08.866 --> 00:10.166 align:left position:25% line:89% size:65%
+â™ª Cosmic worlds, â™ª
+
+00:10.466 --> 00:12.700 align:left position:30% line:83% size:60%
+â™ª Freaky places
+that we've seen â™ª
+
+00:12.700 --> 00:16.266 align:left position:22.5% line:83% size:67.5%
+â™ª We've got the power
+of one, two, three, four! â™ª
+
+00:16.266 --> 00:18.266 align:left position:15% line:89% size:75%
+â™ª Running in a Cyberchase â™ª
+
+00:18.266 --> 00:20.233 align:left position:10% line:89% size:80%
+â™ª We'll meet him face to face â™ª
+
+00:20.233 --> 00:23.200 align:left position:20% line:83% size:70%
+â™ª We'll stick together
+all the time! â™ª
+
+00:23.866 --> 00:25.966 align:left position:12.5% line:89% size:77.5%
+â™ª Adventures in Cyberspace â™ª
+
+00:25.966 --> 00:26.900 align:left position:22.5% line:89% size:67.5%
+â™ª The chase is on! â™ª
+
+00:26.900 --> 00:29.633 align:left position:32.5% line:83% size:57.5%
+â™ª Just wait
+and C-Y-B-E-R-Chase! â™ª
+
+00:32.933 --> 00:37.233 align:left position:40% line:77% size:50%
+<i>INEZ:
+SHARI! YOU WON
+HOW MANY SNELFUS?</i>
+
+00:37.233 --> 00:38.300 align:left position:20% line:89% size:70%
+600!
+
+00:38.300 --> 00:40.333 align:left position:10% line:83% size:80%
+ISN'T THAT RIGHT
+PROFESSOR STUMBLESNORE?
+
+00:40.333 --> 00:42.866 align:left position:65% line:83% size:25%
+600 IT IS,
+SPOTTER,
+
+00:42.866 --> 00:44.866 align:left position:45% line:89% size:45%
+NOT A SNELFU MORE!
+
+00:44.866 --> 00:48.933 align:left position:10% line:5% size:80%
+AND EVERY ONE GOES TO THE FILM
+YOU'VE BEEN CHOSEN TO MAKE:
+
+00:48.933 --> 00:51.266 align:left position:17.5% line:5% size:72.5%
+"WELCOME TO FROGSNORTS".
+
+00:51.266 --> 00:52.766 align:left position:10% line:5% size:80%
+MATT:
+YOU GET TO MAKE A MOVIE?
+
+00:52.766 --> 00:55.033 align:left position:10% line:5% size:80%
+WOW!
+HOW COOL IS THAT?!
+
+00:55.033 --> 00:56.733 align:left position:32.5% line:83% size:57.5%
+STUMBLESNORE:
+SHE HAS FOUR DAYS!
+
+00:56.733 --> 00:57.800 align:left position:32.5% line:89% size:57.5%
+COME FRIDAY,
+
+00:58.233 --> 01:00.633 align:left position:20% line:83% size:70%
+HER FILM MUST BE READY
+TO SHOW
+
+01:00.633 --> 01:02.300 align:left position:20% line:89% size:70%
+TO THE INCOMING CLASS.
+
+01:02.300 --> 01:04.866 align:left position:47.5% line:83% size:42.5%
+IT'S A BIG HONOR,
+SPOTTER,
+
+01:04.866 --> 01:08.333 align:left position:37.5% line:83% size:52.5%
+DON'T SPEND THE MONEY
+RECKLESSLY!
+
+01:08.966 --> 01:10.666 align:left position:40% line:83% size:50%
+DIGIT:
+SHEESH, FOUR DAYS!
+
+01:10.666 --> 01:11.833 align:left position:12.5% line:89% size:77.5%
+CAN YOU DO IT?
+
+01:11.833 --> 01:14.100 align:left position:50% line:83% size:40%
+YES,
+BUT I NEED HELP.
+
+01:14.100 --> 01:16.233 align:left position:32.5% line:83% size:57.5%
+I'LL BE TOO BUSY ACTING
+IN THE FILM.
+
+01:16.233 --> 01:18.566 align:left position:37.5% line:89% size:52.5%
+SO I NEED A DIRECTOR.
+
+01:18.566 --> 01:19.166 align:left position:40% line:83% size:50%
+JACKIE:
+I'LL DIRECT!
+
+01:19.166 --> 01:19.900 align:left position:42.5% line:83% size:47.5%
+MATT:
+LET ME!
+
+01:19.900 --> 01:20.800 align:left position:42.5% line:83% size:47.5%
+INEZ:
+I'LL DO IT
+
+01:20.800 --> 01:22.400 align:left position:60% line:89% size:30%
+UM...MATHEW!
+
+01:22.866 --> 01:24.200 align:left position:40% line:89% size:50%
+YOU BE THE DIRECTOR!
+
+01:24.200 --> 01:24.733 align:left position:42.5% line:89% size:47.5%
+COOL!
+
+01:25.400 --> 01:26.566 align:left position:30% line:89% size:60%
+ACTION!
+
+01:27.633 --> 01:29.033 align:left position:32.5% line:83% size:57.5%
+I KNEW SHE'D
+PICK MATT!
+
+01:29.033 --> 01:30.633 align:left position:40% line:83% size:50%
+<i>SHARI:
+INEZ, JACKIE...</i>
+
+01:30.633 --> 01:32.066 align:left position:22.5% line:89% size:67.5%
+<i>YOU BE THE WRITERS.</i>
+
+01:32.066 --> 01:33.400 align:left position:55% line:89% size:35%
+(EXCITED GASP)
+
+01:33.400 --> 01:34.566 align:left position:77.5% line:89% size:12.5%
+OKAY.
+
+01:34.566 --> 01:37.600 align:left position:25% line:83% size:65%
+BUT WHAT'LL I WEAR
+TO THE GOLDEN GLOB AWARDS?
+
+01:37.600 --> 01:40.366 align:left position:10% line:83% size:80%
+LET'S WRITE THE FILM FIRST,
+OKAY?
+
+01:40.366 --> 01:42.666 align:left position:42.5% line:83% size:47.5%
+AND DIGIT,
+YOU RUN THE CAMERA.
+
+01:42.666 --> 01:44.000 align:left position:22.5% line:89% size:67.5%
+ME? SURE!
+
+01:44.000 --> 01:46.033 align:left position:10% line:89% size:80%
+WHEN DO WE START?
+
+01:49.900 --> 01:51.133 align:left position:27.5% line:89% size:62.5%
+LISTEN TO DODIE!
+
+01:51.133 --> 01:52.233 align:left position:27.5% line:89% size:62.5%
+THIS IS DAY ONE.
+
+01:52.233 --> 01:55.100 align:left position:22.5% line:83% size:67.5%
+FIRST DAY OF SHOOTING
+HAS BEGUN!
+
+01:58.133 --> 02:00.233 align:left position:42.5% line:83% size:47.5%
+MATT:
+READY TO ROLL, DIDGE?
+
+02:00.233 --> 02:01.733 align:left position:40% line:83% size:50%
+DIGIT:
+ROLLING!
+
+02:02.666 --> 02:04.866 align:left position:40% line:83% size:50%
+<i>MATT:
+AND...ACTION!</i>
+
+02:05.266 --> 02:07.900 align:left position:20% line:83% size:70%
+WELCOME TO FROGSNORTS,
+SCHOOL OF MAGIC.
+
+02:07.900 --> 02:10.200 align:left position:15% line:89% size:75%
+THINGS ARE REALLY POPPING!
+
+02:11.866 --> 02:13.333 align:left position:27.5% line:83% size:62.5%
+YOU'LL SOON LEARN
+THAT COMING HERE
+
+02:13.333 --> 02:16.200 align:left position:22.5% line:83% size:67.5%
+WILL TURN YOUR WORLD
+UPSIDE DOWN!
+
+02:18.266 --> 02:20.466 align:left position:20% line:83% size:70%
+<i>MATT (THRU BULLHORN):
+AND...CUT!</i>
+
+02:20.466 --> 02:23.300 align:left position:25% line:83% size:65%
+<i>OKAY, EVERYBODY...
+LUNCH!</i>
+
+02:23.300 --> 02:25.566 align:left position:40% line:83% size:50%
+<i>INEZ:
+OKAY, MATTHEW...</i>
+
+02:25.566 --> 02:27.433 align:left position:22.5% line:83% size:67.5%
+WHAT HAPPENED TO ALL
+THE LINES WE WROTE
+
+02:27.433 --> 02:29.266 align:left position:20% line:89% size:70%
+ABOUT MATH AND SCIENCE?
+
+02:29.266 --> 02:30.533 align:left position:30% line:83% size:60%
+TOO MANY WORDS,
+NEZZIE.
+
+02:30.533 --> 02:32.200 align:left position:27.5% line:89% size:62.5%
+FILM IS VISUAL.
+
+02:32.200 --> 02:34.466 align:left position:17.5% line:89% size:72.5%
+I NEEDED TO LIVEN IT UP!
+
+02:34.466 --> 02:35.800 align:left position:42.5% line:83% size:47.5%
+BUZZ:
+ONE HOT CHOCOLATE!
+
+02:35.800 --> 02:38.233 align:left position:40% line:83% size:50%
+DELETE:
+WITH WHIPPED CREAM!
+
+02:41.066 --> 02:43.333 align:left position:57.5% line:83% size:32.5%
+OOPS!
+SORRY, BUZZY!
+
+02:45.466 --> 02:47.466 align:left position:10% line:83% size:80%
+HEY, IX NAY
+ON THE UZZY-BAY!
+
+02:47.466 --> 02:49.733 align:left position:10% line:83% size:80%
+WE'RE IN DISGUISE,
+REMEMBER?
+
+02:49.733 --> 02:51.766 align:left position:37.5% line:83% size:52.5%
+<i>HACKER:
+AND DON'T YOU FORGET IT!</i>
+
+02:51.766 --> 02:54.766 align:left position:10% line:83% size:80%
+I'VE HATCHED MY MOST BRILLIANT
+PLAN EVER!
+
+02:54.766 --> 02:56.033 align:left position:30% line:89% size:60%
+DON'T RUIN IT!
+
+02:57.400 --> 02:59.700 align:left position:40% line:83% size:50%
+DIGIT:
+I LOVE SHOW BUSINESS!
+
+02:59.700 --> 03:02.933 align:left position:22.5% line:83% size:67.5%
+I STILL CAN'T BELIEVE
+WE'RE MAKING A REAL FILM!
+
+03:02.933 --> 03:03.533 align:left position:37.5% line:89% size:52.5%
+(SQUAWKS)
+
+03:03.533 --> 03:04.733 align:left position:25% line:89% size:65%
+BUT LOOK AT IT ALL!
+
+03:04.733 --> 03:06.433 align:left position:17.5% line:89% size:72.5%
+THE STUFF THAT WE'VE GOT!
+
+03:06.433 --> 03:09.733 align:left position:27.5% line:83% size:62.5%
+CAN WE AFFORD IT?
+MUST COST A LOT!
+
+03:09.733 --> 03:11.066 align:left position:57.5% line:89% size:32.5%
+RELAX, DODIE!
+
+03:11.066 --> 03:13.333 align:left position:57.5% line:83% size:32.5%
+600 SNELFUS
+IS A FORTUNE!
+
+03:16.033 --> 03:18.700 align:left position:40% line:77% size:50%
+<i>MATT:
+BUT WE CAN'T HAVE
+SPENT THAT MUCH!</i>
+
+03:18.700 --> 03:20.833 align:left position:37.5% line:83% size:52.5%
+<i>JACKIE:
+I COUNTED IT FOUR TIMES!</i>
+
+03:20.833 --> 03:23.766 align:left position:10% line:89% size:80%
+<i>THERE'S ONLY 300 SNELFUS LEFT!</i>
+
+03:23.766 --> 03:26.166 align:left position:42.5% line:83% size:47.5%
+MATT:
+BUT HOW IS THAT POSSIBLE?
+
+03:26.166 --> 03:27.833 align:left position:25% line:89% size:65%
+EASY, MR. DIRECTOR!
+
+03:28.300 --> 03:30.333 align:left position:20% line:89% size:70%
+WE STARTED WITH 600...
+
+03:30.333 --> 03:32.066 align:left position:32.5% line:89% size:57.5%
+<i>SPENT 300...</i>
+
+03:32.066 --> 03:34.200 align:left position:22.5% line:89% size:67.5%
+<i>SO WE HAVE 300 LEFT!</i>
+
+03:34.200 --> 03:36.466 align:left position:12.5% line:83% size:77.5%
+WE SPENT HALF
+OF WHAT WE HAD
+
+03:36.466 --> 03:38.433 align:left position:10% line:89% size:80%
+IN JUST ONE DAY?
+
+03:38.433 --> 03:39.800 align:left position:37.5% line:83% size:52.5%
+<i>JACKIE:
+THAT'S RIGHT!</i>
+
+03:39.800 --> 03:41.833 align:left position:40% line:83% size:50%
+IF WE SPEND THE SAME
+AMOUNT TOMORROW,
+
+03:41.833 --> 03:43.733 align:left position:25% line:89% size:65%
+IT'LL BE ALL GONE!
+
+03:43.733 --> 03:45.400 align:left position:40% line:83% size:50%
+SHARI:
+THIS IS A DISASTER!
+
+03:45.400 --> 03:47.266 align:left position:37.5% line:83% size:52.5%
+WHY DON'T WE JUST ASK
+FOR MORE SNELFUS?
+
+03:47.266 --> 03:49.033 align:left position:10% line:83% size:80%
+THERE AREN'T ANYMORE,
+MATHEW.
+
+03:49.033 --> 03:51.100 align:left position:10% line:89% size:80%
+THE PROFESSOR SAID SO!
+
+03:51.100 --> 03:53.000 align:left position:15% line:83% size:75%
+WHAT WE NEED
+IS A MIRACLE.
+
+03:53.000 --> 03:53.766 align:left position:37.5% line:83% size:52.5%
+<i>JACKIE:
+WRONG!</i>
+
+03:53.766 --> 03:55.633 align:left position:20% line:89% size:70%
+WHAT WE NEED IS A PLAN!
+
+03:55.633 --> 03:58.033 align:left position:22.5% line:83% size:67.5%
+A PLAN THAT TELLS US
+HOW TO SPEND OUR MONEY,
+
+03:58.033 --> 03:59.266 align:left position:22.5% line:89% size:67.5%
+SO WE DON'T RUN OUT.
+
+03:59.266 --> 04:01.800 align:left position:25% line:83% size:65%
+A PLAN THAT WE CAN
+STICK TO!
+
+04:01.800 --> 04:03.300 align:left position:20% line:89% size:70%
+OOF. SORRY.
+
+04:04.033 --> 04:05.133 align:left position:70% line:89% size:20%
+I AGREE.
+
+04:05.133 --> 04:06.900 align:left position:45% line:83% size:45%
+WE'VE GOT TO SPEND
+A LOT LESS
+
+04:06.900 --> 04:08.366 align:left position:45% line:89% size:45%
+STARTING TOMORROW.
+
+04:08.366 --> 04:09.533 align:left position:12.5% line:89% size:77.5%
+HOW MUCH LESS?
+
+04:09.533 --> 04:11.700 align:left position:10% line:83% size:80%
+IT COSTS MONEY
+TO BE BRILLIANT!
+
+04:11.700 --> 04:13.033 align:left position:35% line:89% size:55%
+LOTS!
+
+04:13.033 --> 04:14.133 align:left position:40% line:83% size:50%
+JACKIE:
+HOLD ON,
+
+04:14.133 --> 04:16.966 align:left position:20% line:83% size:70%
+LET'S FIND OUT HOW MUCH
+WE CAN SPEND EACH DAY.
+
+04:16.966 --> 04:18.966 align:left position:12.5% line:83% size:77.5%
+WE'VE GOT FOUR SHOOTING DAYS,
+RIGHT?
+
+04:18.966 --> 04:22.966 align:left position:22.5% line:83% size:67.5%
+<i>AND WE KNOW WE SPENT
+300 SNELFUS TODAY, DAY ONE.</i>
+
+04:22.966 --> 04:27.366 align:left position:17.5% line:83% size:72.5%
+<i>SO IF WE SPEND 100 A DAY
+FOR THE NEXT THREE DAYS..</i>
+
+04:27.366 --> 04:29.766 align:left position:17.5% line:89% size:72.5%
+<i>THAT TOTALS 300 SNELFUS.</i>
+
+04:29.766 --> 04:31.566 align:left position:15% line:89% size:75%
+EXACTLY WHAT WE HAVE LEFT!
+
+04:31.566 --> 04:35.366 align:left position:42.5% line:77% size:47.5%
+MATT:
+BUT HOW CAN I MAKE A MOVIE
+FOR ONLY 100 SNELFUS A DAY?!
+
+04:35.366 --> 04:36.233 align:left position:37.5% line:89% size:52.5%
+HUH? HUH?
+
+04:41.966 --> 04:45.200 align:left position:40% line:77% size:50%
+DELETE:
+WHERE'S THAT MAGIC CHARM
+THE BOSS TOLD US TO GET?
+
+04:45.200 --> 04:49.600 align:left position:10% line:83% size:80%
+WELL, IT'S HERE IN THE CHAMBER
+OF TROLLS...SOMEWHERE.
+
+04:52.766 --> 04:54.233 align:left position:40% line:83% size:50%
+DELETE:
+YIIIKES!
+
+04:54.633 --> 04:57.400 align:left position:10% line:83% size:80%
+OKAY, OKAY...
+WE FOUND THE TROLLS.
+
+04:57.400 --> 05:00.266 align:left position:25% line:89% size:65%
+HERE IS THAT MAGIC THINGY.
+
+05:01.233 --> 05:03.033 align:left position:55% line:89% size:35%
+LET'S BEAT IT!
+
+05:04.200 --> 05:06.033 align:left position:40% line:83% size:50%
+JACKIE:
+CAN SOMEONE PLEASE TELL ME
+
+05:06.033 --> 05:08.566 align:left position:10% line:89% size:80%
+HOW WE SPENT 300 SNELFUS TODAY?
+
+05:08.566 --> 05:12.566 align:left position:17.5% line:83% size:72.5%
+WELL, I PAID THAT SNOOTY
+ART DIRECTOR TEN SNELFUS!
+
+05:12.566 --> 05:15.266 align:left position:25% line:83% size:65%
+I THINK WE ORDERED
+EXTRA HOT CHOCOLATE.
+
+05:15.266 --> 05:16.666 align:left position:22.5% line:83% size:67.5%
+DON'T FORGET THE REST
+OF THE CREW!
+
+05:16.666 --> 05:18.366 align:left position:25% line:89% size:65%
+AND THE FILM STOCK!
+
+05:18.366 --> 05:21.133 align:left position:27.5% line:83% size:62.5%
+GUYS! THIS IS WAY
+TOO CONFUSING!
+
+05:21.733 --> 05:23.666 align:left position:17.5% line:89% size:72.5%
+WE NEED TO GET ORGANIZED.
+
+05:23.666 --> 05:24.500 align:left position:37.5% line:89% size:52.5%
+LIKE HOW?
+
+05:25.000 --> 05:28.300 align:left position:40% line:77% size:50%
+JACKIE:
+WELL, LET'S MAKE CATEGORIES
+FOR OUR EXPENSES.
+
+05:28.300 --> 05:31.700 align:left position:20% line:83% size:70%
+LIKE THE ART DIRECTOR,
+THE BORGS, THE WHOLE CREW,
+
+05:31.700 --> 05:33.000 align:left position:15% line:89% size:75%
+ANYBODY WHO WORKED FOR US.
+
+05:33.000 --> 05:33.866 align:left position:35% line:89% size:55%
+OKAY THEN.
+
+05:33.866 --> 05:36.066 align:left position:25% line:83% size:65%
+THERE ARE 20 BORGS
+ON THE CREW,
+
+05:36.066 --> 05:39.433 align:left position:22.5% line:83% size:67.5%
+AND WE PAID EACH ONE
+TEN SNELFUS FOR TODAY'S WORK.
+
+05:39.433 --> 05:42.933 align:left position:40% line:77% size:50%
+JACKIE:
+20 BORGS -
+TIMES TEN SNELFUS...
+
+05:44.033 --> 05:47.200 align:left position:25% line:83% size:65%
+EQUALS 200 SNELFUS
+FOR JUST ONE DAY.
+
+05:47.200 --> 05:48.066 align:left position:40% line:89% size:50%
+YIKES!
+
+05:48.066 --> 05:50.466 align:left position:40% line:83% size:50%
+DIGIT:
+AND WE FED THE CREW, TOO.
+
+05:50.466 --> 05:52.633 align:left position:40% line:83% size:50%
+SHARI:
+AT TWO SNELFUS EACH!
+
+05:52.633 --> 05:54.500 align:left position:25% line:89% size:65%
+NEW CATEGORY: FOOD!
+
+05:54.500 --> 05:57.033 align:left position:27.5% line:83% size:62.5%
+TWO SNELFUS TIMES
+20 BORGS...
+
+05:57.033 --> 06:00.933 align:left position:15% line:83% size:75%
+<i>MEANS WE SPENT 40 SNELFUS
+FOR FOOD.</i>
+
+06:00.933 --> 06:02.133 align:left position:30% line:89% size:60%
+NEXT CATEGORY!
+
+06:02.133 --> 06:03.466 align:left position:40% line:83% size:50%
+SHARI:
+FILM STUFF!
+
+06:03.466 --> 06:05.466 align:left position:20% line:89% size:70%
+TEN SNELFUS FOR CABLES!
+
+06:05.900 --> 06:07.933 align:left position:42.5% line:77% size:47.5%
+MATT:
+30 FOR THE LIGHTS
+AND CAMERA.
+
+06:07.933 --> 06:09.800 align:left position:15% line:89% size:75%
+AND TEN CARTRIDGES OF FILM,
+
+06:09.800 --> 06:13.266 align:left position:15% line:83% size:75%
+AT TWO SNELFUS A CARTRIDGE
+EQUALS UH...
+
+06:14.133 --> 06:15.433 align:left position:45% line:89% size:45%
+20!
+
+06:15.433 --> 06:17.766 align:left position:42.5% line:83% size:47.5%
+OKAY.
+FILM STUFF CATEGORY:
+
+06:17.766 --> 06:18.833 align:left position:35% line:89% size:55%
+60 SNELFUS!
+
+06:20.333 --> 06:22.933 align:left position:32.5% line:83% size:57.5%
+<i>300 SNELFUS
+FOR CREW, FOOD,</i>
+
+06:22.933 --> 06:25.066 align:left position:27.5% line:89% size:62.5%
+<i>AND FILM STUFF!</i>
+
+06:25.066 --> 06:27.500 align:left position:40% line:77% size:50%
+SHARI:
+FINALLY, I CAN SEE WHERE
+ALL THAT MONEY WENT!
+
+06:27.500 --> 06:28.433 align:left position:40% line:83% size:50%
+JACKIE:
+YUP!
+
+06:28.433 --> 06:29.533 align:left position:22.5% line:89% size:67.5%
+NOW WE HAVE TO DECIDE
+
+06:29.533 --> 06:32.200 align:left position:22.5% line:83% size:67.5%
+WHERE THE REST IS NOT
+GOING TO GO!
+
+06:32.200 --> 06:34.633 align:left position:20% line:83% size:70%
+FINE, BUT CAN WE DO IT
+IN THE MORNING?
+
+06:34.633 --> 06:36.266 align:left position:40% line:83% size:50%
+(YAWNS)
+I'M BEAT!
+
+06:36.266 --> 06:38.333 align:left position:40% line:83% size:50%
+JACKIE:
+ALL RIGHT! GO TO SLEEP!
+
+06:38.333 --> 06:40.000 align:left position:22.5% line:83% size:67.5%
+BUT SOMEBODY'S GOTTA
+FIGURE OUT
+
+06:40.000 --> 06:43.800 align:left position:20% line:83% size:70%
+HOW TO MAKE THIS MOVIE
+FOR 100 SNELFUS A DAY!
+
+06:44.400 --> 06:47.066 align:left position:20% line:83% size:70%
+SECOND DAY OF SHOOTING
+READY TO START
+
+06:47.066 --> 06:49.266 align:left position:25% line:83% size:65%
+BUT WE'RE WATCHING
+WHAT WE SPEND NOW!
+
+06:49.266 --> 06:51.000 align:left position:22.5% line:89% size:67.5%
+CHECK OUT THE CHART!
+
+06:51.800 --> 06:53.866 align:left position:40% line:77% size:50%
+JACKIE:
+OKAY, PEOPLE,
+WE NOW HAVE A PLAN
+
+06:53.866 --> 06:57.366 align:left position:22.5% line:83% size:67.5%
+FOR SPENDING NO MORE
+THAN ONE 100 SNELFUS A DAY.
+
+06:57.366 --> 06:59.033 align:left position:22.5% line:89% size:67.5%
+IT'S CALLED A BUDGET!
+
+06:59.033 --> 07:00.933 align:left position:22.5% line:83% size:67.5%
+HERE'S HOW IT'S GOING
+TO WORK.
+
+07:00.933 --> 07:04.800 align:left position:20% line:83% size:70%
+<i>I'VE CUT DOWN THE CREW
+FROM 20 BORGS TO ONLY SIX.</i>
+
+07:04.800 --> 07:08.600 align:left position:20% line:83% size:70%
+<i>SO NOW THE CREW COSTS
+ONLY 60 SNELFUS A DAY,</i>
+
+07:08.600 --> 07:11.166 align:left position:20% line:83% size:70%
+A LOT LESS THAN THE 200
+WE SPENT YESTERDAY.
+
+07:11.166 --> 07:12.133 align:left position:40% line:83% size:50%
+<i>MATT:
+COOL!</i>
+
+07:12.133 --> 07:14.266 align:left position:30% line:83% size:60%
+<i>AND LESS CREW
+MEANS LESS FOOD!</i>
+
+07:14.266 --> 07:16.733 align:left position:20% line:83% size:70%
+AT TWO SNELFUS A HEAD -
+TIMES SIX,
+
+07:16.733 --> 07:19.433 align:left position:20% line:83% size:70%
+THAT'S ONLY 12 SNELFUS
+A DAY FOR FOOD.
+
+07:19.433 --> 07:21.966 align:left position:42.5% line:83% size:47.5%
+WAIT!
+I MADE THIS FOOD MYSELF,
+
+07:21.966 --> 07:24.300 align:left position:27.5% line:83% size:62.5%
+SO WE CAN CUT OUT
+TWO MORE SNELFUS!
+
+07:24.300 --> 07:25.833 align:left position:40% line:83% size:50%
+DIGIT:
+BEAUTIFUL!
+
+07:25.833 --> 07:30.100 align:left position:20% line:83% size:70%
+THAT CUTS THE FOOD COST
+DOWN TO TEN SNELFUS A DAY!
+
+07:30.733 --> 07:33.066 align:left position:37.5% line:83% size:52.5%
+THIS PLAN
+JUST MIGHT WORK!
+
+07:33.466 --> 07:36.466 align:left position:25% line:83% size:65%
+OKAY, BUDGET LADY,
+WE CUT OUT A LOT OF STUFF,
+
+07:36.466 --> 07:39.300 align:left position:27.5% line:83% size:62.5%
+BUT WE STILL NEED
+15 FILM CARTRIDGES A DAY,
+
+07:39.300 --> 07:40.933 align:left position:32.5% line:89% size:57.5%
+WHICH COSTS 30 SNELFUS.
+
+07:40.933 --> 07:43.400 align:left position:40% line:77% size:50%
+JACKIE:
+ALL RIGHT,
+MR. FILM DIRECTOR.
+
+07:43.400 --> 07:45.366 align:left position:25% line:83% size:65%
+DIGIT, PLEASE ENTER
+30 SNELFUS
+
+07:45.366 --> 07:46.666 align:left position:22.5% line:89% size:67.5%
+IN THE FILM CATEGORY.
+
+07:46.666 --> 07:48.166 align:left position:40% line:83% size:50%
+DIGIT:
+30 IT IS!
+
+07:50.933 --> 07:53.166 align:left position:37.5% line:83% size:52.5%
+NOW,
+ADD UP THE CATEGORIES
+
+07:53.166 --> 07:55.766 align:left position:30% line:89% size:60%
+AND WE GET A TOTAL OF...
+
+07:56.566 --> 07:59.233 align:left position:22.5% line:89% size:67.5%
+<i>100 SNELFUS PER DAY!</i>
+
+07:59.233 --> 08:00.566 align:left position:22.5% line:89% size:67.5%
+JUST WHAT I FIGURED.
+
+08:00.566 --> 08:03.800 align:left position:25% line:83% size:65%
+FILL IN DAY 3 AND 4
+THE SAME WAY DIGIT!
+
+08:03.800 --> 08:05.900 align:left position:40% line:83% size:50%
+HACKER:
+BRAVO! BRAVO!
+
+08:05.900 --> 08:08.866 align:left position:25% line:83% size:65%
+I'M TRULY IMPRESSED
+BY YOUR BUDGET!
+
+08:08.866 --> 08:09.900 align:left position:40% line:83% size:50%
+JACKIE:
+REALLY?
+
+08:09.900 --> 08:11.600 align:left position:17.5% line:89% size:72.5%
+EVEN THOUGH WE FIRED YOU?
+
+08:11.600 --> 08:13.466 align:left position:20% line:89% size:70%
+WHO CARES ABOUT MONEY?
+
+08:13.466 --> 08:14.600 align:left position:32.5% line:89% size:57.5%
+THIS IS ART!
+
+08:15.533 --> 08:18.133 align:left position:20% line:83% size:70%
+I'M STAYING ON AS YOUR
+ART DIRECTOR...
+
+08:18.133 --> 08:19.433 align:left position:30% line:89% size:60%
+FREE OF CHARGE!
+
+08:19.933 --> 08:22.166 align:left position:17.5% line:89% size:72.5%
+AND SO ARE YOUR CATERERS!
+
+08:23.800 --> 08:24.566 align:left position:42.5% line:83% size:47.5%
+MATT:
+COOL!
+
+08:24.566 --> 08:27.133 align:left position:30% line:83% size:60%
+(THRU BULLHORN)
+PLACES EVERYONE!
+
+08:27.133 --> 08:28.400 align:left position:40% line:83% size:50%
+DELETE:
+BOSS!
+
+08:28.400 --> 08:31.733 align:left position:17.5% line:83% size:72.5%
+DID YOU SAY WE'RE WORKING
+FOR NOTHIN'?
+
+08:32.100 --> 08:34.866 align:left position:10% line:83% size:80%
+ALL THAT MATTERS IS
+THAT WE STAY AROUND THE SET
+
+08:34.866 --> 08:37.933 align:left position:10% line:83% size:80%
+SO I CAN SNEAK THIS
+INTO THE FILM!
+
+08:37.933 --> 08:39.166 align:left position:22.5% line:89% size:67.5%
+<i>THE EYE OF FIG NEWT</i>
+
+08:39.166 --> 08:42.200 align:left position:12.5% line:83% size:77.5%
+<i>IS THE SECRET TO THE SUCCESS
+OF MY SCHEME!</i>
+
+08:42.200 --> 08:44.866 align:left position:20% line:83% size:70%
+<i>WITH IT, I'LL BEWITCH
+STUMBLESNORE.</i>
+
+08:44.866 --> 08:48.933 align:left position:15% line:83% size:75%
+<i>AND CONTROL EVERY STUDENT
+AT FROGSNORTS!</i>
+
+08:50.266 --> 08:52.166 align:left position:27.5% line:89% size:62.5%
+<i>(EVIL LAUGHTER)</i>
