@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="", Cyberchase
+#EXTINF:0 type="video",Cyberchase
 https://kids.pbs-video.pbs.org/videos/cyberchase/fcabb105-7472-4232-abc5-875d31b880dc/2000380111/hd-16x9-mezzanine-1080p/f2221023_cybr401-act-1_m1080-AABR-AVC-720p_520.m3u8
 
